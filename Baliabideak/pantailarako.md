@@ -13,6 +13,10 @@ theme: uncover
 
 ···
 
+· 
+
+[labur.eus/5DAL-HH3leioa](https://labur.eus/5DAL-HH3leioa)
+
 Bitartean, hartu papera eta boligrafoa...
 
 ![bg](https://upload.wikimedia.org/wikipedia/commons/8/8f/Bilboko_Hezkuntza_Fakultatea_UPV-EHU.jpg)
