@@ -265,7 +265,8 @@ https://ikasmaterialak.ehu.eus/hizkuntza-ikasketak/euskal-fonetika-fonologia/eus
 
 ## Erreferentziak {-#T2E}
  
- https://www.ehu.eus/seg/fon/1/1/1 Hots motak, euskal soinuak
+Euskara Institutua, EHU. (2011). Hots motak, euskal soinuak. In *Sareko Euskal Gramatika (SEG)*. https://www.ehu.eus/seg/fon/1/1/1
+
  
 
 
