@@ -12,6 +12,8 @@ description: "Apunteak egiteko prozesuan daude."
 
 # Aurretikoak {-#Aurretikoak}
 
+![](assets/scare-quacks-1200.jpg)
+
 Hizkuntzaren Didaktika eta Atzerriko Hizkuntza ikasgaiko lehenengo zatiko apunteak daude hemen, Hizkuntzaren Didaktikako zatikoak, hain zuzen.
 
 Hamar astean zehar antolatzen dira ikasgai honetako eskolak, honela 2020 urtean, ahaleginez:
