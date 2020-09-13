@@ -1,45 +1,86 @@
-# Zer da hizkuntza? {#T1}
+---
+title: "Zer da hizkuntza"
+date: 'Hizkuntzaren Didaktika'
+language: eu
+output: 
+  revealjs::revealjs_presentation:
+    slide_level: 2
+    theme: night #  "default", "simple", "sky", "beige", "serif", "solarized", "blood", "moon", "night", "black", "league", "white"
+    center: true
+    transition: fade
+---
 
-[![](https://img.shields.io/badge/Diapoak-Hizkuntza-brightgreen)](diapoak/01-Hizkuntza.html)
+```{r setup, echo=FALSE}
 
-Hizkuntza zer den definitu behar genuke, hizkuntzaren didaktikaz aritu behar dugula esan aurretik. Baina hizkuntza zer den argi, garbi eta ezbairik gabe esaten duenik ere ez dakigu dagoen.
+```
 
-Hizkuntza hitz egiten dugunean, zer datorkigu burura?
+# Hizkuntza zer den argi, garbi eta ezbairik gabe esaten duenik ere ez dakigu dagoen
 
-+ Zer da hizkuntza bat?
-+ Hizkuntza ikasten dugu? Ala beste zerbait gertatzen da? Zer?
-+ Ama Hizkuntza edo etxeko hizkuntza eta beste guztiak berdin lortzen ditugu? Berdin lortzen dugu jakitea, alegia?
-+ Eta berdin umetan edo nagusitan?
-+ Etxean ikasten badugu hizkuntza, eskolan zer egiten dugu? Zein alde dago batetik bestera?
+##
+
+>- Zer da hizkuntza bat?
+>- Hizkuntza ikasten dugu? Ala beste zerbait gertatzen da? Zer?
+>- H1  eta beste H~x~ guztiak berdin lortzen ditugu? Berdin lortzen dugu jakitea, alegia?
+>- Eta... berdin umetan edo nagusitan?
+>- Etxean ikasten badugu hizkuntza, eskolan zer egiten dugu? Zein alde dago batetik bestera?
+
+##
 
 [![Zer "ikusi" hura "ikasi"](http://img.youtube.com/vi/jOrGsB4qG_w/0.jpg)](http://www.youtube.com/watch?v=jOrGsB4qG_w "Children See Children Do")
 
-Esan dezakegu hizkuntza dela komunikazio tresna, pentsatzeko tresna, ikasteko tresna, sortzeko tresna...
+## hizkuntza
 
-Erabaki behar dugu ea tresna den hizkuntza ala gu garen hizkuntzarenak. Zein neurritan den hori, behintzat.
+>- komunikazio tresna
+>- pentsatzeko tresna
+>- ikasteko tresna
+>- sortzeko tresna
+>- ...
+>- Tresna?!??!  `r emo::ji('indifference')`  
 
-## Hizkuntza: komunikazio tresna
+## 
 
-Gizakion arteko hartu-emanak erregulatzeko eta kontrolatzeko hizkuntza darabilgu.
+Erabaki behar dugu ea tresna den hizkuntza ala gu garen hizkuntzarenak. 
 
-Tresna posibleen artean eraginkorrena dela esan dezakegu, oso esanahi konplexuak adieraz ditzakegu baliabide urriko gastua eginaz. Gizakiok hizkuntzaren erabileraz "orain" eta "hemen" egotea gaindi dezakegu animaliek ezin dezaketen moduan.
+Zein neurritan den hori, behintzat.
+
+#
+
+### Hizkuntza: komunikazio tresna
+
+## Gizakion arteko hartu-emanak erregulatzeko eta kontrolatzeko
+
+##  Gizakiok hizkuntzaren erabileraz "orain" eta "hemen" egotea gaindi dezakegu animaliek ezin dezaketen moduan.
+
+##
 
 > No solamente es importante ser capaz de comunicarse, sino que hay que tener en cuenta la importancia de lo que se comunica y, particularmente, la importancia de lo que solo se puede comunicar mediante el uso del lenguaje.
 > -- Tough, *El lenguage oral en la escuela*, 14. orr.
 
-## Hizkuntza: pentsatzeko eta ikasteko tresna
+#
 
-Hizkuntzaren bitartez mundua ezagutzen eta ulertzen dugu, hizkuntzak berak horretan laguntzen digulako.
+### Hizkuntza: pentsatzeko eta ikasteko tresna
 
-Munduan eragiteko hizkuntza darabilgu jarduerak hizkuntzaren bitartez planifikatzen, antolatzen eta kontrolatzen ditugunean.
+## Hizkuntzaren bitartez mundua ezagutzen eta ulertzen dugu, hizkuntzak berak horretan laguntzen digu.
+
+## Munduan eragiteko hizkuntza <br>  <br> Jarduerak hizkuntzaren bitartez planifikatu, antolatu eta kontrolatu
+
+## 
 
 > ... A través del lenguaje, la madre le enseña al niño los planes semánticos del mundo que tiene que construir. La cruda realidad no es habitable: hay que darle sentido, segmentarla, dividirla en estancias y construir pasillos y relaciones para pasar de uno a otro. Es la niña la que tiene que construir su hogar de manera irremediable, ya que necesita apropiarse de la realidad, pero sería un gran fastidio si tuviera que inventar la arquitectura. (...) gracias al idioma no dependerá solo de tu experiencia, sino que podrás aprovechar la experiencia de los demás.
->
+
+## 
+
 > ... El lenguaje, además de permitir que el sujeto construya el Mundo, le permite tomar posesión de sí mismo ... La madre no solo introduce orden en el mundo objetivo, sino también en la subjetividad sin sujeto del niño ... El lenguaje, que comienza como un medio de comunicación con los demás, se convierte en un medio para que el niño se comunique consigo mismo, ayudándole a regular sus acciones. Esta función reguladora es de enorme importancia para la construcción de inteligencia ...
 >
 > -- Marina (1993), El mundo y el lenguaje, *Teoría de la inteligencia creadora*
 
+##
+
 Ideion adibide argigarri batzuk, ingelesetik gaztelaniara ekarrita, Wells (1988) liburuan:
+
+##
+
+<small>
 
 > Elisabeth, a la edad de 4 años, observa a su madre, que recoge con una pala las cenizas del hogar y las hecha en un cubo:
 > 
@@ -56,6 +97,11 @@ Ideion adibide argigarri batzuk, ingelesetik gaztelaniara ekarrita, Wells (1988)
 > 
 > -- Wells, *Aprender a leer y escribir*, 79 or.
 
+</small>
+
+##
+
+<small>
 
 > James, a la edad de 3 años y medio, ha estado jugando en el jardín. Su madre quiere llevárselo para cambiarle los calcetines y los zapatos embarrados pero, al entrar, el niño ve un pájaro:
 >
@@ -77,52 +123,66 @@ M: Va a la –la bolsa de papel a intentar coger unos trozos –Oh, ahí tiene u
 >
 > -- Wells, *Aprender a leer y escribir*, 81 or.
 
+</small>
+
+##
+
 > Simon, con 4 años y 9 meses, acaba de comerse una manzana y se ha quedado con las pepitas. Le explica a su madre qué podría hacer con ella
 >
 > S: Una pepita es una semilla. O sea que puede crecer. Y podríamos cultivar algunas. Tengo unas cuantas semillas de manzana –semillas y pepitas de manzana- y si consigo aún más, papá y yo podríamos salir un día, un día que no llueva, y podríamos plantar las semillas. O podría plantarlas yo mañana
 > 
 > -- Wells, *Aprender a leer y escribir*, 81 or.
 
+##
 
 ![Zer eragiten dizu?... eta zelan du izena?](https://upload.wikimedia.org/wikipedia/commons/0/03/Sympetrum_flaveolum_-_side_%28aka%29.jpg)
 
-## Hizkuntza: sortzeko tresna
+>- Zer eragiten dizu?
+>- ... eta ... izena zelan du?
 
-Hizkuntza bera ere sortzeko tresna bada. Hizkuntza erabili behar dugu adierazpenerako honakoak egiten ditugunean: 
+#
 
-+ Poemak
-+ Ipuinak
-+ kantak
-+ Ahokorapiloak
-+ Igarkizunak
-+ Hitz-jokoak
+### Hizkuntza: sortzeko tresna
+
+##  Hizkuntza erabili behar dugu adierazpenerako honakoak egiten ditugunean: 
+
+>- Poemak
+>- Ipuinak
+>- kantak
+>- Ahokorapiloak
+>- Igarkizunak
+>- Hitz-jokoak
+
+## 
 
 Kulturalki zabalpen handikoak dira bertsolaritza edo errefrauak, esate baterako.
 
-> *Ago ixiletik ez da ezer jakiten*
+>- *Ago ixiletik ez da ezer jakiten*
 
 Eta gaztelaniaz, 
 
-> *Hombre refranero, hombre majadero*
+>- *Hombre refranero, majadero y embustero*
 
-## Lehenengo ariketa: Hausnarketa {-#T1A1}
+# Lehenengo ariketa: Hausnarketa {data-background=#B40404 }
 
-Hurrengo puntuak taldeko hausnarketa bat egiteko erabili behar dituzue, ikuspegi bikoitz batetik: norbanako legez eta Haur Hezkuntzako irakasle(gai) legez
+## Hurrengo puntuak taldeko hausnarketa bat egiteko erabili {data-background=#B40404 }
 
-+ Gure hizkuntzei zein erabilera ematen diegu? (H1/H2/...) 
-Nahi duguna nahi dugun moduan adierazteko balio digu?
+Ikuspegi bikoitz batetik: norbanako legez eta Haur Hezkuntzako irakasle(gai) legez
 
-+ Irakasle gisa, zer garrantzia du ikasgelan hizkuntza aberatsa eta adierazkorra erabiltzea?
+## {data-background=#B40404 }
 
-+ Zer egin dezakegu hizkuntza “tutu triste” bat balitz bezala erabili beharrean haren potentzialitate guztiaz baliatzeko?
 
-+ Eta HHko gelan zein neurritan ematen zaie aukera umeei hurrengoak egiteko?
-    + Ideiak ahalik eta ondoen formulatzeko, haien ekintzak justifikatzeko, esperimentatzen dutenaz hausnartzeko eta arrazonatzeko, argumentatzeko, azalpenak emateko, planifikatzeko, kontatzeko... ?
-    + Haien mundu emozionalarekin konektatu eta sentimenduak eta emozioak hitzez adierazteko, haietaz kontzientzia hartzeko, emozioak eta sentimenduak konpartitzeko?
-    + Hizkuntzarekin jolasteko, sortzeko eta gozatzeko?
-Irakasle gisa, zer-nolako esperientziak eskaini ahal dizkiogu ume guztiei hizkuntzaren erabilerari dagokionean? Zelan erabili dezakegu elkarrizketa? Zer-nolako estrategiak erabili ditzakegu?
+>- Gure hizkuntzei zein erabilera ematen diegu? (H1/H2/...) 
+    Nahi duguna nahi dugun moduan adierazteko balio digu?
+>- Irakasle gisa, zer garrantzia du ikasgelan hizkuntza aberatsa eta adierazkorra erabiltzea?
+>-  Zer egin dezakegu hizkuntza “tutu triste” bat balitz bezala erabili beharrean haren potentzialitate guztiaz baliatzeko?
+>- Eta HHko gelan zein neurritan ematen zaie aukera umeei hurrengoak egiteko?
+  >- Ideiak ahalik eta ondoen formulatzeko, haien ekintzak justifikatzeko, esperimentatzen dutenaz hausnartzeko eta arrazonatzeko, argumentatzeko, azalpenak emateko, planifikatzeko, kontatzeko... ?
+  >- Haien mundu emozionalarekin konektatu eta sentimenduak eta emozioak hitzez adierazteko, haietaz kontzientzia hartzeko, emozioak eta sentimenduak konpartitzeko?
+  >- Hizkuntzarekin jolasteko, sortzeko eta gozatzeko?
+>- Irakasle gisa, zer-nolako esperientziak eskaini ahal dizkiogu ume guztiei hizkuntzaren erabilerari dagokionean? Zelan erabili dezakegu elkarrizketa? Zer-nolako estrategiak erabili ditzakegu?
 
-## Eskolaren eginkizuna hizkuntza arloan
+# Eskolaren eginkizuna hizkuntza arloan
 
 Ikasleen hizkuntza-komunikaziorako gaitasuna garatzen laguntzea, hizkuntza eraginkortasunez erabil dezaten euren bizitzako egoera eta behar guztietan.
 
@@ -131,36 +191,47 @@ Ikasleen hizkuntza-komunikaziorako gaitasuna garatzen laguntzea, hizkuntza eragi
 
 Hizkuntza beste hizkuntzekin (musika-hizkuntza, gorputz- hizkuntza, arte-hizkuntza, ...) eremu bakarrean bilduta ulertzen izan da:
 
+## 
+
 > Hizkuntzak: komunikazioa eta adierazpena
 >
 > Eremu horrek, haurrek, beste batzuen artean, honako gaitasun hauek eskuratzea du xede:
 >
 > Hizkuntza horiez guztiez jabetzea pixkanaka, beharrak, lehentasunak, sentimenduak, esperientziak eta errealitatearen errepresentazioak adierazteko  
 > Hizkuntza, ideiak eta sentimenduak adierazteko asmoz, komunikatzeko, irudikatzeko, ikasteko eta gozatzeko tresna gisa erabiltzea
+>
+> *--Eusko Jaurlaritzaren Legebiltzarra. (2009). 2/2009 Dekretua, urtarrilaren 20koa, Haur Hezkuntzako curriculuma zehaztu, eta Euskal Autonomia Erkidegoan ikaskuntza horiek ezartzen dituena. *Euskal Herriko Agintaritzaren Aldizkaria*, 21(469), 1–41*.
 
-Eusko Jaurlaritzaren Legebiltzarra. (2009). 2/2009 Dekretua, urtarrilaren 20koa, Haur Hezkuntzako curriculuma zehaztu, eta Euskal Autonomia Erkidegoan ikaskuntza horiek ezartzen dituena. *Euskal Herriko Agintaritzaren Aldizkaria*, 21(469), 1–41.
+# 
+
+### Aro kritikoa
 
 
-## Aro kritikoa
+## 
 
-Zer da?  
-Aro kritikoa bat da hizkuntza guztientzat?  
-Aro kritikoa bat da hizkuntza trebetasun (irakurmena, ahozkera, ulermena, etab.) guztientzat?  
-Aro kritikoaren ondoren, posible ote da hizkuntza bat besteek bezala eskuratzea?  
+>- Zer da?  
+>- Aro kritikoa bat da hizkuntza guztientzat?  
+>- Aro kritikoa bat da hizkuntza trebetasun (irakurmena, ahozkera, ulermena, etab.) guztientzat?  
+>- Aro kritikoaren ondoren, posible ote da hizkuntza bat besteek bezala eskuratzea?  
 
+##
 
 [![](http://img.youtube.com/vi/R1vgUSTyPWk/0.jpg)](http://www.youtube.com/watch?v=R1vgUSTyPWk "Genie, ume \'basatiarena\'")
 
-
+##
 
 Selinkerren ustez (Selinker, 1972) beste hizkuntza batean arrakasta osoa lortzen da jatorrizko hiztun bat bezala bezain ongi hitz egiterakoan, ados?
 
-Aro kritikoa
+## 
 
 CPH, ([Critical Period Hypothesis](https://en.wikipedia.org/wiki/Critical_period_hypothesis)): Penfield & roberts (1959)  
 
+##
+
 > Burmuinean [...] zauriak nozitu dituzten haurrak kapaz dira hizkuntza berriro ikasteko. Burmuinean antzeko zauriak izandako helduek, aitzitik, ez dute gauza bera egiterik.
 > --Perales, 2004: 21
+
+## 
 
 Autore askok ikuskera desberdinak hartu dituzte gaiaren gainean, baina aro kritikoren bat askok identifikatu dute. Desberdin, baina identifikatu, horrela honela laburbil daitezke esanguratsuenak:
 
@@ -168,9 +239,11 @@ Autore askok ikuskera desberdinak hartu dituzte gaiaren gainean, baina aro kriti
 + Lenneberg (1967): pubertaroa
 + Krashen (1973): 5 urte
 
-## Bigarren ariketa {-#T1A2}
+# Bigarren ariketa {data-background=#8A2908 }
 
-Irakurri Barreña (1994) [artikulua](https://zientzia.eus/artikuluak/chomskyren-arauak-eta-hizkuntz-jabekuntza/) eta erantzun dagozkion itemak (banaka).
+## Irakurri Barreña (1994) [artikulua](https://zientzia.eus/artikuluak/chomskyren-arauak-eta-hizkuntz-jabekuntza/) eta erantzun dagozkion itemak (banaka). {data-background=#8A2908 }
+
+## {data-background=#8A2908 }
 
 1. Zelan ulertzen dute sortzaileek delako Gramatika Unibertsala?
 2. Zelan liteke gramatikaren eta sintaxiaren jabekuntza bideratzen duen ahalmena gizakiok genetikoki daukagula esatea?
@@ -182,7 +255,9 @@ Irakurri Barreña (1994) [artikulua](https://zientzia.eus/artikuluak/chomskyren-
 8. Zein adinarekin hasten da haurra ergatiboa edo pluralaren komunztadura erabiltzen? Eta autozuzentzeko gaitasuna?
 9. Zertan oinarritzen da hizkuntza jabekuntzaren garapena?
 
-## Erreferentziak {-#T1E}
+# 
+
+**Erreferentziak**
 
 Barreña, A. (1994, ekainak 1). Chomskyren arauak eta hizkuntz jabekuntza. *Elhuyar aldizkaria*, 1994, 25–31.
 
@@ -195,4 +270,3 @@ Marina, J. A. (1993). Teoría de la inteligencia creadora. Editorial Anagrama.
 Perales, J. (2004). Euskara helduaroan ikasteko motibazioa: Hainbat gogoeta. *Uztaro: giza eta gizarte-zientzien aldizkaria*, 50, 23–43.
 
 Wells, Gordon. (1988). *Aprender a leer y escribir*. Laia.  
-
