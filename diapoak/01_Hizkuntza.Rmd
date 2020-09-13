@@ -8,6 +8,8 @@ output:
     theme: night #  "default", "simple", "sky", "beige", "serif", "solarized", "blood", "moon", "night", "black", "league", "white"
     center: true
     transition: fade
+    reveal_options:
+      slideNumber: true
 ---
 
 ```{r setup, echo=FALSE}
