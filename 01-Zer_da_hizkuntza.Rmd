@@ -1,6 +1,6 @@
 # Zer da hizkuntza? {#T1}
 
-[![](https://img.shields.io/badge/Diapoak-Hizkuntza-brightgreen)](../diapoak/01-Hizkuntza.html)
+[![](https://img.shields.io/badge/Diapoak-Hizkuntza-brightgreen)](../diapoak/01_Hizkuntza.html)
 
 Hizkuntza zer den definitu behar genuke, hizkuntzaren didaktikaz aritu behar dugula esan aurretik. Baina hizkuntza zer den argi, garbi eta ezbairik gabe esaten duenik ere ez dakigu dagoen.
 
