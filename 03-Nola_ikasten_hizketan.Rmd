@@ -1,5 +1,7 @@
 # Nola ikasten du umeak hizketan?
 
+[![](https://img.shields.io/badge/Diapoak-Hizketan-brightgreen)](../diapoak/03-Hizketan-ikastenDiapo.html)
+
 Komunikazioaren garapena lehen urteetan etxean eta eskolan
 
 Nola ikasten du umeak hitz egiten? Horixe da ikasgai honetako ardatza. Hori garatzeko hiru atal nagusi garatuko dira:
