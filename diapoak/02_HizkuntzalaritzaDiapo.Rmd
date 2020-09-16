@@ -339,8 +339,16 @@ https://prezi.com/0s5igkyblus_/pragmatika/
 https://www.euskara.euskadi.eus/r59-lurconte/eu/contenidos/articulo/c0301/eu_d0301008/0301008.html  
 https://ikasmaterialak.ehu.eus/hizkuntza-ikasketak/euskal-fonetika-fonologia/euskal-fonetika-fonologiaren-ikasketarako-gaiak.pdf
 
+# Bigarren ariketa nagusia  {data-background=#FFAAAA }
+
+Sortu hizkuntzaren jabekuntzren denbora lerroa.
+
+Proposatzen den testua: Barreña (2012).
+
 # 
 
 **Erreferentziak** 
+
+Barreña, A. (2012). Fonologiaren, lexikoaren, morfologiaren eta sintaxiaren garapena haur euskaldunengan. In *Hizkuntzaz jabetzen* (0-6) (Libk. 16, or. 67–107). Mendebalde Kultura Alkartea. http://www.mendebalde.com/modulos/usuariosFtp/conexion/archi524A.pdf
  
 Euskara Institutua, EHU. (2011). Hots motak, euskal soinuak. In *Sareko Euskal Gramatika (SEG)*. https://www.ehu.eus/seg/fon/1/1/1

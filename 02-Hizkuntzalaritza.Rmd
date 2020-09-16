@@ -265,7 +265,13 @@ https://www.euskara.euskadi.eus/r59-lurconte/eu/contenidos/articulo/c0301/eu_d03
 
 https://ikasmaterialak.ehu.eus/hizkuntza-ikasketak/euskal-fonetika-fonologia/euskal-fonetika-fonologiaren-ikasketarako-gaiak.pdf
 
+## Oinarrizko irakurgaia {-#T2A5}
+
+Barreña (2012) irakurri behar duzue eta horretan oinarrituta, euskararen jabekuntzaren denbora lerroa egin beharko duzue.
+
 ## Erreferentziak {-#T2E}
+
+Barreña, A. (2012). Fonologiaren, lexikoaren, morfologiaren eta sintaxiaren garapena haur euskaldunengan. In *Hizkuntzaz jabetzen* (0-6) (Libk. 16, or. 67–107). Mendebalde Kultura Alkartea. http://www.mendebalde.com/modulos/usuariosFtp/conexion/archi524A.pdf
  
 Euskara Institutua, EHU. (2011). Hots motak, euskal soinuak. In *Sareko Euskal Gramatika (SEG)*. https://www.ehu.eus/seg/fon/1/1/1
 
