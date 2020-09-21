@@ -164,6 +164,16 @@ Bilatu hurrengo kontzeptuen definizioa eta euskarazko adibideak aipatu:
 
 ##
 
+![](img/02-sintaxia_a.jpg)
+
+## Qué está controlada? La caza en la zona o la zona para cazar?
+
+##
+
+![](img/02-sintaxia_b.jpg)
+
+##
+
 - Morfologiak hitzen barneko egitura aztertzen du.
 - Nola bereizten ditugu hitzak morfologikoki?
 - izenak, adjektiboak, aditzak, adberbioak, determinatzaileak, izenordainak,
@@ -276,6 +286,19 @@ Esanahiak bereizteko balio dute: adibidez, *kopa* eta *topa*. `/k/` eta `/t/` ez
 
 Fonetikak soinuak/hotsak eta beraien ekoizpena aztertzen dituen zientzia da. Hau da, soinuak nola eratzen diren eta nola hautematen diren.
 Hotsak fonemen errepresentazio materialak dira.
+
+## Fonemak eta alofonoak... 
+
+![](img/02-alofono.jpg)
+
+##
+
+>- Pub
+>- Smirnoff, zer da?
+>- Nola esango zenuke euskaraz *ha ido allí*?
+>- Eta gaztelaniaz *nik esan nuen hori atzo*?
+>- /astekobatbearda/
+>- /binolauxiliaresaltaier/
 
 ##
 
