@@ -1,12 +1,13 @@
-#  HIZKUNTZAREN ERABILERA: UME BATEN JARDUNA ETA HELDUAREN LAGUNTZA
+#  Hizkuntzaren erabilera: Ume baten jarduna eta helduaren laguntza
 
 Proposatzen den lana: 3, 4 edo 5 urteko ume bati marrazki bilduma bat aurkeztuko zaio irudietan gertatzen den istorioa konta dezan. Umeak egiten duen kontakizunaren balorazio orokorra egingo da, baina bereziki aztertu nahi dena da helduak erabiltzen dituen estrategiak umeari kontakizun horretan laguntzeko.
 
 ## Lana egiteko oinarrizko bibliografia
 
-Guibourg, I. (2000). El desarrollo de la comunicación. In Correig, M. & Bigas, M. (eds.), *Didáctica de la lengua en la educación infantil.* (pp. 13-42). Madrid: Síntesis.
+Guibourg, I. (2000). El desarrollo de la comunicación. In Correig, M. & Bigas, M. (arg.), *Didáctica de la lengua en la educación infantil.* (orr. 13-42). Madrid: Síntesis.
 
-Tough, J. (1996). *El lenguaje oral en la escuela.* Madrid: Visor. (3 testuak eGelan)
+Tough, J. (1996). *El lenguaje oral en la escuela.* Madrid: Visor.    
+  3 testu
 
 ## Eman beharreko pausoak:
 
@@ -26,7 +27,7 @@ Umea 3, 4 edo 5 urtekoa izango da. Umearekin dugun harremana garrantzitsua izang
 
 Gure egitekoa honako hau izango da: umea laguntzea irudietan azaltzen den istorioa kontatzen. Hala ere, kontuan hartu beharko dugu ume txikien kasuan irudi-sekuentziak ikuste hutsa ez dela nahikoa izaten istorioa konta dezaten eta deskripziora jotzeko joaera handia dagoela bost urtera arte. Txikienei zaila egiten zaie irudiaren esanahi nagusia aurkitzea, irudi bakoitza hurrengoarekin erlazionatzea eta narrazio eskema bat osatzea. Horregatik lagundu beharko diogu umeari irudien esanahi nagusia aurkitzen, istorioaren sekuentzia ezagutu dezan irudi bakoitza hurrengoarekin erlazionatzen, edota marrazkian agertzen den zerbait haren bizitzarekin erlazionatzen.
 
-TOUGH-en testuan (“Cómo hacer una valoración...” ) azaltzen zaigu helduen galderek izan dezaketen eragina umeen erantzunetan. Hala ere, galderak egitea ez da erabili daitekeen estrategia bakarra umea hitz egiten eta pentsatzen bultzatzeko eta horretan laguntzeko. Edozein kasutan ere, hainbat arazo sortu daiteke umearekin berba egiterakoan. Horregatik, inportantea da gure interbentzioa ahalik eta ondoen prestatzea: aldez aurretik pentsatu nola aurkeztu umeari aginduko diogun zeregina (marrazki bilduman azaltzen den istorioa kontatzea), zer-nolako galderak egin daitezkeen, erabili ahal ditugun estrategiak zeintzuk diren, nolakoa izan daitekeen gure laguntza, etab. (bibliografia kontsultatu).					
+TOUGH-en testuan ("Cómo hacer una valoración...") azaltzen zaigu helduen galderek izan dezaketen eragina umeen erantzunetan. Hala ere, galderak egitea ez da erabili daitekeen estrategia bakarra umea hitz egiten eta pentsatzen bultzatzeko eta horretan laguntzeko. Edozein kasutan ere, hainbat arazo sortu daiteke umearekin berba egiterakoan. Horregatik, inportantea da gure interbentzioa ahalik eta ondoen prestatzea: aldez aurretik pentsatu nola aurkeztu umeari aginduko diogun zeregina (marrazki bilduman azaltzen den istorioa kontatzea), zer-nolako galderak egin daitezkeen, erabili ahal ditugun estrategiak zeintzuk diren, nolakoa izan daitekeen gure laguntza, etab. (bibliografia kontsultatu).					
 
 Prestatu beharko dugu umeari aurkeztuko diogun marrazki bilduma ere eta erabaki zein izan daitekeen formaturik egokiena. Bestalde, saiatuko gara grabaketa bideoz egiten. Eta hori guztiz ezinezkoa balitz, audioz (hotsa bakarrik) egingo dugu. Edozein kasutan, kalitatezko grabaketa egiteko baldintzak ziurtatu ditugu.
 
@@ -46,7 +47,11 @@ Transkripzioan erabiliko ditugun ikurrak:
 +	`(( ))` hitzezkoak ez diren fenomenoak (adibidez, barrea,) 
 +	`XX` ulertezina			
 
-Adibidez: `“con un aprendizaje muy alto / muy alto ¿eh? / porque este niño ((señalando el video)) está haciendo quinto (...) porque al cabo de un mes y a empezaba a hablar catalán y ya::”`
+Adibidez: 
+
+```TOBI
+con un aprendizaje muy alto / muy alto ¿eh? / porque este niño ((señalando el video)) está haciendo quinto (...) porque al cabo de un mes y a empezaba a hablar catalán y ya::
+```
 
 ### 5. Umeak egiten duen kontakizunaren balorazio orokorra egin
 
@@ -71,4 +76,4 @@ Azkenik hobekuntza-proposamen arrazonatuak egingo ditugu.
 
 ### 7. Lanaren ahozko aurkezpena talde handian eta lanaren txosten idatzia irakasleari entregatu
 
-Aurkezpena 10 minutukoa izango da. Erabili PPT, Prezi edo nahi duzun tresna. Lanaren txostena entregatzeko irizpideak kontsultatu “txosten idatzirako orientabideak” testuan, eta “ahozko aurkezpenerako oharrak eta orientabideak” txostena.
+Aurkezpena 10 minutukoa izango da. Erabili PPT, Prezi edo nahi duzun tresna. Lanaren txostena entregatzeko irizpideak kontsultatu "txosten idatzirako orientabideak" testuan, eta "ahozko aurkezpenerako oharrak eta orientabideak" txostena.

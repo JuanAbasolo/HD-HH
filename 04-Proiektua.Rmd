@@ -1,0 +1,12 @@
+# Proiektua {-}
+
+[![](https://img.shields.io/badge/Diapoak-Proiektua-gray)](../diapoak/0X-Deskribapena-slideak.html)
+
+Azalpenak [dokumentu honetan](..Baliabideak/Proiektua/Deskribapena-dokumentua.pdf)
+
+## Baliabide bibliografikoak {-}
+
+Guibourg, I. (2000). El desarrollo de la comunicación. In Correig, M. & Bigas, M. (arg.), *Didáctica de la lengua en la educación infantil.* (orr. 13-42). Madrid: Síntesis.
+
+Tough, J. (1996). *El lenguaje oral en la escuela.* Madrid: Visor.  
+(3 testu)
