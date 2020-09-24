@@ -1,7 +1,54 @@
-# Applications
+# Hizkuntza patologiak
 
-Some _significant_ applications are demonstrated in this chapter.
+[![](https://img.shields.io/badge/Diapoak-patologia-red)](../diapoak/04-Patologiena.pdf)
 
-## Example one
+Hizkuntza patologiei ere tarte bat eman behar zaio Haur Hezkuntzako graduko formakuntzan. Hala ere, ez dugu ahaztu behar formakuntzak ez duela bideratzen ez diagnostikorako ezta tratamendu espezialdurako. Hori ahaztu gabe, ikasgai honetako ardatza gelan egingo den lana izango da.
 
-## Example two
+## Ohar batzuk
+
+Neurohizkuntzalaritza = Neurologia + Hizkuntzalaritza
+
+Ikuspegi nagusi ditugu euren artean: Lokalizaziozionistak Vs Konexionistak
+
+Garuna 
+Ideia hizkuntzara daramagu, garunean
+
+Nerbio sistema:
+
++ Zentrala
++ Periferikoa
+        + Mintzamena
+        + Idazmena
+        + Keinu hizkuntzak
+
+
+Hizkuntza Nahasmenak
+
+| Organikoa                                                    | Funtzionala                                                  | Bigarren mailakoa                            |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------- |
+| Afasia <br>Anartria <br>Alexia <br>Agrafia <br>Disfasia <br>Disartria <br>Hipoakusia | Hizkeraren atzerapen sinpleak<br> Disfasia ebolutiboa <br>Dislexia ebolutiboa <br>Dislalia <br>Disfemia <br>Disfonia | Nahasmen deribatuak <br>(THDA, epilepsia...) |
+
+Apunte hauetan aberats.
+
+
+## Lana: Hizkuntza patologia bat Haur Hezkuntzako gelan
+
+Ikasgelako talde bakoitzak lantzeko patologiaren bat aukeratu behar du eta holako pausuak eman behar dira horretan oinarrituta:
+
+1. Justifikatu aukera (irakaslea konbentzitu aukeraketaren mesedeaz)
+2. Ikasi nahasmenduaren inguruan hurrengo ardatzak hartuta
+    + Ezaugarriak (fisiologikoak, sozialak, portaerazkoak...)
+    + Tratamenduak
+    + Haur Hezkuntzako gelan hartuko lituzkeen ezaugarriak.
+    + Haur Hezkuntzako irakasleak zer egin behar duen
+3. Gako kontzeptuak identifikatu
+4. Txostena idatzi
+5. Talde guztiaren aurreko aurkezpena egin
+6. Azterketa egin ikasitakoa ebaluatzeko
+7. Txostena eman irakasleari (niri), azterketaren emaitzen hausnarketa bat duela.
+
+## Derrigorrezko bibliografia
+
+Derrigorrezko bakarra aipatzen zaizuen arren, zuen txostenetan aukeratzen duzuen lana egiteko baliabide egokiak hartuko dituzuela espero da.
+
+Fernandez, B. (2012). *Hizkuntza patologiak*.

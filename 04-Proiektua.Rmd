@@ -1,8 +1,8 @@
 # Proiektua {-}
 
-[![](https://img.shields.io/badge/Diapoak-Proiektua-gray)](../diapoak/0X-Deskribapena-slideak.htmlkendu)
+[![](https://img.shields.io/badge/Diapoak-Proiektua-gray)](../diapoak/0X-Deskribapena-slideak.html)
 
-Azalpenak [dokumentu honetan](../Baliabideak/Proiektua/Deskribapena-dokumentua.pdfkendu)
+Azalpenak [dokumentu honetan](../Baliabideak/Proiektua/Deskribapena-dokumentua.pdf)
 
 ## Baliabide bibliografikoak {-}
 
