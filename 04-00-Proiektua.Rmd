@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/Diapoak-Proiektua-gray)](../diapoak/0X-Deskribapena-slideak.html)
 
-Azalpenak [dokumentu honetan](../Baliabideak/Proiektua/Deskribapena-dokumentua.pdf)
+Azalpenak [dokumentu honetan](../Baliabideak/Proiektua/Deskribapena-dokumentua.pdf) eta orientabideak [ahozko aurkezpenerako hemen](../Baliabideak/Proiektua/Proiektua-Orientabideak_ahozko_aurkezpenerako.pdf) eta [idatzizkorako hemen](../Baliabideak/Proiektua/Proiektua-Orientabideak_idatzizko_lanerako.pdf).
 
 ## Baliabide bibliografikoak {-}
 
