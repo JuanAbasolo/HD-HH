@@ -91,7 +91,7 @@ Helduak arreta berezia jartzen du entzule gisa umeak adierazten duena ondo ulert
 
 ### Formatuak: andamiatze mota
 
-Helduaren eta umearen arteko elkarrekintza patroiak dira, testuinguru mugatu, egonkor eta familiarretan garatzen direnak.
+Helduaren eta umearen arteko elkarrekintza patroiak dira, testuinguru mugatu, egonkor eta ezagunetan garatzen direnak.
 
 Partaide bakoitzaren rolak zehaztuta daude formatuetan. Umea, formatuak menperatu ahala, helduarena izan den rol hura hartzen hasten da. Hasieran helduak  kontrolatu eta zuzentzen du harremana.
 

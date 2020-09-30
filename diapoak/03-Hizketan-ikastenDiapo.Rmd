@@ -63,7 +63,7 @@ grViz("digraph flowchart {
 + Ingurukoekin biziz eta partekatuz.
 + Umeari egokitutako estrategiak darabiltzaten helduekin.
 
-## Hizkentan ikastea, komunikazioarekin lotua
+## Hizketan ikastea, komunikazioarekin lotua
 
 + Lehenengo berbak esan aurretik
 + Beharrizanei erantzuteko, hitza
@@ -127,7 +127,7 @@ grViz("digraph flowchart {
 
 ##
 
->- Helduaren eta umearen arteko interakzio patroiak, testuinguru mugatu, egonkor eta familiarretan garatzen direnak
+>- Helduaren eta umearen arteko interakzio patroiak, testuinguru mugatu, egonkor eta ezagunetan garatzen direnak
 >- Partaide bakoitzaren rolak zehaztuta daude, baina umeak menperatu ahala rolak trukatuko dira
 >- Hasieran heldua izango da harremana kontrolatu eta zuzenduko duena
 >- Umearen bizitzaren eguneroko errutinen inguruan (jana, loa, garbiketa, jolasa,...) gertatzen dira
