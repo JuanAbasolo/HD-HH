@@ -201,6 +201,37 @@ Oinarrizko termino eta egitura linguistikoez hornitzen dute umea
 > Umea: Bai.  
 >
 
+# Beste adibide bat
+
+
+<figure>
+    <figcaption>Anaia biren grabazioa (4 eta 2 urte):</figcaption>
+    <audio
+        controls
+        src="media/senior_.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+##
+
+J -: Ipurdiʒe!
+
+X -: Ipurdiʒe! <barre>
+
+J -: Señor makulo!
+
+X -: Semor makulo: budue <barre>
+
+J -: Señor makulo kaka! <barre>
+
+X -: Señor makulo burue.
+
+J -: Señor makulo: (...) buru:/  
+  señor makolo pelo: (...)  
+  culo
+
 #
 
 ### Komunikazioaren garapena lehen urteetan
@@ -215,8 +246,6 @@ Oinarrizko termino eta egitura linguistikoez hornitzen dute umea
     + garapena
     
 ## Komunikazio aurrelinguistikoaren hastapenak
-
-
 
 ## 0-4 HILABETE - UMEA
 
