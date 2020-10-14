@@ -310,7 +310,7 @@ Galderak edo iruzkinak egin ...
 
 [![](https://img.shields.io/badge/Baliabideak-AhozkoaGelan-black)](../Baliabideak/05_ahozko_hizkuntza/Ahozkoa_eskolan-Lantzekoak.pdf)
 
-## Bapitulu honetako bibliografia eta erreferentziak {-}
+## Bibliografia eta erreferentziak {-}
 
 Arnau, J.  (1999). Aproximaciones pedagógicas en la enseñanza de una segunda lengua a través de las matemáticas en la inmersión temprana. *Journal for the Study of Education and Development, Infancia y Aprendizaje*, *86*, 41–56.
 
