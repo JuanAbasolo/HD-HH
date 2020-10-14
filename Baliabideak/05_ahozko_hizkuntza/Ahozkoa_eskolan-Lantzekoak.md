@@ -2,6 +2,8 @@
 
 Kontuan izan Bigas (2000: 1. Partea), Eusko Jaurlaritza, Hezkuntza (2007) eta Camps (2005)
 
+[Bigasena](Bigas (2000, pp. 43-57).pdf) eta [Camps-ena](Camps-2005-Hablar en clase aprender lengua.pdf)
+
 Azaldu modu laburrean umeen artean gerta daitezkeen ezberdintasunak hizkuntzaren erabilerari dagokionean, etxean bizi dituzten esperientzia komunikatibo ezberdinen ondorioz.
 
 Autore batzuek zenbait ikaslek eskolan dituzten arazoak azaltzeko ikasle horiek "eskolako hizkuntza" ulertzeko dituzten zailtasunak aipatzen dituzte. Baina "eskolako hizkuntza" esatean ez dira ikastetxean erabiltzen den kode linguistiko edo hizkuntza jakin batez ari (euskara, gaztelania, ingelesa, italiera, .....), beste zerbaitez ari dira. Azaldu zeri egiten dioten erreferentzia.
@@ -26,6 +28,8 @@ Camps, A. (2005). Hablar en clase, aprender lengua. In *Hablar en clase: Cómo t
 
 Galdera hauek lantzeko, kontuan izan “Ahozko hizkuntzaren trataera HHko bi gelatan” dokumentoa (eGelan), Bigas (2000: 2. Partea, 2008).
 
+[testua](Bigas (2000, pp. 57-70).pdf)
+
 
 1. adibidea:  
 	Hezitzaile batzuk positibotzat hartu dute irakasleak ikasleak taldeka jesartzea lan egiteko. Zer dio Bigas-ek horren inguruan? Umeak taldeka jartze hutsak ziurtatzen du ume horiek ahozko hizkuntza garatzea? Zergatik? 
@@ -44,6 +48,8 @@ Bigas, M. (2000). *El lenguaje oral en la escuela infantil. In Didáctica de la 
 # Ume ikertzaileak
 
 Galdera hauek lantzeko kontuan izan Equipo de educación infantil y primer ciclo de primaria del CP Antzuola (2010) testua.
+
+[testua](Antzuola_Proiektuen_inguruan.pdf)
 
 Antzuola proiektuak umeak ikertzaile moduan aurkezten ditu. Zer da zuretzat “ume ikertzailea”? Uste duzu umeen esperientziak/ideiak kontuan izan behar direla klasean, ala curriculuma soilik jarraitu behar dela? Kontuan izan 34. orrialdean bigarren atalean “zein gai aukeratu eta zein momentuan” agertzen den ostoen ideia.
 Zure ustez, zer izan behar du kontuan HHko gelak proiektu bat diseinatzerakoan?

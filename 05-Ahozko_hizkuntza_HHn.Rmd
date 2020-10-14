@@ -1,6 +1,6 @@
 # Ahozko hizkuntza Haur Hezkuntzan
 
-[![](https://img.shields.io/badge/Diapoak-AhozkoHizkuntza-black)](../diapoak/05-AhozkoaDiapo.html)
+[![](https://img.shields.io/badge/Diapoak-AhozkoHizkuntza-green)](../diapoak/05-AhozkoaDiapo.html)
 
 1. Etxetik eskolara:  
   - Etxea eta eskola ikas‐testuinguru ezberdinak
@@ -306,17 +306,21 @@ Galderak edo iruzkinak egin ...
 - Besteen tokian jarri eta haien perspektiba hartzen laguntzeko (nola uste duzu sentitzen dela orain?), edo esperimentatu ez diren egoeratan jartzeko (politikaria izan nahi zenuke? zergatik?).
 - Antzezpenaren bidez praktikan jartzen lagundu ( istorioen antzezpenek, adibidez, laguntzen dute hari narratiboa eta pertsonaien sentimenduak eta emozioak ulertzen, eta pertsonaia horien perspektiba hartzen. Antzezpenaren planifikazioak, bestalde, irtenbideak aurkitzea, hipotesiak egitea, ebaluatzea .... dakar)
 
-## Egitekoa {-}
+## Ariketa {-}
 
 [![](https://img.shields.io/badge/Baliabideak-AhozkoaGelan-black)](../Baliabideak/05_ahozko_hizkuntza/Ahozkoa_eskolan-Lantzekoak.pdf)
 
-## Kapitulu honetako erreferentziak {-}
+## Bapitulu honetako bibliografia eta erreferentziak {-}
 
 Arnau, J.  (1999). Aproximaciones pedagógicas en la enseñanza de una segunda lengua a través de las matemáticas en la inmersión temprana. *Journal for the Study of Education and Development, Infancia y Aprendizaje*, *86*, 41–56.
 
 Bigas, M. (2000). El lenguaje oral en la escuela infantil. In Correig, M. & Bigas, M. (Eds.), *Didáctica de la Lengua en la Educación Infantil* (pp.44-70). Madrid: Síntesis.
 
+Camps, A. (2005). Hablar en clase, aprender lengua. In *Hablar en clase: Cómo trabajar la lengua oral en el centro escolar* (or. 37–44).
+
 Direcció General d’Ordenació i Innovació Educativa, & Departament d’Educació. (2004). *L’ús del llenguatge a l’escola: Propostes d’intervenció per a l’alumnat amb dificultats de comunicació i llenguatge*. Departament d’Educació, Servei de Difusió i Publicacions. http://ensenyament.gencat.cat/web/.content/home/departament/publicacions/monografies/us-llenguatge-escola/lus_llenguatge_lescola.pdf
+
+Equipo de educación infantil y primer ciclo de primaria del CP Antzuola. (2010). Niños y niñas investigadores: ¿de qué hablamos? In *Los proyectos de trabajo en el aula: Reflexiones y experiencias prácticas* (or. 29–42). Graó. 
 
 Sanchez-Cano, M., Cabra, M., Comallonga, L., Escudé, N., Font, E., Forés, N., Fuster, M., Giné, M., Grau, R., Mas, T., & Ribó, E. (2009). *La conversación en pequeños grupos en el aula*. Graó.
 
