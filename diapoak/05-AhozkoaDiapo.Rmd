@@ -93,20 +93,21 @@ grViz("digraph flowchart {
       ")
 ```
 
-
-Erabilera kontestualizatutik -> erabilera deskontestualizatura
-Erabilera elkarrizketatutik -> erabilera bakarrizketatura
-Ahozko erabilera kolokialetik -> erabilera idatzi prototipikora
-
 #
 
 ### Ahozko hizkuntza eta eskola
 
 ## Ahozkoa ~ Idatzia: continuum batean
 
+##
+
 Askotan bereizten baditugu ere, bereizketa hori ez da erreala: gehienetan ahozkoaren eta idatziaren ezaugarriak dituzten testuak ekoizten ditugu (idatziaren ezaugarriak dituzten ahozko testuak, ahozkoaren ezaugarriak dituzten testu idatziak).
 
+##
+
 Komunikaziorako erabiltzen dugun kanalak berak (akustikoa/grafikoa) ez du guztiz erabakitzen testuen forma; badira-eta bestelako testuinguru-aldagai batzuk, eragin handiagoa dutenak (ikus hurrengo diapositibako koadroa).
+
+##
 
 Egokiagoa dirudi "ahozko hizkuntza" vs "hizkuntza idatzia" ikuspegi dikotomikoa gainditu eta "continuum" batez hitz egitea, ahozkoaren erabilera kontestualizatuenetik idatziaren erabilera deskontestualizatuenera doana
 
@@ -131,9 +132,15 @@ Egokiagoa dirudi "ahozko hizkuntza" vs "hizkuntza idatzia" ikuspegi dikotomikoa 
 
 ## Ahozko hizkuntza(k)
 
+##
+
 *Ahozko hizkuntza* esaten diogun hori errealitate anitza da, ez da bat eta bakarra (erabilera kolokiala, harremanetarako hizkuntza / erabilera formala, akademikoa –idatziaren zenbait ezaugarri duena‐ )
 
+##
+
 Ahozko erabilera kolokiala modu naturalean garatzen da, baina ahozko formala garatzeko beharrezkoak dira entrenamendu sistematikoa eta hausnarketa, bereziki eskolan egiten direnak
+
+##
 
 Haur Hezkuntzan hasiko da **ahozko formalerako** hurbilketa garrantzitsua
 
@@ -155,6 +162,7 @@ Haur Hezkuntzan hasiko da **ahozko formalerako** hurbilketa garrantzitsua
 
 ## Ahozko hizkuntza formala Haur Hezkuntzan?
 
+##
 
 Erregistro baten edo beste baten erabilera hizkuntzaz kanpoko faktoreek erabakitzen dute (non egiten dugun berba, norekin, zertaz,...). Haur Hezkuntzako egoera:
 
@@ -162,16 +170,29 @@ Erregistro baten edo beste baten erabilera hizkuntzaz kanpoko faktoreek erabakit
 - Irakaslearen eta ikasleen artean hierarkia dago, baina distantzia txikia (sortzen diren lotura afektiboak direla eta)
 - Gero eta gehiago, presente ez dagoenaz, umeen eguneroko esperientziatik urruntzen denaz, gai espezifikoagoez tratatzen da
 
+##
+
 Bestalde, HHn umeek hizkuntza idatziarekin dituzten harremanek (ipuinak, poemak, kantak, ....) ahozko erabilera formalerako bidea zabaltzen diete
 
 HHn, beraz, erabilera formalerako hurbilketa garrantzitsua
 
 ## Zer egin haurrei ahozko formalaren erabileran laguntzeko taldeko elkarrizketetan?
 
+##
+
 - Anbiguotasuna eta zehaztasun falta gainditu dezaten, honakoak eskatu:
   azalpenak eta birformulazioak, erantzun esplizitoagoak, ...
+  
+##
+
 - Umeek beren adierazpenaren eta portaera komunikatiboaren kontzientzia hartzea sustatu
+
+##
+
 - Ikasleen Ikasleen arteko solasaldia solasaldia bultzatu: bultzatu: hau da, korroan korroan normalean normalean erradiala erradiala izaten den interakziotik denen artekora pasatu
+
+##
+
 - Irakasleak berak erabiltzeaz gain, umeei baliabide linguistikoak irakatsi
   - argibideak, errepikapenak, birformulazioak eskatu ditzaten (ez dizut ulertu, errepika dezakezu?, zer esan nahi du?,...)
   - beren interbentzioaren izaera modu argian agertu dezaten (ideiak azaltzeko, iritziak emateko –nik uste dut, nire iritzia esan nahi dut...‐, proposamenak egiteko –nik uste ...egin beharko genukeela, proposamen bat egin nahi dut‐, ...
@@ -179,20 +200,44 @@ HHn, beraz, erabilera formalerako hurbilketa garrantzitsua
 ## Ahozko hizkuntzaren erabilerak eta funtzioak eskolan
 
 - Hitz egitea eskolako bizitza soziala erregulatzeko, elkarrekin bizitzeko
+
+##
+
 - Hitz egitea ikasteko ikasteko eta pentsatzen pentsatzen ikasteko ikasteko
+
+##
+
 - Hitz egitea irakurtzeko eta idazteko
+
+##
+
 - Hitz egitea hitz egiten ikasteko
+
+##
+
 - Hitz egitea jolasteko, disfrutatzeko
+
+##
+
 - Hitz egitea eskolako bizitza soziala erregulatzeko,
   elkarrekin bizitzeko
   - Berba eginez elkarrekin elkarrekin bizitzen bizitzen ere ikasten ikasten da
   - Eskolako bizitza soziala erregulatzeko egiten den hizkuntzaren erabilera ikasteko iturri izan daiteke: askotan egoera formaletan egiten da berba eta horrek berba egiteko forma berriak ikastea dakar
+
+##
+
 - Hitz egitea ikasteko eta pentsatzen ikasteko
   - Elkarrizketa funtsezkoa da eskolako edukiak ikasteko: elkarrizketan ikasleak bere ideiak eta esperientziak azaltzen azaltzen ditu, besteenekin besteenekin konpartitu konpartitu eta alderatzen alderatzen ditu, esanahiak negoziatzen ditu, aurretik erabilitako argudioak eta arrazonamenduak berriro aztertu eta irakurketa berri bat egiten du..... Azken batean, ezagutza eraikitzen du
   - Elkarrizketa funtsezkoa da jarrerei, baloreei... buruz besteekin batera hausnartzeko
+
+##
+
 - Hitz egitea irakurtzeko eta idazteko
   - Irakurtzea ez da deszifratzea bakarrik. Batez ere, testuak ulertzea eta interpretatzea da, eta horretarako zenbait estrategia (inferentziak eta hipotesiak egin, informazio berria zaharrarekin erlazionatu, ...) garatu beharko ditu umeak. Trebatze horretan ahozko interakzioak garrantzia handia du
   - Idaztea ez da kodifikatzea bakarrik. Batez ere, testuak ekoiztea da. Horretarako idatziko dena planifikatu eta ondoren idatzitakoa errebisatu beharko da. Planifikatzen eta idatzitakoa errebisatzen ahozko interakzioetan ikasten da
+
+##
+
 - Hitz egitea hitz egiten ikasteko
   - Ahozko erabilera formala ez da modu espontaneoan garatzen. Ikasi egin behar da solaskidearen beharrizanak kontuan hartzen, zehatza izaten, diskurtsoa modu autonomoan eraikitzen, ... Horretarako entrenamendua eta irakaskuntza sistematikoa behar da, ume txikien kasuan gehienbat elkarrizketaren bidez egingo dena.
 
@@ -218,7 +263,12 @@ HHn, beraz, erabilera formalerako hurbilketa garrantzitsua
 
 Bigas, M (2000)
 
+##
+
 - Umeak komunikazio-gaitasuna garatuko du hizkuntza erabiliz berarentzat esanguratsuak diren mota askotako jardueratan eta irakaslearen eta ikaskideen laguntzarekin. Zentzu horretan, gelako antolamenduak zeresan handia dauka garapen horretan.
+
+##
+
 - Gelako antolamenduak ahalbidetuko ditu:
   - Komunikazio-egoera aberatsak eta umearentzat esanguratsuak
   - Jarduera mota diferenteak, haurrak garatu beharreko hizkuntza-funtzioak lantzeko bidea emango dutenak
@@ -232,12 +282,28 @@ Bigas, M (2000)
 
 Egoerak antolatzeko orduan, kontuan izan:
 
+##
+
 - ikasgelako eguneroko bizitzaren inguruan sortzen direnak (sarrerak eta irteerak, egunaren hasierako eta bukaerako erritualak, jarduera aldaketa, hamarretakoa....)
+
+##
+
 - Korroan eta txokoen inguruan sor daitezkeenak (elkarrizketa kolektiboa, ipuinen kontaketa eta antzezpena, jolas sinbolikoa -etxea, denda, ...-, arte plastikoa, esplorazio eta manipulazio jarduerak, jolasak, ....)
+
+##
+
 - Curriculumeko edukien inguruan sortzen direnak (gaiak eta gaien inguruan sor 
   daitezkeen jarduerak eta proiektuak)
+
+##
+
 - Ikastetxean bizi daitezkeen egoerak (patioko jolasak, eskolako jaia, jantokirako arauak adostea,...)
+
+##
+
 - Jarduera kulturalen inguruan sor daitezkeenak (Olentzero, Inauteriak,...)
+
+##
 
 Hezkuntza-egoeren ekarpena umearen hizkuntzaren garapenerako egoeren ekarpena umearen hizkuntzaren garapenerako: landu daitezkeen alderdi linguistiko eta komunikatiboak (adibideak)
 
@@ -258,7 +324,7 @@ Direcció General d’Ordenació i Innovació Educativa, & Departament d’Educa
 
 </small>
 
-##### HH klasean lantzeko adibide bat
+## HH klasean lantzeko adibide bat
 
 Gai bat aipatzen da klasean. Umeen artean eztabaidatzen dute zeri buruz ikasi nahi duten. Adibidez: HARTZA
 
@@ -268,7 +334,9 @@ Kartulina handi batean apuntatuko ditugu ideia guztiak.
 - Zer jakin nahi dute hartzari buruz? Informazioa bilatu behar dute.
 Adibidez: zer jaten du? non bizi da? zenbat pisatzen du?
 
-Informazioa bilatzeko baliabideak:
+##
+
+**Informazioa bilatzeko baliabideak**:
 
 - Elkarrizketak.
 - Liburuak: 3 hartzatxoen istorioa, Bavar eta Kiwi... Heldu batek irakur dezake hartzekin zerikusia duen istorio bat klasean.
@@ -276,9 +344,11 @@ Informazioa bilatzeko baliabideak:
 - Zer jaten dute? Naturari buruzko lanketa
 - Zenbat pisatzen/neurtzen du? Sistema metrikoa erabiliko dugu, matematikak...
 
-##### Hizkuntzaren erabilera jarduera motari lotua
+## Hizkuntzaren erabilera jarduera motari lotua
 
 Arnau (1999)
+
+<small>
 
 | Jarduera "akademikoak"                                       | Jarduera "sozialki esanguratsuak":                           |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -290,7 +360,9 @@ Arnau (1999)
 | Ikasleak hizkuntza sinpleagoa erabiltzen du. Askotan, monosilaboak. | Hizkuntza asmo edo funtzio ezberdinetarako erabiltzen da     |
 |                                                              | Ikasleari hizkuntza konplexuagoa eta aberatsagoa erabiltzea eskatzen dio |
 
-#### Hizkuntzaren garapenerako hezkuntza-egoerak
+</small>
+
+## Hizkuntzaren garapenerako hezkuntza-egoerak
 
 Egoerak antolatzeko orduan, ez ahaztu:
 
@@ -300,7 +372,7 @@ Egoerak antolatzeko orduan, ez ahaztu:
 * Ahozkoak elkarbizitzarako duen balioa
 * Literatur baliabideen eta jolasen garrantzia umearen hizkuntzaren garapenerako
 
-#### Elkarrizketa
+## Elkarrizketa
 
 Elkarrizketaren ekarpenak (Sánchez-Cano, 2009):
 
@@ -317,15 +389,17 @@ Elkarrizketaren ekarpenak (Sánchez-Cano, 2009):
 
 Elkarrizketaren bidez, hitz egiten irakasteaz gain, lagundu ahal diegu umeei "pentsatzeko eta ikasteko" hizkuntza garatzen, estrategia ezberdinak erabiliz:
 
+##
+
 > Gertaerak haien esperientzia eta emozio  propioekin erlazionatzea ahalbidetuko dieten estrategiak 
 >
 > Prozesu kognitibo elaboratuagoak aktibatzera bideraturiko estrategiak 
 >
 > -- Comadevall, M (2012)
 
-#### Estrategia batzuk
+## Estrategia batzuk
 
-##### Gertaerak haien esperientzia eta emozio propioekin erlazionatzea ahalbidetzeko
+## Gertaerak haien esperientzia eta emozio propioekin erlazionatzea ahalbidetzeko
 
 Ipuinaren inguruko elkarrizketetan, elkarrizketa kolektiboetan edo antzeko egoeratan,
 galderak edo iruzkinak egin ...
@@ -335,7 +409,9 @@ galderak edo iruzkinak egin ...
 - Besteen emozioak eta sentimenduak ulertzen laguntzeko. Abiapuntua norberaren emozio eta sentimenduak komentatzea izan daiteke (zelan uste duzu sentituko dela printzesa?), edo irakaslearen komentarioak (minduta dago lagunak gezurra esan diolako, ni ere mintzen naiz hori gertatzen zaidanean).
 - Hartzen diren erabakien inguruan argudiatzea errazteko (hartu den erabaki bat egokia izan den ala ez, erabaki bera hartuko zenukeen ala ez, ....)
 
-##### Prozesu kognitibo elaboratuagoak aktibatzera bideratutakoak
+## Prozesu kognitibo elaboratuagoak aktibatzera bideratutakoak
+
+##
 
 Galderak edo iruzkinak egin ...
 
@@ -351,12 +427,18 @@ Galderak edo iruzkinak egin ...
 # Erreferentziak 
 
 ##
+<small>
 
 Arnau, J.  (1999). Aproximaciones pedagógicas en la enseñanza de una segunda lengua a través de las matemáticas en la inmersión temprana. *Journal for the Study of Education and Development, Infancia y Aprendizaje*, *86*, 41–56.
 
 Bigas, M. (2000). El lenguaje oral en la escuela infantil. In Correig, M. & Bigas, M. (Eds.), *Didáctica de la Lengua en la Educación Infantil* (pp.44-70). Madrid: Síntesis.
 
+Camps, A. (2005). Hablar en clase, aprender lengua. In *Hablar en clase: Cómo trabajar la lengua oral en el centro escolar* (or. 37–44).
+
 Direcció General d’Ordenació i Innovació Educativa, & Departament d’Educació. (2004). *L’ús del llenguatge a l’escola: Propostes d’intervenció per a l’alumnat amb dificultats de comunicació i llenguatge*. Departament d’Educació, Servei de Difusió i Publicacions. http://ensenyament.gencat.cat/web/.content/home/departament/publicacions/monografies/us-llenguatge-escola/lus_llenguatge_lescola.pdf
+
+Equipo de educación infantil y primer ciclo de primaria del CP Antzuola. (2010). Niños y niñas investigadores: ¿de qué hablamos? In *Los proyectos de trabajo en el aula: Reflexiones y experiencias prácticas* (or. 29–42). Graó. 
 
 Sanchez-Cano, M., Cabra, M., Comallonga, L., Escudé, N., Font, E., Forés, N., Fuster, M., Giné, M., Grau, R., Mas, T., & Ribó, E. (2009). *La conversación en pequeños grupos en el aula*. Graó.
 
+</small>
