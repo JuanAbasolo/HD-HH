@@ -1,5 +1,6 @@
-
 # Murgiltze klaseak <br><small>Zer izan behar dugu kontuan?</small>
+
+[![](https://img.shields.io/badge/Diapoak-Murgiltzea-brightgreen)](../diapoak/06-MurgiltzeDiapo.html)
 
 Hizkuntza ofizial bi: Euskara eta gaztelania...
 
