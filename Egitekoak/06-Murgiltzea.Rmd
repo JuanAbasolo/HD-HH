@@ -1,3 +1,4 @@
+
 # Murgiltze klaseak <br><small>Zer izan behar dugu kontuan?</small>
 
 Hizkuntza ofizial bi: Euskara eta gaztelania...
@@ -166,7 +167,60 @@ Etorinek hainbat egoerari aurre egin behar diete:
 + Inputa Intake bihurtzen da
 + Nahikoa da?
 
-ARRASTRADO 3 20.a (Kanada, Merril Swain)
+## Murgiltze klasearen arazo batzuk
 
+Kanadan Merrill Swain-ek (1985) ikusitakoak
 
++ Ulermen selektiboa: ikasleek mezua nolabait ulertzea lortzen dute, hizkuntzaren analisirik egin gabe. Hitzen bat, keinuak eta testuinguruaren laguntzaz mezua ulertzera iritsi eta horrekin nahikoa dute
++ Esanahiean ardaztutako metodologian, askotan, formak ez du axolarik: 
+	Erroreak ez dira zuzentzen, bigarren mailako arazotzat hartzen da.
++ Inputa funtzionalki murriztua da geletan: eskolatik kanpoko hainbatt egoera, egitura lexikoa... ez da agertzen eta ez da sekula erabiltzen.
++ Edukian ardaztutako metodologian ekoizteko aukera gutxi egoten da; batez ere maila batetik gora. Edukia da nagusiena eta eskolaren eskema tradizionalak dira nagusiak.
 
+## Kontuan hartu beharrekoak
+
++ Inputa ez da nahikoa L2 ikasteko. Outputa ere beharrezkoa da.
++ Ikasleak L2 erabili behar du eta ikaste prozesuko zailtasunak gainditu behar ditu.
++ Horretarako, outputak egokia eta zehatza izan behar du.
++ Bidea: komunikazio estrategiak landuaz lortzea.
++ Kaptazioaren hipotesia (Schmidt, 1990)
+	* Igartzen ez dena ezin da ikasi.
++ Interakzioaren hipotesia (Long, 1983 eta 1996)
+	* Ikasleen arteko komunikazioari garrantzia ematen dio
+	
+## Taldekako hausnarketako galderak
+
+Zer egin dezake irakalseak umeen L2ren erabilera aktiboa eta esanguratsua sustatzeko murgiltze geletan?
+
+Hitz egiten hitz eginez ikasten da. Baina murgiltze geletako haurrek ez dute eskolako hizkuntza ezagutzen eta irakaslearen zeregina izango da ume horiei L2n komunikatzeko behar dituzten hizkuntz baliabideak ematea. **Zer egin dezake irakasleak** ikaslea hizkuntza baliabidez hornitzeko?
+
+## Proposamen batzuk klasean L2a sustatzeko
+
++ Giro egokia sortu
++ L2ren erabilera testuinguratua ahalbidetzen duten egoerak diseinatu
++ Hasieran, komunikazio egoera erritualizatuei eman garrantzia
++ Diseinatu umeentzako egoera komunikatibo erakargarriak
++ Proposatu umearen gogoko eginkizun eta gaiak
++ Espazioa eta denbora antolatu umeak berba egitea ahalbidetzeko
++ Ikasleen komunikazio premiak astzeko hizkuntza baliabide egokiak eta nahikoak eman
++ Umeak diskurtso-mota desberdinekin hartu-emanetan jarri
++ Umeen L1 errespetatu eta L2 erabiltzeko ahalegina afektiboki saritu
+
+## Gelako erritualak
+
++ Ohiko egoerak, behin eta berriro errepikatzen direnak aldaketa gutxirekin (aurreikusten errazak, beraz)
+
+Ahalbidetzen dute:
+
++ errutina interaktiboa sortzea
++ funtzio eta egitura komunikatibo eta linguistiko errazak eta laburrak erabiltzea, errepikakorrak
++ haurra seguruago sentitzea, berak parte hartzea erraztuz
+
+## Gela hirueleduna
+
+Frisiako gela bat: https://www.futurelearn.com/courses/multilingual-practices/0/steps/22654
+
++ Zein estrategia erabiltzen dituzte gelan hiru hizkuntza nagusiekin bestelako hizkuntzak integratzeko?
++ Antzekotasunik ikusten duzu euren eta gure eskolen artean?
++ Holako metodologia eskola guztietan eta hizkuntza guztiekin erabil dezakegu?
++ Zein aldaketa proposatzen dituzu(e)?
