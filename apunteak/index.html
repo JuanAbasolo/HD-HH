@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Hizkuntzaren Didaktika (2021) Haur Hezkuntza V0.1</title>
   <meta name="description" content="Apunteak egiteko prozesuan daude." />
-  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.23 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Hizkuntzaren Didaktika (2021) Haur Hezkuntza V0.1" />
   <meta property="og:type" content="book" />
@@ -24,7 +24,7 @@
 <meta name="author" content="Juan Abasolo" />
 
 
-<meta name="date" content="2021-09-03" />
+<meta name="date" content="2021-09-06" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -33,9 +33,8 @@
   
 
 <link rel="next" href="T1.html"/>
-<script src="libs/header-attrs-2.9/header-attrs.js"></script>
+<script src="libs/header-attrs-2.10/header-attrs.js"></script>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -51,8 +50,13 @@
 
 
 
+
 <link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
 <script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
+<script src="libs/htmlwidgets-1.5.3/htmlwidgets.js"></script>
+<script src="libs/viz-1.8.2/viz.js"></script>
+<link href="libs/DiagrammeR-styles-0.2/styles.css" rel="stylesheet" />
+<script src="libs/grViz-binding-1.0.6.1/grViz.js"></script>
 
 
 
@@ -194,7 +198,7 @@
 <div id="header">
 <h1 class="title">Hizkuntzaren Didaktika (2021) Haur Hezkuntza V0.1</h1>
 <p class="author"><em>Juan Abasolo</em></p>
-<p class="date"><em>2021-09-03</em></p>
+<p class="date"><em>2021-09-06</em></p>
 </div>
 <div id="Aurretikoak" class="section level1 unnumbered">
 <h1>Aurretikoak</h1>
@@ -202,7 +206,7 @@
 <p>Hizkuntzaren Didaktika eta Atzerriko Hizkuntza ikasgaiko lehenengo zatiko apunteak daude hemen, Hizkuntzaren Didaktikako zatikoak, hain zuzen.</p>
 <p>Hamar astean zehar antolatzen dira ikasgai honetako eskolak, honela 2020 urtean, ahaleginez:</p>
 <ol style="list-style-type: decimal">
-<li>astea: Aurkezpen eguna <a href="https://juanabasolo.github.io/HD-HH//Baliabideak/A01E01.html">*</a></li>
+<li>astea: Aurkezpen eguna <a href="https://juanabasolo.github.io/HD-HH//Baliabideak/00_aurkezpena/Ikasgaiaren%20aurkezpenaV210907-diapo.html">*</a></li>
 <li>astea: Zer da Hizkuntza | Hizkuntzalaritza</li>
 <li>astea: Hizkuntzalaritza</li>
 <li>astea: Nola ikasten du umeak hizketan | Proiektuaren aurkezpena</li>
@@ -213,7 +217,7 @@
 <li>astea: Murgiltze klaseak</li>
 <li>astea: Aurkezpenak eta azterketarako azken prestaketak</li>
 </ol>
-<p>Hobeto eta sakonago irakur dezakezu <a href="https://juanabasolo.github.io/HD-HH/Baliabideak/aurkezpena/Syllabus_HDHH20-V1.pdf">hemen</a>.</p>
+<p>Hobeto eta sakonago irakur dezakezu <a href="https://juanabasolo.github.io/HD-HH/Baliabideak/00_aurkezpena/Syllabus_HDHH21-V0.pdf">hemen</a>.</p>
 <hr />
 <p>Jakin beza hona iritsitako nabigatzaileak apunteok ez direla egile honek egindakoak, baizik eta hainbaten lanetatik aurtengo ikasleentzat Covid19k eragiten digun presentzialtasun makalaren ondoren erantzun nahirik sortutako gunea.
 Batez ere Asier Romerok, Karlak eta Lorea Unamunoren lanetatik edan dute apunteok.</p>
@@ -229,6 +233,7 @@ Batez ere Asier Romerok, Karlak eta Lorea Unamunoren lanetatik edan dute apunteo
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
 <script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
@@ -269,7 +274,7 @@ gitbook.start({
 },
 "download": ["Hizkuntzaren-Didaktikako-apunteak-V-0-HaurHezkuntza-2020.pdf", "Hizkuntzaren-Didaktikako-apunteak-V-0-HaurHezkuntza-2020.epub"],
 "search": {
-"engine": "fuse",
+"engine": "lunr",
 "options": null
 },
 "toc": {

@@ -24,14 +24,25 @@ Gizakion arteko hartu-emanak erregulatzeko eta kontrolatzeko hizkuntza darabilgu
 
 Tresna posibleen artean eraginkorrena dela esan dezakegu, oso esanahi konplexuak adieraz ditzakegu baliabide urriko gastua eginaz. Gizakiok hizkuntzaren erabileraz "orain" eta "hemen" egotea gaindi dezakegu animaliek ezin dezaketen moduan.
 
-> No solamente es importante ser capaz de comunicarse, sino que hay que tener en cuenta la importancia de lo que se comunica y, particularmente, la importancia de lo que solo se puede comunicar mediante el uso del lenguaje.
-> -- Tough, *El lenguage oral en la escuela*, 14. orr.
+> Komunikatzea soilik ez, zer komunikatzen den ere kontuan izan bhear da. Partikulazki, lengoaiaren bitartez baino ezin daitekeena komunikatu
+>
+> -- Tough, *El lenguage oral en la escuela*, 14. orr. (JAk itzulia)
+
 
 ## Hizkuntza: pentsatzeko eta ikasteko tresna
 
 Hizkuntzaren bitartez mundua ezagutzen eta ulertzen dugu, hizkuntzak berak horretan laguntzen digulako.
 
 Munduan eragiteko hizkuntza darabilgu jarduerak hizkuntzaren bitartez planifikatzen, antolatzen eta kontrolatzen ditugunean.
+
+> ... lengoaiaren bitartez, amak erakusten dizkio eraiki behar duen munduaren planu semantikoak. Errealitate gordina ez daiteke habitatu: zentzua eman behar zaio, zatitu, alor eta sailetan banatu behar da eta euren arteko bideak eta hartu-emanak, batetik bestera igarotzeko. 
+> Nahitanahiez, haurrak eraiki behar du bere bizi-gunea, errealitatearen jabe egin behar baita. Baina latza litzateke arkitektura bera ere asmatu behar balu. (...) 
+> Hizkuntzari eskerrak, soilik zure esperientzien menpekoa ez zara, beste guztien esperientzietatik, beste guztien eserientziak ere probestu ditzakezu.
+>
+> Hizkuntzak, norbanakoari Mundua eraikitzen uzteaz gain, horren jabe egiten ere uzten du. ... Amak ez dio soilik ordena ezartzen mundu objektiboari, haurraren subjekturik gabeko subjetibotasunari ere ezartzen dio ... Lengoaia, besteekiko komunikatzeko bitarteko legez hasten dena, umea bere buruarekin komunikatzeko bitarteko bilakatzen da egintzak antolatzen lagunduaz. Adimena eraikitzeko berebiziko garrantzia du hizkuntzaren funtzio antolatzaileak.
+>
+> -- Marina (1993), El mundo y el lenguaje, *Teoría de la inteligencia creadora* (JAk itzulia)
+
 
 > ... A través del lenguaje, la madre le enseña al niño los planes semánticos del mundo que tiene que construir. La cruda realidad no es habitable: hay que darle sentido, segmentarla, dividirla en estancias y construir pasillos y relaciones para pasar de uno a otro. Es la niña la que tiene que construir su hogar de manera irremediable, ya que necesita apropiarse de la realidad, pero sería un gran fastidio si tuviera que inventar la arquitectura. (...) gracias al idioma no dependerá solo de tu experiencia, sino que podrás aprovechar la experiencia de los demás.
 >
@@ -40,6 +51,24 @@ Munduan eragiteko hizkuntza darabilgu jarduerak hizkuntzaren bitartez planifikat
 > -- Marina (1993), El mundo y el lenguaje, *Teoría de la inteligencia creadora*
 
 Ideion adibide argigarri batzuk, ingelesetik gaztelaniara ekarrita, Wells (1988) liburuan:
+
+> Elizabeth, lau urteko dela amari so dago, beheko suko errautsak pala batekin batu eta balde batera botatzen dituela.
+>
+> E: Zertarako egiten duzu hori? 
+> M: Batzen eta kanpora eramaten babil, gero aitak ortuan zabaltzeko  
+> E: Eta zertarako botako ditu ortuan?
+> M: Lurra ontzeko.  
+> E: Eta horrela ondo hasiko dira landarak?  
+> M: Bai.  
+> E: Eta hori, zergatik?
+> M: Gogoan duzu aurrekoan azaldu nizula zuk denetarik jan behar duzula, arraultzak eta azak eta porru-patatak neska handia hazteko?
+> E: Bai.  
+> M: Ba, landarek ere denetarik behar dute. Eta haiei ondo doakienetariko bat errautsa da.
+> 
+> -- Wells, *Aprender a leer y escribir*, 79 or. (JAk itzulia)
+
+
+
 
 > Elisabeth, a la edad de 4 años, observa a su madre, que recoge con una pala las cenizas del hogar y las hecha en un cubo:
 > 
@@ -56,6 +85,7 @@ Ideion adibide argigarri batzuk, ingelesetik gaztelaniara ekarrita, Wells (1988)
 > 
 > -- Wells, *Aprender a leer y escribir*, 79 or.
 
+***
 
 > James, a la edad de 3 años y medio, ha estado jugando en el jardín. Su madre quiere llevárselo para cambiarle los calcetines y los zapatos embarrados pero, al entrar, el niño ve un pájaro:
 >
