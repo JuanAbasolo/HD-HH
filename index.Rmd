@@ -18,7 +18,7 @@ Hizkuntzaren Didaktika eta Atzerriko Hizkuntza ikasgaiko lehenengo zatiko apunte
 
 Hamar astean zehar antolatzen dira ikasgai honetako eskolak, honela 2020 urtean, ahaleginez:
 
-1. astea: Aurkezpen eguna [*](https://juanabasolo.github.io/HD-HH//Baliabideak/00_aurkezpena/Ikasgaiaren aurkezpenaV210907-diapo.html)
+1. astea: Aurkezpen eguna [*](https://juanabasolo.github.io/HD-HH//Baliabideak/00_aurkezpena/Ikasgaiaren_aurkezpenaV210907-diapo.html)
 2. astea: Zer da Hizkuntza | Hizkuntzalaritza
 3. astea: Hizkuntzalaritza
 4. astea: Nola ikasten du umeak hizketan | Proiektuaren aurkezpena
