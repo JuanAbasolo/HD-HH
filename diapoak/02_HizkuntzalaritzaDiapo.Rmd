@@ -364,7 +364,7 @@ https://ikasmaterialak.ehu.eus/hizkuntza-ikasketak/euskal-fonetika-fonologia/eus
 
 # Bigarren ariketa nagusia  {data-background=#FFAAAA }
 
-Sortu hizkuntzaren jabekuntzren denbora lerroa.
+Sortu hizkuntzaren jabekuntzaren denbora lerroa.
 
 Proposatzen den testua: Barreña (2012).
 

@@ -193,6 +193,7 @@ Oinarrizko termino eta egitura linguistikoez hornitzen dute umea
 
 ##
 
+
 > Ama: Esan izekoari non egon zaren.  
 > Umea: Parke.  
 > Ama: Parkean, bai, parkean egon gara. Eta zer ikusi duzu? Esan izekoari zer ikusi duzun.  
@@ -201,7 +202,7 @@ Oinarrizko termino eta egitura linguistikoez hornitzen dute umea
 > Umea: Bai.  
 >
 
-# Beste adibide bat
+## Beste adibide bat
 
 
 <figure>

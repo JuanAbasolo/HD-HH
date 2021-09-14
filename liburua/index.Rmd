@@ -1,0 +1,45 @@
+--- 
+title: "Hizkuntzaren Didaktika (2021) Haur Hezkuntza V0.1"
+author: "Juan Abasolo"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Apunteak egiteko prozesuan daude."
+---
+
+# Aurretikoak {-#Aurretikoak}
+
+![](assets/scare-quacks-1200.jpg)
+
+Hizkuntzaren Didaktika eta Atzerriko Hizkuntza ikasgaiko lehenengo zatiko apunteak daude hemen, Hizkuntzaren Didaktikako zatikoak, hain zuzen.
+
+Hamar astean zehar antolatzen dira ikasgai honetako eskolak, honela 2020 urtean, ahaleginez:
+
+1. astea: Aurkezpen eguna [*](https://juanabasolo.github.io/HD-HH//Baliabideak/00_aurkezpena/Ikasgaiaren_aurkezpenaV210907-diapo.html)
+2. astea: Zer da Hizkuntza | Hizkuntzalaritza
+3. astea: Hizkuntzalaritza
+4. astea: Nola ikasten du umeak hizketan | Proiektuaren aurkezpena
+5. astea: Hizkuntza patologiak
+6. astea: Hizkuntza patologiak 
+7. astea: Ahozko hizkuntza haur hezkuntzan
+8. astea: Ahozko hizkuntza haur hezkuntzan
+9. astea: Murgiltze klaseak
+10. astea: Aurkezpenak eta azterketarako azken prestaketak
+
+Hobeto eta sakonago irakur dezakezu [hemen](https://juanabasolo.github.io/HD-HH/Baliabideak/00_aurkezpena/Syllabus_HDHH21-V0.pdf).
+
+---
+
+Jakin beza hona iritsitako nabigatzaileak apunteok ez direla egile honek egindakoak, baizik eta hainbaten lanetatik aurtengo ikasleentzat Covid19k eragiten digun presentzialtasun makalaren ondoren erantzun nahirik sortutako gunea.
+Batez ere Asier Romerok, Karlak eta Lorea Unamunoren lanetatik edan dute apunteok.
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
