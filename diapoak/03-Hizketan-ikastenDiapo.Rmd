@@ -204,7 +204,6 @@ Oinarrizko termino eta egitura linguistikoez hornitzen dute umea
 
 ## Beste adibide bat
 
-
 <figure>
     <figcaption>Anaia biren grabazioa (4 eta 2 urte):</figcaption>
     <audio
@@ -264,6 +263,19 @@ Komunikazio aurrelinguistikoaren hastapenak
 + Umearentzat oso gratifikanteak diren afektibitate adierazpenak erakusten dizkio
 
 ## Komunikazio aurrelinguistikoaren garapena
+
+## Entzun:
+
+<figure>
+    <figcaption>Ze adin du? ... eta zertan dabil?:</figcaption>
+    <audio
+        controls
+        src="media/lo-lo.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
 
 ## 5 - 12 HILABETE
 
