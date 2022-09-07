@@ -1,7 +1,5 @@
 # Ahozko hizkuntza Haur Hezkuntzan
 
-[![](https://img.shields.io/badge/Diapoak-AhozkoHizkuntza-green)](../diapoak/05-AhozkoaDiapo.html)
-
 1. Etxetik eskolara:  
   - Etxea eta eskola ikas‐testuinguru ezberdinak
   - Eskolaren eskakizunak hizkuntza arloan
@@ -308,7 +306,7 @@ Galderak edo iruzkinak egin ...
 
 ## Ariketa {-}
 
-[![](https://img.shields.io/badge/Baliabideak-AhozkoaGelan-black)](../Baliabideak/05_ahozko_hizkuntza/Ahozkoa_eskolan-Lantzekoak.pdf)
+[Baliabideak](../Baliabideak/05_ahozko_hizkuntza/Ahozkoa_eskolan-Lantzekoak.pdf)
 
 ## Bibliografia eta erreferentziak {-}
 

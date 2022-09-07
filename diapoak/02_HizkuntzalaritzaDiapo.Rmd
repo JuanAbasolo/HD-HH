@@ -353,25 +353,30 @@ Bilatu hurrengo kontzeptuen definizioa eta euskarazko adibideak aipatu:
 - azentua
 - diptongo
 
-# Lehenengo ariketa nagusia  {data-background=#FE2E9A }
+
+
+# Lehenengo ariketa nagusia {data-background=#FE2E9A }
  
-**Alderatu euskara beste hizkuntza batekin:**
+Marraztu hizkuntzaren elementuen jabekuntzaren hurrenkera.
+
+Proposatzen diren testuak: Barreña (2012) eta Garcia et all. (2014).
+
+
+# Kontzeptuak sendotzeko ariketa {data-background=#FFAAAA }
+
+**Alderatu glosategiko elementuen arabera euskara beste hizkuntza batekin:**
 
 https://www.hiru.eus/eu/lengua/semantica (09/10/2018)  
 https://prezi.com/0s5igkyblus_/pragmatika/  
 https://www.euskara.euskadi.eus/r59-lurconte/eu/contenidos/articulo/c0301/eu_d0301008/0301008.html  
 https://ikasmaterialak.ehu.eus/hizkuntza-ikasketak/euskal-fonetika-fonologia/euskal-fonetika-fonologiaren-ikasketarako-gaiak.pdf
 
-# Bigarren ariketa nagusia  {data-background=#FFAAAA }
-
-Sortu hizkuntzaren jabekuntzaren denbora lerroa.
-
-Proposatzen den testua: Barreña (2012).
-
 # 
 
 **Erreferentziak** 
 
 Barreña, A. (2012). Fonologiaren, lexikoaren, morfologiaren eta sintaxiaren garapena haur euskaldunengan. In *Hizkuntzaz jabetzen* (0-6) (Libk. 16, or. 67–107). Mendebalde Kultura Alkartea. http://www.mendebalde.com/modulos/usuariosFtp/conexion/archi524A.pdf
- 
+
+Garcia, I., Barreña, A., Ezeizabarrena, M. J., Almgren, M., Arratibel, N., & Barnes, J. (2014). Haur euskaldunen komunikazio-garapena neurtzen 30-50 hila-bete bitartean: MacArthur-Bates CDI-III tresnaren euskal bertsioa. _Uztaro: giza eta gizarte-zientzien aldizkaria_, _88_, 33–72.
+
 Euskara Institutua, EHU. (2011). Hots motak, euskal soinuak. In *Sareko Euskal Gramatika (SEG)*. https://www.ehu.eus/seg/fon/1/1/1

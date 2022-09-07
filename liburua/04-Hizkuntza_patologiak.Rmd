@@ -1,7 +1,5 @@
 # Hizkuntza patologiak
 
-[![](https://img.shields.io/badge/Diapoak-patologia-red)](../diapoak/04-Patologiena.pdf)
-
 Hizkuntza patologiei ere tarte bat eman behar zaio Haur Hezkuntzako graduko formakuntzan. Hala ere, ez dugu ahaztu behar formakuntzak ez duela bideratzen ez diagnostikorako ezta tratamendu espezialdurako. Hori ahaztu gabe, ikasgai honetako ardatza gelan egingo den lana izango da.
 
 ## Ohar batzuk

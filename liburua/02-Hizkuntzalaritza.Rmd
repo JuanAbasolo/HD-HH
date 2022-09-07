@@ -1,8 +1,8 @@
 # Hizkuntzalaritza
 
-[![](https://img.shields.io/badge/Diapoak-Hizkuntzalaritza-brightgreen)](../diapoak/02_HizkuntzalaritzaDiapo.html)
+Hizkuntzalaritzaren inguruko oinarri gutxien-gutxieneko batzuk ikusiko ditugu gai honetan, eduki batzuk ulertu behar baitira, egoki jarraitu ahal izateko ikasgaian.
 
-Hizkuntzalaritzaren inguruko oinarri hiper minimotxu batzuk ikusiko ditugu gai honetan, eduki batzuk ulertu behar baitira, egoki jarraitu ahal izateko ikasgaian.
+Gai honetan aurrerapausoak emateko glosategia sortu beharko duzu, pausurik pausu eta zure adibideak jarriaz.
 
 ## Zer da Hizkuntzalaritza?
 
@@ -94,7 +94,7 @@ Alabak esan duenak zentzua dauka: pastela jaten badugu, lodituko gara. Baina tes
 
 Zuk horren antzerako adibide bat aurkitu behar duzu, ahaleginez, bizi izandako zerbait kontatuaz.
 
-#### Glosarioa, semantika eta pragmatika: ariketa
+#### Ariketa: Glosarioa, semantika eta pragmatika
 
 Bilatu hurrengo kontzeptuen definizioa eta euskarazko adibideak aipatu:
 
@@ -168,7 +168,7 @@ Deklinabideak
 
 [Gehitxuago jakiteko](https://www.hiru.eus/eu/lengua-vasca/sintagmas-de-la-oracion-declinacion)
 
-#### Ariketak (1): Aztertu hurrengo esaldia morfologikoki
+#### Ariketa: Aztertu hurrengo esaldia morfologikoki {-}
 
 Laguntza ariketa hau egiteko, [hemen](http://ixa2.si.ehu.es/demo/analisianali.jsp)
 
@@ -184,7 +184,7 @@ perpausan betetzen duten funtzioa.
 
 [Gehitxuago jakiteko](https://www.ehu.eus/seg/hizk/1/4)
 
-#### Glosarioa, morfologia eta sintaxia: ariketa {-#T2A2}
+#### Ariketa: Glosarioa, morfologia eta sintaxia {-#T2A2}
 
 Bilatu hurrengo kontzeptuen definizioa eta adibideak aipatu:
 
@@ -206,11 +206,23 @@ Esanahiak bereizteko balio dute: adibidez, *kopa* eta *topa*. `/k/` eta `/t/` ez
 Fonetikak soinuak/hotsak eta beraien ekoizpena aztertzen dituen zientzia da. Hau da, soinuak nola eratzen diren eta nola hautematen diren.
 Hotsak fonemen errepresentazio materialak dira.
 
-[![IPA euskaraz](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/International_Phonetic_Alphabet_translated_into_basque_Nazioarteko_alfabeto_fonetikoa_eu.pdf/page1-339px-International_Phonetic_Alphabet_translated_into_basque_Nazioarteko_alfabeto_fonetikoa_eu.pdf.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/92/International_Phonetic_Alphabet_translated_into_basque_Nazioarteko_alfabeto_fonetikoa_eu.pdf)
+[![IPA euskaraz](assets/img/IPA(tx)_eu.pdf.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/92/International_Phonetic_Alphabet_translated_into_basque_Nazioarteko_alfabeto_fonetikoa_eu.pdf)
 
-[![Xhosa hizkuntza](http://img.youtube.com/vi/gI6NaZRfnzU/0.jpg)](http://www.youtube.com/watch?v=gI6NaZRfnzU "Xhosa hizkuntza (klikduna)")
+`r if (knitr::is_html_output()) '
+[![Xhosa hizkuntza](http://img.youtube.com/vi/gI6NaZRfnzU/0.jpg)](https://www.youtube.com/watch?v=gI6NaZRfnzU "Xhosa hizkuntza (klikduna)")
+'`
 
-[![Hizkuntza tonalak](http://img.youtube.com/vi/foImPuD_bKc/0.jpg)](http://www.youtube.com/watch?v=foImPuD_bKc "Sing like you mean it! - the Linguistics of Tonal Languages")
+`r if (knitr::is_latex_output()) '
+https://www.youtube.com/watch?v=gI6NaZRfnzU
+'`
+
+`r if (knitr::is_html_output()) '
+[![Hizkuntza tonalak](http://img.youtube.com/vi/foImPuD_bKc/0.jpg)](https://www.youtube.com/watch?v=foImPuD_bKc "Sing like you mean it! - the Linguistics of Tonal Languages")
+'`
+
+`r if (knitr::is_latex_output()) '
+https://www.youtube.com/watch?v=foImPuD_bKc
+'`
 
 ##### Euskararen hotsak
 
@@ -243,7 +255,7 @@ Hotsak fonemen errepresentazio materialak dira.
 - ahoskunea
 - ahots moldea
 
-#### Glosarioa, fonetika eta fonologia: ariketa {-#T2A3}
+#### Ariketa: Glosarioa, fonetika eta fonologia {-#T2A3}
 
 Bilatu hurrengo kontzeptuen definizioa eta euskarazko adibideak aipatu:
 
@@ -254,8 +266,16 @@ Bilatu hurrengo kontzeptuen definizioa eta euskarazko adibideak aipatu:
 - diptongo
 
 ## Ariketa nagusia {-#T2A4}
- 
-Euskara beste hizkuntzekin konparatuz
+
+Marraztu hizkuntzaren elementuen jabekuntzaren hurrenkera; Barreña (2012) eta Garcia et all. (2014) erabiltzea duzu euskararako.
+
+
+
+## Ariketa gehigarria {-#T2A5}
+
+Aurreko ikasturte batzuetan ariketa hau egin da kontzeptuak sendotze aldera. Ikasturte honetako egutegiagatik, aukeran dago egin ala ez:
+
+**Euskara alderatu beste hizkuntza batekin** ezaugarri linguistikoetan oinarrituta.
 
 https://www.hiru.eus/eu/lengua/semantica (09/10/2018)
 
@@ -265,13 +285,11 @@ https://www.euskadi.eus/web01-s2ing/eu/contenidos/articulo/c0301/eu_d0301008/030
 
 https://ikasmaterialak.ehu.eus/hizkuntza-ikasketak/euskal-fonetika-fonologia/euskal-fonetika-fonologiaren-ikasketarako-gaiak.pdf
 
-## Oinarrizko irakurgaia {-#T2A5}
-
-Barreña (2012) irakurri behar duzue eta horretan oinarrituta, euskararen jabekuntzaren denbora lerroa egin beharko duzue.
-
 ## Erreferentziak {-#T2E}
 
 Barreña, A. (2012). Fonologiaren, lexikoaren, morfologiaren eta sintaxiaren garapena haur euskaldunengan. In *Hizkuntzaz jabetzen* (0-6) (Libk. 16, or. 67–107). Mendebalde Kultura Alkartea. http://www.mendebalde.com/modulos/usuariosFtp/conexion/archi524A.pdf
+
+Garcia, I., Barreña, A., Ezeizabarrena, M. J., Almgren, M., Arratibel, N., & Barnes, J. (2014). Haur euskaldunen komunikazio-garapena neurtzen 30-50 hila-bete bitartean: MacArthur-Bates CDI-III tresnaren euskal bertsioa. _Uztaro: giza eta gizarte-zientzien aldizkaria_, _88_, 33–72.
  
 Euskara Institutua, EHU. (2011). Hots motak, euskal soinuak. In *Sareko Euskal Gramatika (SEG)*. https://www.ehu.eus/seg/fon/1/1/1
 
