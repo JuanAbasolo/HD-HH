@@ -311,20 +311,42 @@ Urte bukaeran sortzen diren jolasek (hartu-emanekoek, sartu-aterakoek, eraiki-bo
 
 + Umearen hiztegia izugarri haziko da, kategoria gramatikal guztietako berbak erabiliko dituelarik (izenak, aditzak, izenordainak, adjektiboak, artikuluak, …). Aditzak infinitiboan eta orain aldian  
 + Hitzen lehenengo konbinazioak  
-+ Hiru urte betetzear dagoela, gai izango da mintzagaiari jarraitu eta hari informazioa gehitzeko, argitzeko eskaerak egingo ditu, …
++ Hiru urte betetzear dagoela, gai izango da mintzagaiari jarraitu eta hari informazioa gehitzeko, argitzeko eskaerak egingo ditu, ...
++ Hizkuntzaren fonemen eskuratze aktiboa
+
+## Entzun:
+
+**Zelakoak dira gozoagoak, aitaren musuak ala amarenak?**
+
+<figure>
+    <figcaption>4;6 eta 2;4 urteko ume bi aitarekin berbetan</figcaption>
+    <audio
+        controls
+        src="media/Jon_eta_Xabier_amatxun_mosuk.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+##
+
+hazurre  
+hazud-de  
+hazuerr  
+hazuddddddrrrre
 
 ## 3 urteko umea
 
 ##
 
 Sozialki   
-    : Interakzioak izan ditzake hizkuntza erabiliz, elkarrizketaren oinarrizko arauak ezagutzen dituelako. Hala ere, interakzioaren arrakasta eta iraupena gaiaren eta solaskidearen trebetasunaren araberakoa izango da.
+: Interakzioak izan ditzake hizkuntza erabiliz, elkarrizketaren oinarrizko arauak ezagutzen dituelako. Hala ere, interakzioaren arrakasta eta iraupena gaiaren eta solaskidearen trebetasunaren araberakoa izango da.
 
 Kognitiboki  
-    : Bere mundua kategorizatu du eta gertaeren buru-errepresentazioak erabiltzen ditu gertakizun horietan parte hartzeko, gertatuko dena aurresateko eta gertatutakoa gogoratzeko.
+: Bere mundua kategorizatu du eta gertaeren buru-errepresentazioak erabiltzen ditu gertakizun horietan parte hartzeko, gertatuko dena aurresateko eta gertatutakoa gogoratzeko.
 
 Linguistikoki  
-    : Oinarrizko egitura linguistikoak eraiki ditzake bizi izandako gertakizunen berri emateko eta, inoren laguntzarekin, ordura arte partekatu ez duen informazioa emateko.
+: Oinarrizko egitura linguistikoak eraiki ditzake bizi izandako gertakizunen berri emateko eta, inoren laguntzarekin, ordura arte partekatu ez duen informazioa emateko.
 
 ## Hala eta guztiz ere...
 
