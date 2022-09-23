@@ -260,7 +260,7 @@ Hala eta guztiz ere, mintzagaian modu jarraituan eta helduek lagundurik aritzeak
 -   5 urterekin gai da produkzio-testuinguruan presente ez dauden gauzez eta gertaerez hitz egiteko
 
 | Erabilera kontestualizatua: produkzio-testuinguruaren menpe                                                                                       | Erabilera deskontestualizatua: produkzio-testuinguruarekiko dependentziarik ez                                                                       |
-|------------------------------------|------------------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Mezua adierazteko eta ulertzeko laguntza ez-linguistikoa<br> Produkzio-testuinguruak informazioa ematen du<br> Ez-hitzezko kodeak erabiltzen dira | Mezua adierazteko eta ulertzeko hitzetan oinarritu behar<br> Produkzio-testuinguruak oso informazio gutxi<br> Ez da ia erabiltzen ezhitzezko koderik |
 | Esanahia zuzenean negoziatzeko aukera                                                                                                             | Askotan aukerarik ez esanahia zuzenean negoziatzeko                                                                                                  |
 | Hiztegi eta egitura linguistiko arruntagoak                                                                                                       | Hiztegi zehatza eta egitura linguistiko konplexuagoak                                                                                                |
@@ -377,7 +377,7 @@ grViz("digraph flowchart {
 ```
 
 | Hezitzaileak kontuan hartzeko                                                                                                                              | Egitekoak                                                                                         |
-|------------------------------------|------------------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | Haurrak komunikazio egoeratan parte hartuz ikasten du hitz egiten                                                                                          | Komunikazio egoerak sortu, antolatu                                                               |
 | Hizkuntzaren funtzio ezberdinak garatzeko, umeak askotariko komunikazio egoeratan parte hartu behar du                                                     | Era askotako komunikazio egoerak sortu, antolatu                                                  |
 | Behar-beharrezkoa umeak komunikazio egoeratan parte hartu nahi eta ahal izatea                                                                             | Haurrarentzako esanguratsuak eta neurrikoak diren eginkizunak proposatu                           |
@@ -396,6 +396,6 @@ Eta bideoetan oso interesgarriak izan litezke hurrengo dokumentalok (ingelesez e
 
 Ellis Entertainment (Director). (2004). *Baby Human*. <http://www.imdb.com/title/tt1414346/>
 
-Hickman, D., Klein, L., Britain), C. F., Entertainment (Firm), R., Ltd, W. to W. T., & Networks, D. (Directors). (1994). *Baby it\'s you. Volume one, In the beginning., First steps*. [Australia] : Roadshow Entertainment. <https://trove.nla.gov.au/version/18675181>
+Hickman, D., Klein, L., Britain), C. F., Entertainment (Firm), R., Ltd, W. to W. T., & Networks, D. (Directors). (1994). *Baby it's you. Volume one, In the beginning., First steps*. [Australia] : Roadshow Entertainment. <https://trove.nla.gov.au/version/18675181>
 
 Bideoon gaztelaniazko itzulpenak ere badira, euskarazkorik ez dut ezagutzen.
