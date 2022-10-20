@@ -7,7 +7,8 @@ Aurkezpena:
 + [Ikasgaia](../Baliabideak/00_aurkezpena/Ikasgaiaren_aurkezpena.html)
 + [Ariketa](../Baliabideak/00_aurkezpena/Etherpad_ariketa.html)
 
-1. [![](https://img.shields.io/badge/Diapoak-Hizkuntza-brightgreen)](01_diapoak-Hizkuntza.html)
+1. [![](https://img.shields.io/badge/Diapoak-Hizkuntza-brightgreen)](01_diapoak-Hizkuntza.html)  
+    Barreñaren testua [azpimarratuta](../beste/Barena/Barrena_1994_Chomskyren_arauak_eta_hizkuntz_jabekuntza.pdf)
 
 2. [![](https://img.shields.io/badge/Diapoak-Hizkuntzalaritza-brightgreen)](02_HizkuntzalaritzaDiapo.html)
 
