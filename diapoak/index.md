@@ -1,14 +1,16 @@
+---
+title: Diapoak
+---
 
-# Diapoak:
 
 Aurkezpena: 
 
-+ [Pausurik pausu](../Baliabideak/00_aurkezpena/Gidoia_2022.html)
-+ [Ikasgaia](../Baliabideak/00_aurkezpena/Ikasgaiaren_aurkezpena.html)
-+ [Ariketa](../Baliabideak/00_aurkezpena/Etherpad_ariketa.html)
++ [![](https://img.shields.io/badge/Diapoak-Ikasgaia-black)](00_Ikasgaiaren-aurkezpena.html)
++ [![](https://img.shields.io/badge/Diapoak-hurrenkera-gray)](00_0klaseko_gidoi.html)
++ [![](https://img.shields.io/badge/Diapoak-Ariketak-black)](../Baliabideak/00_aurkezpena/Etherpad_ariketa.html)
 
 1. [![](https://img.shields.io/badge/Diapoak-Hizkuntza-brightgreen)](01_diapoak-Hizkuntza.html)  
-    Barreñaren testua [azpimarratuta](../beste/Barena/Barrena_1994_Chomskyren_arauak_eta_hizkuntz_jabekuntza.pdf)
+    Barreñaren testua [azpimarratuta](../bste/Barena/Barrena_1994_Chomskyren_arauak_eta_hizkuntz_jabekuntza.pdf)
 
 2. [![](https://img.shields.io/badge/Diapoak-Hizkuntzalaritza-brightgreen)](02_HizkuntzalaritzaDiapo.html)
 

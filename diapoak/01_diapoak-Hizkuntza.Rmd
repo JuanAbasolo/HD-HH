@@ -1,6 +1,6 @@
 ---
 title: "Zer da hizkuntza"
-date: 'Hizkuntzaren Didaktika'
+# date: 'Hizkuntzaren Didaktika'
 language: eu
 output: 
   revealjs::revealjs_presentation:
@@ -240,7 +240,7 @@ Autore askok ikuskera desberdinak hartu dituzte gaiaren gainean, baina aro kriti
 
 # Bigarren ariketa {data-background="#8A2908"}
 
-## Irakurri Barreña (1994) [artikulua](https://zientzia.eus/artikuluak/chomskyren-arauak-eta-hizkuntz-jabekuntza/) eta erantzun dagozkion itemak (banaka). {data-background="#8A2908"}
+## Irakurri Barreña (1994) [artikulua](https://zientzia.eus/artikuluak/chomskyren-arauak-eta-hizkuntz-jabekuntza/) eta erantzun dagozkion itemak (taldeka, irakasleak pasatuko dizun URLan). {data-background="#8A2908"}
 
 ##  {data-background="#8A2908"}
 

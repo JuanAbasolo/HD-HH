@@ -1,0 +1,54 @@
+---
+title: Hurrenkera
+format: html
+---
+
+# Ikasgaiaz
+
+-   Iazko delegatuak eta delegatu ordeak identifikatu
+
+    -   1GA:
+    -   2GA:
+    -   3GA:
+
+## Ikasgaiaren aurkezpena
+
+-   [Aurkezpena bera](https://juanabasolo.github.io/HD-HH/Baliabideak/aurkezpena/Ikasgaiaren-aurkezpenaV200905-diapo.html)
+
+-   Syllabus: [labur.eus/HDHHsyllabusa](https://labur.eus/hdhhsyllabusa)
+
+    -   https://juanabasolo.github.io/HD-HH/Baliabideak/aurkezpena/Syllabus_HDHH23-V0.pdf
+
+    -   Ikasleek bete beharreko fitxa (ikasgaia):
+
+    -   <http://labur.eus/HDikasleena>
+
+## Ikasgairako baliabideak:
+
+-   Apunteak: [labur.eus/HD-HHapunteak](https://labur.eus/HD-HHapunteak)
+
+    -   https://juanabasolo.github.io/HD-HH/apunteak/
+
+-   Baliabideetarako kanala: https://t.me/HDinformazioa edo barrutik `@HDinformazioa`
+
+-   Komunikaziorako taldea:
+
+# 5DAL: Ipuin bati begirada ugari
+
+Zer aurkeztuko zaien eta zer egin beharko duten adierazi
+
+-   Gainetiko aurkezpena
+
+-   [Etherpad zelan erabili](HD-HH_apunteak/Baliabideak/00_aurkezpena/Etherpad_ariketa.html#/etherpad)
+
+-   Idatzia
+
+-   DAL taldeak sortu (Etherpad)
+
+-   eGela
+
+-   Gidaren irakurketa + lanketa
+
+-   Telegram, baliabideak...
+
+-   Kamila zebra Hurrengo klaserako zer

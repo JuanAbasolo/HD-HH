@@ -1,0 +1,111 @@
+---
+title: "Hizkuntzaren Didaktika (HH) ikasgaiaren aurkezpena"
+author: "Juan Abasolo"
+date: '2023'
+format: 
+    revealjs:
+        scrollable: true
+editor: visual
+---
+
+# Hizkuntzaren Didaktikaren eta Atzerriko Hizkuntza {background-image="https://blog.stockvault.net/wp-content/uploads/2019/11/free_texture_friday_2328-rotated.jpg"}
+
+#  {background-color="darkblue"}
+
+Irakasleak
+
+Ikasgaia
+
+Gure zatia
+
+Edukiak eta denboralizazioa
+
+Metodologia
+
+Ebaluazioa
+
+# Juan Abasolo
+
+Talde teorikoa (gaur) eta gelako aldra bat (GA2).
+
+``` yaml
+Bulegoa: 3S40
+email: juan.abasolo@ehu.eus
+Telegram: @JuanAbasolo
+Tutoretzak: www.labur.eus/JAbasolo-tutoretzak
+```
+
+# Jon Kortazar Billelabeitia
+
+Gelako aldra bi (GA1 eta GA3)
+
+``` yaml
+Bulegoa: ---
+kontaktua: jon.kortazarb@ehu.eus
+Tutoretzak: web orrialdean 
+```
+
+## Ikasgaia
+
+3 zati:
+
+-   HD (5 puntu)
+-   Atzerriko hizkuntza (4 puntu) (Ruthek, hori gero)
+-   DALak (1 puntu).
+
+| Irakaskuntza mota | Ikasgelako eskola-orduak | Ikaslearen ikasgelaz kanpoko jardueren orduak |
+|-----------------|--------------------|-----------------------------------|
+| Magistrala        | 6                        | 9                                             |
+| Gelako p.         | 84                       | 126                                           |
+
+[Gida ofiziala](https://www.ehu.eus/eu/web/graduak/haur-hezkuntzako-gradua-bizkaia/kreditu-eta-irakasgaiak?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20230&p_ciclo=X&p_curso=3&p_cod_asignatura=25916) fakultateko webean duzue.
+
+## Ahozko Hizkuntzaren Didaktika
+
+-   \% 50 talde lanak
+    -   \% 10 bertaratze aktiboa, epez aurkeztea...
+    -   \% 20 talde lanak
+    -   \% 20 proiektua
+-   \% 50 azterketa
+-   +egokitzapena DALaren noraterkin.
+
+------------------------------------------------------------------------
+
+### Edukiak eta Denboralizazioa
+
+| Astea | Gaia                                                      | Irakurketak                          | Zereginak                               | DAL                                                              |
+|-------------|---------------|-------------|-------------|------------------|
+| 1.a   | Diziplinarteko Lana                                       | Diziplinarteko Lanaren Gida irakurri | Idatzia                                 | Entregagaia 1: ipuinaren aukeraketaren justifikazioa 5. asterako |
+| 2.a   | Hizkuntza \| Hikzuntzalaritza                             | Barreña\[1\]                         | Ulermen gida                            | Tutoretza 1: ipuinen aukeraketa (DAL)                            |
+| 3.a   | Hizkuntzalaritza + Hizkuntzaren Didaktika DAL 2 ordu      | Barreña\[2\]                         | Hizkuntza konparaketa                   |                                                                  |
+| 4.a   | Nola ikasten du umeak berbetan \| Proiektuaren aurkezpena | Guibourg. Tough.                     | Jabekuntzaren denbora lerroa. Egutegia. |                                                                  |
+| 5.a   | Hizkuntzaren patologiak                                   | Fernandez                            | Gaia aukeratu eta landu                 | Entregagaia 1                                                    |
+| 6.a   | Hizkuntza patologiak                                      |                                      | Aurkezpena                              | Tutoretza 2: proposamenerako ideia garatuak (DAL)                |
+| 7.a   | Ahozko Hizkuntza HHn                                      | Antzuolako... Bigas. Camps.          | Ulerkuntza eta lanketa itemak           |                                                                  |
+| 8a    | Ahozko hizkuntza HHn                                      | proiektu batzuk. Curriculum Dekretua |                                         |                                                                  |
+| 9.a   | Murgiltze klaseak                                         | Zehazteke                            | Zehazteke                               |                                                                  |
+| 10.a  | Aurkezpenak (Proiektua + DAL)                             |                                      | Proiektua                               | Txosten idatzia (DAL)                                            |
+
+: Antolaketa {.striped .hover}
+
+# Metodologia
+
+-   Eskola teoriko espositiboak
+-   Testuen irakurketa eta lanketak
+-   Klase praktikoak
+-   Etxean egin beharreko lanketak
+
+Ekintza praktiko gehienek taldeko zein banakako zereginak izango dituzte.
+
+# Ebaluazioa
+
+-   Talde lanak
+    -   Talde handia 3 taldetan
+    -   GAko 6 lan talde (DALekoak izan daitezke).
+-   Banakako idatzizko azterketa
+
+## {background-color="#00887a"}
+
+![](img/uniraautobusahartzeko.png)
+
+# Beharrari ekin!!
