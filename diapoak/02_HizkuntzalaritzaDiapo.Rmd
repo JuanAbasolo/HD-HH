@@ -10,6 +10,9 @@ output:
     transition: fade
     reveal_options:
          slideNumber: true
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
 ```{r setup, echo=FALSE}
@@ -20,53 +23,55 @@ output:
 
 Hizkuntzalaritzaren inguruko oinarritxoak
 
-<small> oinarritxo ñimiñoak </small> 
+<small> oinarritxo ñimiñoak </small>
 
-#
+# 
 
 ### Zer da Hizkuntzalaritza?
 
-##
+## 
 
--  Hizkuntzak eta hauekin zerikusia dituzten fenomenoak aztertzen
-dituen zientzia.
--  Hizkuntzak sistema bat bezala funtzionatzen du. Sistema horren
-barruan fonetika eta fonologia, morfosintaxia, lexikologia,
-semantika, pragmatika daude.
+-   Hizkuntzak eta hauekin zerikusia dituzten fenomenoak aztertzen
+    dituen zientzia.
+-   Hizkuntzak sistema bat bezala funtzionatzen du. Sistema horren
+    barruan fonetika eta fonologia, morfosintaxia, lexikologia,
+    semantika, pragmatika daude.
 
-##
+## 
 
->- Hizkuntzen jabekuntza
->- Hizkuntzalaritza antropologikoa
->- Soziolinguistika
->- Psikolinguistika
->- Neurolinguistika
->- Hizkuntzalaritza historikoa edo konparatua
->- Korpusaren hizkuntzalaritza
->- Hizkuntzalaritza konputazionala
->- Hizkuntzalaritza aplikatua
->- ...
+> -   Hizkuntzen jabekuntza
+> -   Hizkuntzalaritza antropologikoa
+> -   Soziolinguistika
+> -   Psikolinguistika
+> -   Neurolinguistika
+> -   Hizkuntzalaritza historikoa edo konparatua
+> -   Korpusaren hizkuntzalaritza
+> -   Hizkuntzalaritza konputazionala
+> -   Hizkuntzalaritza aplikatua
+> -   ...
 
 # 
 
 ### Zer izan behar dugu kontuan hizkuntza bat ikasterakoan?
 
-##
+## 
 
-Eragiten duten elementuak asko direla esan ohi da, ikertuenak hauek dira:
+Eragiten duten elementuak asko direla esan ohi da, ikertuenak hauek
+dira:
 
-+ **Arreta**: askotan hizkuntza bat ikasten dugunean ez ditugu gauza
-asko kontuan izaten... (klasean ariketa laburra)
-+ **Filtro afektiboak** (motibazioa tartean)
-+ **Kanpoko eta barneko faktoreak**...
+-   **Arreta**: askotan hizkuntza bat ikasten dugunean ez ditugu gauza
+    asko kontuan izaten... (klasean ariketa laburra)
+-   **Filtro afektiboak** (motibazioa tartean)
+-   **Kanpoko eta barneko faktoreak**...
 
-##
+## 
 
-[![Zuriek zenbat pase?](http://img.youtube.com/vi/Ahg6qcgoay4/0.jpg)](http://www.youtube.com/watch?v=Ahg6qcgoay4 "Arreta non, hortxe")
+[![Zuriek zenbat
+pase?](http://img.youtube.com/vi/Ahg6qcgoay4/0.jpg)](http://www.youtube.com/watch?v=Ahg6qcgoay4)
 
-##
+## 
 
-[![](http://img.youtube.com/vi/yJ81LLxfHY8/0.jpg)](http://www.youtube.com/watch?v=yJ81LLxfHY8 "Mc Gurk efektua")
+[![](http://img.youtube.com/vi/yJ81LLxfHY8/0.jpg)](http://www.youtube.com/watch?v=yJ81LLxfHY8)
 
 ```{r eval=FALSE, include=FALSE}
 # Diapoetarako bakarrik
@@ -80,46 +85,62 @@ asko kontuan izaten... (klasean ariketa laburra)
 
 ```
 
-#
+# 
 
 ### Filtro afektiboa?
 
-##
+## 
 
-+ Filtro afektiboa L2 jabekuntza/ikaste prozesua ulertzeko teoria bat da, eta L2 bat jabetzeko/ikasteko arrakasta edo hutsegitearekin lotutako aldagai emozionalak azaltzen ditu.
-+ Filtro psikologiko ikustezina da eta L2 jabekuntza/ikaste prozesua erraztu edo oztopatu dezake.
-+ Filtro afektiboa altua denean, ikasleak estresa, antsietatea edo konfiantza eza esperimentatu ahal ditu, eta honek L2 jabekuntza/ikaste prozesuaren arrakasta eragotzi dezake. Filtro afektiboa baxua denean L2 praktikatzeko eta ikasteko jarrera positiboa eta arriskutsu bat (beldur barik) errazten du.
+-   Filtro afektiboa L2 jabekuntza/ikaste prozesua ulertzeko teoria bat
+    da, eta L2 bat jabetzeko/ikasteko arrakasta edo hutsegitearekin
+    lotutako aldagai emozionalak azaltzen ditu.
+-   Filtro psikologiko ikustezina da eta L2 jabekuntza/ikaste prozesua
+    erraztu edo oztopatu dezake.
+-   Filtro afektiboa altua denean, ikasleak estresa, antsietatea edo
+    konfiantza eza esperimentatu ahal ditu, eta honek L2
+    jabekuntza/ikaste prozesuaren arrakasta eragotzi dezake. Filtro
+    afektiboa baxua denean L2 praktikatzeko eta ikasteko jarrera
+    positiboa eta arriskutsu bat (beldur barik) errazten du.
 
-##  Hausnarketa{data-background=#F5BCA9 }
+## Hausnarketa {data-background="#F5BCA9"}
 
 <br><br>
 
->- (a) Filtro afektiboa kontuan hartuta, zer nolako esperientzia izan duzu beste hizkuntzak ikasterakoan?  
->- (b) Zer egin dezakegu filtro afektiboa txikiagotzeko?
+> -   
+>
+>     (a) Filtro afektiboa kontuan hartuta, zer nolako esperientzia izan
+>         duzu beste hizkuntzak ikasterakoan?\
+>
+> -   
+>
+>     (b) Zer egin dezakegu filtro afektiboa txikiagotzeko?
 
-#
+# 
 
 ### Hizkuntzaren atal nagusiak
 
-##
+## 
 
->+ Semantika
->+ Pragmatika
->+ Morfologia
->+ Sintaxia
->+ Fonetika
->+ Fonologia
->+ ...
+> -   Semantika
+> -   Pragmatika
+> -   Morfologia
+> -   Sintaxia
+> -   Fonetika
+> -   Fonologia
+> -   ...
 
-#
+# 
 
 ### Semantika eta Pragmatika
 
-## Semantika 
+## Semantika
 
-Zeinu linguistikoen esanahiaz arduratzen den hizkuntzalaritzaren azpiatala da. Semantikak esanahi batzuek besteekin duten erlazioa aztertzen du, baita hitzek erreferenteekiko erlazioan dituzten esanahi-aldaketak ere.
- 
-##
+Zeinu linguistikoen esanahiaz arduratzen den hizkuntzalaritzaren
+azpiatala da. Semantikak esanahi batzuek besteekin duten erlazioa
+aztertzen du, baita hitzek erreferenteekiko erlazioan dituzten
+esanahi-aldaketak ere.
+
+## 
 
 > Etxean denok hobeto konektatzeko *sare sendoa* behar dugu
 
@@ -127,122 +148,132 @@ Zeinu linguistikoen esanahiaz arduratzen den hizkuntzalaritzaren azpiatala da. S
 
 ## Pragmatika
 
-Hizkuntzaren erabilera zuzena aztertzen du, eta hizkuntza testuinguru zehatz batean aztertzen du.
-
-##
-
-> Kotxeak eta kotxeak daude 
-
-## Esate baterako 
-
- Lagun bat afaltzera gonbidatzen duzu, eta zure lagunak pastel bat
-hartzen duenean zure alabak esaten dio: 
-
-> *Pastela jaten baduzu gehiago lodituko zara!*
-
- Zu lotsatuta zaude eta ezin duzu sinetsi alabak lagunari esan diona.
+Hizkuntzaren erabilera zuzena aztertzen du, eta hizkuntza testuinguru
+zehatz batean aztertzen du.
 
 ## 
 
-Alabak esan duenak zentzua dauka: pastela jaten badugu, lodituko gara. Baina testuinguru soziala dela eta, amak interpretatzen du alabak lagunari lodi dagoela esan diola. Beraz, lehenengo esaldia, *pastela jaten badugu, lodituko gara*, semantikari egiten dio erreferentzia, baina esaldiaren erabilera zuzena/desegokia kasu honetan, pragmatikari.
+> Kotxeak eta kotxeak daude
 
-Zuk horren antzerako adibide bat aurkitu behar duzu, ahaleginez, bizi izandako zerbait kontatuaz.
+## Esate baterako
 
-## Glosarioa, semantika eta pragmatika: ariketa {data-background=#F781BE }
+Lagun bat afaltzera gonbidatzen duzu, eta zure lagunak pastel bat
+hartzen duenean zure alabak esaten dio:
+
+> *Pastela jaten baduzu gehiago lodituko zara!*
+
+Zu lotsatuta zaude eta ezin duzu sinetsi alabak lagunari esan diona.
+
+## 
+
+Alabak esan duenak zentzua dauka: pastela jaten badugu, lodituko gara.
+Baina testuinguru soziala dela eta, amak interpretatzen du alabak
+lagunari lodi dagoela esan diola. Beraz, lehenengo esaldia, *pastela
+jaten badugu, lodituko gara*, semantikari egiten dio erreferentzia,
+baina esaldiaren erabilera zuzena/desegokia kasu honetan, pragmatikari.
+
+Zuk horren antzerako adibide bat aurkitu behar duzu, ahaleginez, bizi
+izandako zerbait kontatuaz.
+
+## Glosarioa, semantika eta pragmatika: ariketa {data-background="#F781BE"}
 
 Bilatu hurrengo kontzeptuen definizioa eta euskarazko adibideak aipatu:
 
--  hiponimoa
--  hiperonimoa
--  sinonimoa
--  antonimoa
--  homonimoa
+-   hiponimoa
+-   hiperonimoa
+-   sinonimoa
+-   antonimoa
+-   homonimoa
 
-#
+# 
 
 ### Morfologia eta sintaxia
 
-##
+## 
 
 ![](img/02-sintaxia_a.jpg)
 
 ## Qué está controlada? La caza en la zona o la zona para cazar?
 
-##
+## 
 
 ![](img/02-sintaxia_b.jpg)
 
-##
+## 
 
-- Morfologiak hitzen barneko egitura aztertzen du.
-- Nola bereizten ditugu hitzak morfologikoki?
-- izenak, adjektiboak, aditzak, adberbioak, determinatzaileak, izenordainak,
-partikulak, aditz laguntzaileak, ...
+-   Morfologiak hitzen barneko egitura aztertzen du.
+-   Nola bereizten ditugu hitzak morfologikoki?
+-   izenak, adjektiboak, aditzak, adberbioak, determinatzaileak,
+    izenordainak, partikulak, aditz laguntzaileak, ...
 
 ## Aztertu hurrengo esaldia morfologikoki:
 
-|Lagunarekin |etorri |nintzen|
-|:----------:|:-----:|:-----:|
-|Lagun-a-rekin|etor(r)-i| n-in-tze-n|
-|Izena-artik.det.-soziatiboa| aditz erroa-aspk.| 1.per-erro.asp-1.per-irg.|
+|         Lagunarekin         |      etorri       |          nintzen          |
+|:---------------------------:|:-----------------:|:-------------------------:|
+|        Lagun-a-rekin        |     etor(r)-i     |        n-in-tze-n         |
+| Izena-artik.det.-soziatiboa | aditz erroa-aspk. | 1.per-erro.asp-1.per-irg. |
 
 ## Euskararen kasua
 
-##
+## 
 
 Hitza maila goreneko unitatea da, morfema unitate minimoena.
 
 Morfema gramatikalak: funtzio gramatikal eta sintaktikoa.
 
-- deklinabidea, artikuluak, etab.
-- Morfema lexikalak: erro baten esanahia.
-- erro = `etxe`, `edalontzi`, `zoriontasun`, ...
+-   deklinabidea, artikuluak, etab.
+-   Morfema lexikalak: erro baten esanahia.
+-   erro = `etxe`, `edalontzi`, `zoriontasun`, ...
 
-##
+## 
 
 Deklinabideak
 
-- Izen-sintagma: kasu gramatikalak
-- Leku-denborazko kasuak
+-   Izen-sintagma: kasu gramatikalak
+-   Leku-denborazko kasuak
 
 ## Kasu gramatikalak
 
-- absolutoa: `Ø`  
-        *mutil bat dator*
-- partitiboa: `-rik`  
-        *ez du dirurik*
-- ergatiboa: `-k`  
-        *neskak jan du*
-- datiboa: `-i`  
-        *amari eman diot*
+-   absolutoa: `Ø`\
+    *mutil bat dator*
+-   partitiboa: `-rik`\
+    *ez du dirurik*
+-   ergatiboa: `-k`\
+    *neskak jan du*
+-   datiboa: `-i`\
+    *amari eman diot*
 
 ## Leku-denborazko kasuak
 
-- inesiboa: `-n`  
-  *etxean*, *amarengan*
-- leku-genitiboa: `-ko`/`-go`  
-        *etxeko*
-- adlatiboa: `-tik`, `-ra`, `-rako`, `-raino`, `-rantz`  
-        *etxetik*, *amarengandik*; *etxera*, *amarengana*; *etxerako*, *amarenganako*; *etxeraino*, *amarenganaino*; *etxerantz*, *amarenganantz*
+-   inesiboa: `-n`\
+    *etxean*, *amarengan*
+-   leku-genitiboa: `-ko`/`-go`\
+    *etxeko*
+-   adlatiboa: `-tik`, `-ra`, `-rako`, `-raino`, `-rantz`\
+    *etxetik*, *amarengandik*; *etxera*, *amarengana*; *etxerako*,
+    *amarenganako*; *etxeraino*, *amarenganaino*; *etxerantz*,
+    *amarenganantz*
 
 ## Beste osagarri batzuk
 
-- genitiboa: `-en`  
-        *neskaren*
-- instrumentala: `-z`  
-        *gazteleraz*
-- soziatiboa: `-kin`  
-        *neskarekin*
-- motibatiboa: `-(n)gatik`  
-        *neskagatik*
-- destinatiboa: `-entzat`  
-        *neskarentzat*
+-   genitiboa: `-en`\
+    *neskaren*
+-   instrumentala: `-z`\
+    *gazteleraz*
+-   soziatiboa: `-kin`\
+    *neskarekin*
+-   motibatiboa: `-(n)gatik`\
+    *neskagatik*
+-   destinatiboa: `-entzat`\
+    *neskarentzat*
 
-[Gehitxuago jakiteko](https://www.hiru.eus/eu/lengua-vasca/sintagmas-de-la-oracion-declinacion)
+[Gehitxuago
+jakiteko](https://www.hiru.eus/eu/lengua-vasca/sintagmas-de-la-oracion-declinacion)
 
-## Aztertu hurrengo esaldia morfologikoki {data-background=#F7810E }
+## Aztertu hurrengo esaldia morfologikoki {data-background="#F7810E"}
 
-Laguntza ariketa hau egiteko, [hemen](http://ixa2.si.ehu.es/demo/analisianali.jsp)
+Laguntza ariketa hau egiteko,
+[hemen](http://ixa2.si.ehu.es/demo/analisianali.jsp)
 
 > Amaren etxera noa.
 
@@ -254,129 +285,135 @@ Laguntza ariketa hau egiteko, [hemen](http://ixa2.si.ehu.es/demo/analisianali.js
 
 ## Sintaxia
 
-##
+## 
 
 Sintaxiak, berriz, perpausen barneko egitura eta egitura horiek
 perpausan betetzen duten funtzioa.
 
 [Gehitxuago jakiteko](https://www.ehu.eus/seg/hizk/1/4)
 
-## Glosarioa, morfologia eta sintaxia: ariketa {data-background=#F781BE }
+## Glosarioa, morfologia eta sintaxia: ariketa {data-background="#F781BE"}
 
 Bilatu hurrengo kontzeptuen definizioa eta adibideak aipatu:
 
-- izen-sintagma
-- aditz-sintagma
-- ergatiboa
-- komunztadura
-- perpausa
- 
-#
+-   izen-sintagma
+-   aditz-sintagma
+-   ergatiboa
+-   komunztadura
+-   perpausa
+
+# 
 
 ### Fonetika eta Fonologia
 
 ## Fonologia
 
-##
+## 
 
-Fonemak eta beraien funtzioa aztertzen dituen zientzia. Fonemak unitate linguistiko txikienak dira, ez daukate esanahirik eta abstraktuak dira.
-Esanahiak bereizteko balio dute: adibidez, *kopa* eta *topa*. `/k/` eta `/t/` ez dute esanahirik, baina bi hitz hauek bereizteko balio dute.
+Fonemak eta beraien funtzioa aztertzen dituen zientzia. Fonemak unitate
+linguistiko txikienak dira, ez daukate esanahirik eta abstraktuak dira.
+Esanahiak bereizteko balio dute: adibidez, *kopa* eta *topa*. `/k/` eta
+`/t/` ez dute esanahirik, baina bi hitz hauek bereizteko balio dute.
 
 ## Fonetika
 
-Fonetikak soinuak/hotsak eta beraien ekoizpena aztertzen dituen zientzia da. Hau da, soinuak nola eratzen diren eta nola hautematen diren.
-Hotsak fonemen errepresentazio materialak dira.
+Fonetikak soinuak/hotsak eta beraien ekoizpena aztertzen dituen zientzia
+da. Hau da, soinuak nola eratzen diren eta nola hautematen diren. Hotsak
+fonemen errepresentazio materialak dira.
 
-## Fonemak eta alofonoak... 
+## Fonemak eta alofonoak...
 
 ![](img/02-alofono.jpg)
 
-##
+## 
 
->- Pub
->- Smirnoff, zer da?
->- Nola esango zenuke euskaraz *ha ido allí*?
->- Eta gaztelaniaz *nik esan nuen hori atzo*?
->- /astekobatbearda/
->- /binolauxiliaresaltaier/
+> -   Pub
+> -   Smirnoff, zer da?
+> -   Nola esango zenuke euskaraz *ha ido allí*?
+> -   Eta gaztelaniaz *nik esan nuen hori atzo*?
+> -   /astekobatbearda/
+> -   /binolauxiliaresaltaier/
 
-##
+## 
 
-[![IPA euskaraz](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/International_Phonetic_Alphabet_translated_into_basque_Nazioarteko_alfabeto_fonetikoa_eu.pdf/page1-339px-International_Phonetic_Alphabet_translated_into_basque_Nazioarteko_alfabeto_fonetikoa_eu.pdf.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/92/International_Phonetic_Alphabet_translated_into_basque_Nazioarteko_alfabeto_fonetikoa_eu.pdf)
+[![IPA
+euskaraz](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/International_Phonetic_Alphabet_translated_into_basque_Nazioarteko_alfabeto_fonetikoa_eu.pdf/page1-339px-International_Phonetic_Alphabet_translated_into_basque_Nazioarteko_alfabeto_fonetikoa_eu.pdf.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/92/International_Phonetic_Alphabet_translated_into_basque_Nazioarteko_alfabeto_fonetikoa_eu.pdf)
 
-##
+## 
 
-[![Xhosa hizkuntza](http://img.youtube.com/vi/gI6NaZRfnzU/0.jpg)](http://www.youtube.com/watch?v=gI6NaZRfnzU "Xhosa hizkuntza (klikduna)")
+[![Xhosa
+hizkuntza](http://img.youtube.com/vi/gI6NaZRfnzU/0.jpg)](http://www.youtube.com/watch?v=gI6NaZRfnzU)
 
-##
+## 
 
-[![Hizkuntza tonalak](http://img.youtube.com/vi/foImPuD_bKc/0.jpg)](http://www.youtube.com/watch?v=foImPuD_bKc "Sing like you mean it! - the Linguistics of Tonal Languages")
+[![Hizkuntza
+tonalak](http://img.youtube.com/vi/foImPuD_bKc/0.jpg)](http://www.youtube.com/watch?v=foImPuD_bKc)
 
 ## Euskararen hotsak
 
 ## Bokalak
 
-`/a/` 
-        : erdiko bokal ireki edo behekoa
+`/a/` : erdiko bokal ireki edo behekoa
 
-`/e/` 
-        : aitzineko bokal erdi-ireki edo artekoa
+`/e/` : aitzineko bokal erdi-ireki edo artekoa
 
-`/i/` 
-        : aitzineko bokal itxi edo goikoa
+`/i/` : aitzineko bokal itxi edo goikoa
 
-`/o/` 
-        : atzeko bokal erdi-ireki edo artekoa
+`/o/` : atzeko bokal erdi-ireki edo artekoa
 
-`/u/` 
-        : atzeko bokal itxi edo goikoa
+`/u/` : atzeko bokal itxi edo goikoa
 
-`/y/` 
-        : aitzineko bokal biribildu itxi edo goikoa, ortografikoki `ü`z adierazten dena.
+`/y/` : aitzineko bokal biribildu itxi edo goikoa, ortografikoki `ü`z
+adierazten dena.
 
 ## Kontsonanteak
 
 24 fonema kontsonantiko daude. Fonemak honen arabera sailkatzen dira:
 
-- ahots korden ekintza
-- sudur/aho barrunbearen arteko bereizketa
-- ahoskunea
-- ahots moldea
+-   ahots korden ekintza
+-   sudur/aho barrunbearen arteko bereizketa
+-   ahoskunea
+-   ahots moldea
 
-## Glosarioa, fonetika eta fonologia: ariketa {data-background=#F781BE }
+## Glosarioa, fonetika eta fonologia: ariketa {data-background="#F781BE"}
 
 Bilatu hurrengo kontzeptuen definizioa eta euskarazko adibideak aipatu:
 
-- alofonoa
-- fonema
-- hiatoa
-- azentua
-- diptongo
+-   alofonoa
+-   fonema
+-   hiatoa
+-   azentua
+-   diptongo
 
+# Lehenengo ariketa nagusia {data-background="#FE2E9A"}
 
-
-# Lehenengo ariketa nagusia {data-background=#FE2E9A }
- 
 Marraztu hizkuntzaren elementuen jabekuntzaren hurrenkera.
 
 Proposatzen diren testuak: Barreña (2012) eta Garcia et all. (2014).
 
+# Kontzeptuak sendotzeko ariketa {data-background="#FFAAAA"}
 
-# Kontzeptuak sendotzeko ariketa {data-background=#FFAAAA }
+**Alderatu glosategiko elementuen arabera euskara beste hizkuntza
+batekin:**
 
-**Alderatu glosategiko elementuen arabera euskara beste hizkuntza batekin:**
-
-https://www.hiru.eus/eu/lengua/semantica (09/10/2018)  
-https://prezi.com/0s5igkyblus_/pragmatika/  
-https://www.euskara.euskadi.eus/r59-lurconte/eu/contenidos/articulo/c0301/eu_d0301008/0301008.html  
-https://ikasmaterialak.ehu.eus/hizkuntza-ikasketak/euskal-fonetika-fonologia/euskal-fonetika-fonologiaren-ikasketarako-gaiak.pdf
+<https://www.hiru.eus/eu/lengua/semantica> (09/10/2018)\
+<https://prezi.com/0s5igkyblus_/pragmatika/>\
+<https://www.euskara.euskadi.eus/r59-lurconte/eu/contenidos/articulo/c0301/eu_d0301008/0301008.html>\
+<https://ikasmaterialak.ehu.eus/hizkuntza-ikasketak/euskal-fonetika-fonologia/euskal-fonetika-fonologiaren-ikasketarako-gaiak.pdf>
 
 # 
 
-**Erreferentziak** 
+**Erreferentziak**
 
-Barreña, A. (2012). Fonologiaren, lexikoaren, morfologiaren eta sintaxiaren garapena haur euskaldunengan. In *Hizkuntzaz jabetzen* (0-6) (Libk. 16, or. 67–107). Mendebalde Kultura Alkartea. http://www.mendebalde.com/modulos/usuariosFtp/conexion/archi524A.pdf
+Barreña, A. (2012). Fonologiaren, lexikoaren, morfologiaren eta
+sintaxiaren garapena haur euskaldunengan. In *Hizkuntzaz jabetzen* (0-6)
+(Libk. 16, or. 67--107). Mendebalde Kultura Alkartea.
+<http://www.mendebalde.com/modulos/usuariosFtp/conexion/archi524A.pdf>
 
-Garcia, I., Barreña, A., Ezeizabarrena, M. J., Almgren, M., Arratibel, N., & Barnes, J. (2014). Haur euskaldunen komunikazio-garapena neurtzen 30-50 hila-bete bitartean: MacArthur-Bates CDI-III tresnaren euskal bertsioa. _Uztaro: giza eta gizarte-zientzien aldizkaria_, _88_, 33–72.
+Garcia, I., Barreña, A., Ezeizabarrena, M. J., Almgren, M., Arratibel,
+N., & Barnes, J. (2014). Haur euskaldunen komunikazio-garapena neurtzen
+30-50 hila-bete bitartean: MacArthur-Bates CDI-III tresnaren euskal
+bertsioa. *Uztaro: giza eta gizarte-zientzien aldizkaria*, *88*, 33--72.
 
-Euskara Institutua, EHU. (2011). Hots motak, euskal soinuak. In *Sareko Euskal Gramatika (SEG)*. https://www.ehu.eus/seg/fon/1/1/1
+Euskara Institutua, EHU. (2011). Hots motak, euskal soinuak. In *Sareko
+Euskal Gramatika (SEG)*. <https://www.ehu.eus/seg/fon/1/1/1>
