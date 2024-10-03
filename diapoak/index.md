@@ -6,10 +6,10 @@ Aurkezpena:
 
 -   [![](https://img.shields.io/badge/Diapoak-Ikasgaia-black)](00_Ikasgaiaren-aurkezpena.html)
 -   [![](https://img.shields.io/badge/Diapoak-hurrenkera-gray)](00_0klaseko_gidoi.html)
--   [![](https://img.shields.io/badge/Diapoak-Ariketak-white)](../Baliabideak/00_aurkezpena/ Etherpad_ariketa.html)
+-   [![](https://img.shields.io/badge/Diapoak-Ariketak-white)](../Baliabideak/00_aurkezpena/%20Etherpad_ariketa.html)
 
 1.  [![](https://img.shields.io/badge/Diapoak-Hizkuntza-brightgreen)](01_diapoak-Hizkuntza.html)\
-    Barreñaren testua [azpimarratuta](../basto/Barena/Barrena_1994_Chomskyren_arauak_eta_hizkuntz_jabekuntza.pdf)
+    <!--# Barreñaren testua [azpimarratuta](../basto/Barena/Barrena_1994_Chomskyren_arauak_eta_hizkuntz_jabekuntza.pdf) -->\
 
 2.  [![](https://img.shields.io/badge/Diapoak-Hizkuntzalaritza-brightgreen)](02_HizkuntzalaritzaDiapo.html)
 
