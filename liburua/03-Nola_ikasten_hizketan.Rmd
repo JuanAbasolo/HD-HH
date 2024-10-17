@@ -259,11 +259,11 @@ Hala eta guztiz ere, mintzagaian modu jarraituan eta helduek lagundurik aritzeak
 -   4 urterekin ulertzen du helduaren diskurtso deskontestualizatuaeta trebatzen hasten da diskurtso deskontestualizatuetan. Egozentrismoa gainditzen. Gaitasuna oinarrizko espazio-denborazko erlazioak adierazteko eta aurrerapenak erlazio logikoen trebakuntzan ere, nahiz eta oraindik mugak izan erlazio horiek hitzez adierazteko.
 -   5 urterekin gai da produkzio-testuinguruan presente ez dauden gauzez eta gertaerez hitz egiteko
 
-| Erabilera kontestualizatua: produkzio-testuinguruaren menpe                                                                                       | Erabilera deskontestualizatua: produkzio-testuinguruarekiko dependentziarik ez                                                                       |
-|---------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Erabilera kontestualizatua: produkzio-testuinguruaren menpe | Erabilera deskontestualizatua: produkzio-testuinguruarekiko dependentziarik ez |
+|----|----|
 | Mezua adierazteko eta ulertzeko laguntza ez-linguistikoa<br> Produkzio-testuinguruak informazioa ematen du<br> Ez-hitzezko kodeak erabiltzen dira | Mezua adierazteko eta ulertzeko hitzetan oinarritu behar<br> Produkzio-testuinguruak oso informazio gutxi<br> Ez da ia erabiltzen ezhitzezko koderik |
-| Esanahia zuzenean negoziatzeko aukera                                                                                                             | Askotan aukerarik ez esanahia zuzenean negoziatzeko                                                                                                  |
-| Hiztegi eta egitura linguistiko arruntagoak                                                                                                       | Hiztegi zehatza eta egitura linguistiko konplexuagoak                                                                                                |
+| Esanahia zuzenean negoziatzeko aukera | Askotan aukerarik ez esanahia zuzenean negoziatzeko |
+| Hiztegi eta egitura linguistiko arruntagoak | Hiztegi zehatza eta egitura linguistiko konplexuagoak |
 
 Hizkuntza umeak besteekin komunikatzeko duen tresna izatetik, bere buruarekin komunikatzeko tresna ere bihurtuko da, eta bere inguruan jarduten lagunduko dio umeari:
 
@@ -376,15 +376,15 @@ grViz("digraph flowchart {
       ")
 ```
 
-| Hezitzaileak kontuan hartzeko                                                                                                                              | Egitekoak                                                                                         |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| Haurrak komunikazio egoeratan parte hartuz ikasten du hitz egiten                                                                                          | Komunikazio egoerak sortu, antolatu                                                               |
-| Hizkuntzaren funtzio ezberdinak garatzeko, umeak askotariko komunikazio egoeratan parte hartu behar du                                                     | Era askotako komunikazio egoerak sortu, antolatu                                                  |
-| Behar-beharrezkoa umeak komunikazio egoeratan parte hartu nahi eta ahal izatea                                                                             | Haurrarentzako esanguratsuak eta neurrikoak diren eginkizunak proposatu                           |
-| Haurrak hizkuntzaren erabilera desberdinak elkarrizketetan ikasten ditu, berak baino gehiago dakien solaskide batekin                                      | Elkarrizketa esperientzia aberatsak bultzatu                                                      |
+| Hezitzaileak kontuan hartzeko | Egitekoak |
+|----|----|
+| Haurrak komunikazio egoeratan parte hartuz ikasten du hitz egiten | Komunikazio egoerak sortu, antolatu |
+| Hizkuntzaren funtzio ezberdinak garatzeko, umeak askotariko komunikazio egoeratan parte hartu behar du | Era askotako komunikazio egoerak sortu, antolatu |
+| Behar-beharrezkoa umeak komunikazio egoeratan parte hartu nahi eta ahal izatea | Haurrarentzako esanguratsuak eta neurrikoak diren eginkizunak proposatu |
+| Haurrak hizkuntzaren erabilera desberdinak elkarrizketetan ikasten ditu, berak baino gehiago dakien solaskide batekin | Elkarrizketa esperientzia aberatsak bultzatu |
 | Elkarrizketa esperientziak onuragarriak izateko, helduak umeak esan nahi duena kontuan hartu eta haren ahalmen linguistiko eta kognitiboetara egokituko da | Elkarrizketetan, adi egon umeak esan nahi duenari eta egokitzapenak egin berbetan eta esanahietan |
-| Ume txikiak trebetasun komunikatiboak besteekin dituen harreman komunikatibo zuzenetan menperatzen ditu                                                    | Ume bakoitzarekin harreman indibidualak bultzatu                                                  |
-| Komunikazioan aurrera egiteko, oso inportanteak dira afektiboki gratifikanteak diren harremanak                                                            | Umeentzako afektiboki betegarriak diren harremanak bultzatu                                       |
+| Ume txikiak trebetasun komunikatiboak besteekin dituen harreman komunikatibo zuzenetan menperatzen ditu | Ume bakoitzarekin harreman indibidualak bultzatu |
+| Komunikazioan aurrera egiteko, oso inportanteak dira afektiboki gratifikanteak diren harremanak | Umeentzako afektiboki betegarriak diren harremanak bultzatu |
 
 ## (Biblio)grafia
 

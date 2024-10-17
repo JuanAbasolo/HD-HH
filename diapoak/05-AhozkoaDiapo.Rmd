@@ -121,7 +121,7 @@ Egokiagoa dirudi "ahozko hizkuntza" vs "hizkuntza idatzia" ikuspegi dikotomikoa 
 
 ## 
 
-![](../assets/5-2.png)
+![](../liburua/assets/5-2.png)
 
 ## Formaltasun mailak
 
@@ -275,6 +275,8 @@ Bigas, M (2000)
 
 ## 
 
+<small>
+
 -   Gelako antolamenduak ahalbidetuko ditu:
     -   Komunikazio-egoera aberatsak eta umearentzat esanguratsuak
     -   Jarduera mota diferenteak, haurrak garatu beharreko hizkuntza-funtzioak lantzeko bidea emango dutenak
@@ -283,6 +285,8 @@ Bigas, M (2000)
     -   Taldekatze mota diferenteak, bai ikasleen arteko komunikazioa bai irakaslearen eta ikasleen artekoa sustatzeko bidea emango dutenak
         -   Jolasean eta lanean aritzeko aukera anitzak eskaini : talde handia, talde txikiak, ikasleak bikoteka, irakaslea ikasle bakoitzarekin zuzenean, bakarka, ...
         -   Ikasleak taldeka jartze hutsak ez du, beste barik, komunikazio-gaitasunaren garapenean eta ikasketan laguntzen. Baldintza garrantzitsua da ikasleei proposatzen zaizkien eginkizunek haien arteko lankidetza eskatzea.
+        
+</small>
 
 ## Hizkuntzaren garapenerako hezkuntza-egoerak
 
@@ -377,6 +381,8 @@ Egoerak antolatzeko orduan, ez ahaztu:
 
 ## Elkarrizketa
 
+<small>
+
 Elkarrizketaren ekarpenak (Sánchez-Cano, 2009):
 
 -   Komunikazio trebetasunen garapenerako
@@ -392,6 +398,8 @@ Elkarrizketaren ekarpenak (Sánchez-Cano, 2009):
 
 Elkarrizketaren bidez, hitz egiten irakasteaz gain, lagundu ahal diegu umeei "pentsatzeko eta ikasteko" hizkuntza garatzen, estrategia ezberdinak erabiliz:
 
+</small>
+
 ## 
 
 > Gertaerak haien esperientzia eta emozio propioekin erlazionatzea ahalbidetuko dieten estrategiak
@@ -404,12 +412,16 @@ Elkarrizketaren bidez, hitz egiten irakasteaz gain, lagundu ahal diegu umeei "pe
 
 ## Gertaerak haien esperientzia eta emozio propioekin erlazionatzea ahalbidetzeko
 
+<small>
+
 Ipuinaren inguruko elkarrizketetan, elkarrizketa kolektiboetan edo antzeko egoeratan, galderak edo iruzkinak egin ...
 
--   Gertatzen dena (ipuinean edo ikaskideak azaltzen duena) haien esperientzia propioekin erlazionatzea ahalbidetzeko (gertatu zaizu inoiz zuri?, ikusi duzu inoiz....) . Helduak lagundu dezake bere esperientzia propioak azalduz ere.
--   Kausa-ondorio erlazioak ezartzea errazteko (zergatik?) edo erlazio horiek ezartzen direneko ereduak eman (uste dut hori egiteko arrazoia izan dela ....).
--   Besteen emozioak eta sentimenduak ulertzen laguntzeko. Abiapuntua norberaren emozio eta sentimenduak komentatzea izan daiteke (zelan uste duzu sentituko dela printzesa?), edo irakaslearen komentarioak (minduta dago lagunak gezurra esan diolako, ni ere mintzen naiz hori gertatzen zaidanean).
+>-   Gertatzen dena (ipuinean edo ikaskideak azaltzen duena) haien esperientzia propioekin erlazionatzea ahalbidetzeko (gertatu zaizu inoiz zuri?, ikusi duzu inoiz....) . Helduak lagundu dezake bere esperientzia propioak azalduz ere.
+>-   Kausa-ondorio erlazioak ezartzea errazteko (zergatik?) edo erlazio horiek ezartzen direneko ereduak eman (uste dut hori egiteko arrazoia izan dela ....).
+>-   Besteen emozioak eta sentimenduak ulertzen laguntzeko. Abiapuntua norberaren emozio eta sentimenduak komentatzea izan daiteke (zelan uste duzu sentituko dela printzesa?), edo irakaslearen komentarioak (minduta dago lagunak gezurra esan diolako, ni ere mintzen naiz hori gertatzen zaidanean).
 -   Hartzen diren erabakien inguruan argudiatzea errazteko (hartu den erabaki bat egokia izan den ala ez, erabaki bera hartuko zenukeen ala ez, ....)
+
+</small>
 
 ## Prozesu kognitibo elaboratuagoak aktibatzera bideratutakoak
 
@@ -417,10 +429,14 @@ Ipuinaren inguruko elkarrizketetan, elkarrizketa kolektiboetan edo antzeko egoer
 
 Galderak edo iruzkinak egin ...
 
--   Gertatuko denaz hipotesiak eta iragarpenak egiten laguntzeko, umeen ezagutza eta esperientzietatik abiatuta (zer uste duzu gertatuko dela?, zer pasatuko litzateke....). Edo ereduak eman (nik uste dut gero .....) .
--   (istorioan) azaltzen diren gatazkei edo arazoei irtenbideak bilatzen laguntzeko (zer egin genezake hori konpontzeko?, zein izango litzateke modurik hoberena ...?).
--   Besteen tokian jarri eta haien perspektiba hartzen laguntzeko (nola uste duzu sentitzen dela orain?), edo esperimentatu ez diren egoeratan jartzeko (politikaria izan nahi zenuke? zergatik?).
--   Antzezpenaren bidez praktikan jartzen lagundu ( istorioen antzezpenek, adibidez, laguntzen dute hari narratiboa eta pertsonaien sentimenduak eta emozioak ulertzen, eta pertsonaia horien perspektiba hartzen. Antzezpenaren planifikazioak, bestalde, irtenbideak aurkitzea, hipotesiak egitea, ebaluatzea .... dakar)
+<small>
+
+>-   Gertatuko denaz hipotesiak eta iragarpenak egiten laguntzeko, umeen ezagutza eta esperientzietatik abiatuta (zer uste duzu gertatuko dela?, zer pasatuko litzateke....). Edo ereduak eman (nik uste dut gero .....) .
+>-   (istorioan) azaltzen diren gatazkei edo arazoei irtenbideak bilatzen laguntzeko (zer egin genezake hori konpontzeko?, zein izango litzateke modurik hoberena ...?).
+>-   Besteen tokian jarri eta haien perspektiba hartzen laguntzeko (nola uste duzu sentitzen dela orain?), edo esperimentatu ez diren egoeratan jartzeko (politikaria izan nahi zenuke? zergatik?).
+>-   Antzezpenaren bidez praktikan jartzen lagundu ( istorioen antzezpenek, adibidez, laguntzen dute hari narratiboa eta pertsonaien sentimenduak eta emozioak ulertzen, eta pertsonaia horien perspektiba hartzen. Antzezpenaren planifikazioak, bestalde, irtenbideak aurkitzea, hipotesiak egitea, ebaluatzea .... dakar)
+
+</small>
 
 # Egitekoa {data-background="#FE2E9A"}
 
