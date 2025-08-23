@@ -1,0 +1,8 @@
+## Erreferentziak {.unnumbered}
+
+Atal honetan agertzen dira apunteetan zehar aipatutako lanak, horietariko batzuk, baina ez denak, ikasgaiko erreferentzia ofizialetan[^references-1]<!--# Hau urtaro egokitu bihar da . Hamen 2025eraku --> aurkituko dituzu eta beste batzuk, alboz aipatuak direla-edo, ez dituzu han ikusiko.
+
+[^references-1]: Ikasgaiko gidan: <https://www.ehu.eus/eu/web/graduak/haur-hezkuntzako-gradua-bizkaia/kreditu-eta-irakasgaiak?redirect=consultaAsignatura&anyo-academico=20250&ciclo=X&curso=3&asignatura=25916>
+
+::: {#refs}
+:::
