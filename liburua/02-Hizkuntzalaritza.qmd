@@ -2,6 +2,8 @@
 
 <!--# Hemen eta diapoetan begiratu YouTubeko bideoak. batzuk ez dabix -->
 
+<!--# Ariketetara sartu callout-TIPeku -->
+
 Hizkuntzaren Didaktika ulertzeko, ezinbestekoa da hizkuntzaren sakonaz eta konplexutasunaz jabetuta egotea. Horretarako, oinarrizkoa da hizkuntzalaritzaren ekarpenetan murgiltzea: hizkuntza sistematikoki aztertzen duen diziplina da, eta bere baitan hainbat azpieremu biltzen ditu (fonetika, fonologia, morfologia, sintaxia, semantika, pragmatika...). Arlo hauek guztiak hizkuntzaren dimentsio anitzak azaltzen dituzte, eta ikuspegi teoriko zein aplikatuak uztartzen dituzte. Beraz, ikasleak kontziente izan behar du hizkuntzaren irakaskuntza ez dela ikuspegi bakar batekin ulertu edo garatu daitekeen zerbait, baizik eta ezagutza askotariko eta konplexu baten gainean eraikitzen dela.
 
 Horrez gain, aurrera egiteko glosategia sortu beharko duzu, pausoz pauso eta zure adibide propioak gehituaz, ertz batzuei buruzko ezagutzak barneratu edo gogoratu ahal izateko.
@@ -13,7 +15,7 @@ Hizkuntzalaritza hizkuntzarekin eta harekin lotutako fenomenoekin arduratzen den
 Hizkuntzalaritzak ezagutza-esparru zabala hartzen du, eta ikerketa-ikuspegi oso desberdinak biltzen ditu. Batetik, hizkuntzaren barne-egitura aztertzen duten diziplinak daude; bestetik, hizkuntza gizartean, garunean edo historian nola funtzionatzen duen ikertzen dutenak. Horregatik, hizkuntzalaritzaren barruan hainbat adar edo azpiadarrak bereizten dira, bakoitza bere helburu eta metodologiarekin:
 
 | Adarra | Azalpena |
-|--------------------|----------------------------------------------------|
+|------------------------|------------------------------------------------|
 | Hizkuntzen jabekuntza | Gizakiak hizkuntza nola eskuratzen duen aztertzen du, bai lehen hizkuntzaren ikaskuntza (haurrengan), bai bigarren hizkuntzen ikaskuntza. |
 | Hizkuntzalaritza antropologikoa | Hizkuntza eta kultura arteko harremana aztertzen du; hizkuntza giza gizartearen adierazpen kultural gisa ikusten du. |
 | Soziolinguistika | Hizkuntza eta gizartearen arteko harremana aztertzen du: hizkuntza aldaketa, bariazioa, diglosia, hizkuntza politika, etab. |
@@ -42,11 +44,14 @@ Arreta funtsezkoa da hizkuntza prozesatzeko eta esanguratsua den informazioa ber
 #
 # McGurk efektua, ikusmena entzunari gailentzen zaiola erakusteko: 
 #        https://www.youtube.com/watch?v=yJ81LLxfHY8
-# Le diste la plata del alquiler al abuelo? 
+
+# Le diste la plata del alquiler del padrino? https://www.youtube.com/shorts/8fevFTOMW5s
+# Azalpenak TV12 https://www.youtube.com/watch?v=K3vd6OaErp0
+
 # Conversations on the plane: https://www.youtube.com/shorts/rFW6iF3sUys
 ```
 
-Filtro afektiboa, berriz, hizkuntza ikasteko motibazioari eta egoera emozionalei lotutako mekanismo psikologiko bat da. Dulay eta Burt -@dulay1977 eta Krashen [-@krashen1981; -@krashen1982] bezalako ikertzaileek garatu zuten kontzeptua, eta azpimarratzen dute faktore emozionalek (motibazioa, antsietatea, autoestimua, segurtasun falta...) zuzenean baldintzatzen dutela ikaskuntza. Filtroa altua denean, ikasleak beldur edo segurtasun faltarekin aritzen dira, eta hizkuntza berria barneratzea zailagoa da. Filtroa baxua denean, berriz, ikaslea lasaiago, irekiago eta arriskuak hartzeko prestago agertzen da, ikaskuntza errazago eta eraginkorrago bihurtuz. Giro positibo eta segurua sortzea, beraz, ezinbestekoa da.
+Filtro afektiboa, berriz, hizkuntza ikasteko motibazioari eta egoera emozionalei lotutako mekanismo psikologiko bat da. Dulay eta Burt [-@dulay1977] eta Krashen [-@krashen1981; -@krashen1982] bezalako ikertzaileek garatu zuten kontzeptua, eta azpimarratzen dute faktore emozionalek (motibazioa, antsietatea, autoestimua, segurtasun falta...) zuzenean baldintzatzen dutela ikaskuntza. Filtroa altua denean, ikasleak beldur edo segurtasun faltarekin aritzen dira, eta hizkuntza berria barneratzea zailagoa da. Filtroa baxua denean, berriz, ikaslea lasaiago, irekiago eta arriskuak hartzeko prestago agertzen da, ikaskuntza errazago eta eraginkorrago bihurtuz. Giro positibo eta segurua sortzea, beraz, ezinbestekoa da.
 
 Azkenik, kanpoko eta barneko faktoreek ere eragin nabarmena dute. Kanpoko faktoreen artean daude, adibidez, ikas-ingurunea, irakasleen estilo didaktikoa, edukiaren egokitasuna edo talde-dinamika. Barneko faktoreen artean, berriz, ikaslearen aurreko esperientziak, hizkuntzarekiko jarrera, helburu pertsonalak eta estilo kognitiboak aipa daitezke. Faktore hauek guztiek ikaslearen erritmoa, estrategiak eta motibazioa baldintzatzen dituzte.
 
@@ -86,8 +91,13 @@ Pragmatika: Hizkuntzaren erabilera aztertzen du testuinguru zehatzetan, komunika
 > > *Pastela jaten baduzu gehiago lodituko zara!*
 >
 > Esaldi horrek esanahi zuzena du (semantika), baina egoera sozialak eraginda, amak uler dezake lagunari lodia dela esan diola (pragmatika).
+:::
 
-Zuk horren antzerako adibide bat aurkitu behar duzu, ahal bada bizi izandako zerbait kontatuz (oso ona izan daiteke gurasoei galdetzea).<!--# Ariketetara sartu -->
+::: callout-important
+# Ariketa
+
+Zuk horren antzerako adibide bat aurkitu behar duzu, ahal bada bizi izandako zerbait kontatuz eta analizatuaz.\
+Ona izan daiteke gurasoei galdetzea.
 :::
 
 [![Ezagutza prosodikoa umetan, adibide bideoa](http://img.youtube.com/vi/_JmA2ClUvUY/0.jpg)](https://www.youtube.com/watch?v=_JmA2ClUvUY)
@@ -218,10 +228,8 @@ Hurrengo ariketa gehigarria da, kontzeptuak hobeto ulertzera bideratutakoa.
 ::: callout-important
 ## Hizkuntzen alderaketa
 
-**Euskara alderatu beste hizkuntza batekin** ezaugarri linguistikoetan oinarrituta.\
+Euskara alderatu beste hizkuntza batekin ezaugarri linguistikoetan oinarrituta.\
 :::
-
-
 
 ## Sakontzeko bibliografia {#T2E .unnumbered}
 
@@ -233,7 +241,8 @@ Korta, K. (2001). Begiratu zabala gaur egungo pragmatikari. *Gogoa: Euskal Herri
 \
 \
 
-***
+------------------------------------------------------------------------
+
 Hizkuntzalaritzaren azterketak erakusten du hizkuntza ez dela komunikazio-tresna soila, baizik eta sistema konplexua, maila askotariko arauekin eta funtzio sozial, kognitibo eta afektiboekin. Horregatik, hizkuntzaren didaktikan ezinbestekoa da diziplina honek eskaintzen duen ikuspegi zabala kontuan hartzea, ikasleek hizkuntza nola ikasten eta erabiltzen duten modu osoagoan ulertzeko.
 
 Orain arte hizkuntzaren egitura eta dimentsio nagusiak aztertu ditugu ikuspegi teorikotik. Baina galdera garrantzitsu bat zabalik geratzen da: nola ikasten du umeak hizketan? Hurrengo atalean hizkuntzaren jabekuntza prozesuan sakonduko dugu, haurrek lehen urteetatik hizkuntza nola bereganatzen duten eta zein faktorek baldintzatzen duten aztertuz.

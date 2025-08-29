@@ -1,4 +1,6 @@
-# Hizkuntzaz {#T1}
+# Hizkuntzaz
+
+<!--# Jantzi eta egokitu apunteok, beste gaien aldian honeek labur -->
 
 Hizkuntza zer den definitu behar genuke, hizkuntzaren didaktikaz aritu aurretik. Baina ez dago definizio bakar eta eztabaidaezinik: hizkuntza zer den azaltzeko ikuspegi anitz eta osagarriak daude. Hori dela eta, gai honetan hainbat ikuspegi jorratuko ditugu, hizkuntzaren funtzio nagusiak ulertu ahal izateko.
 
@@ -14,7 +16,7 @@ Hizkuntzaz hitz egiten dugunean, zer datorkigu burura? Hausnarketarako, ondoko g
 
 [![Zer "ikusi" hura "ikasi"](https://img.youtube.com/vi/jOrGsB4qG_w/0.jpg)](http://www.youtube.com/watch?v=jOrGsB4qG_w)
 
-Esan dezakegu hizkuntza dela komunikazio tresna, pentsatzeko tresna, ikasteko tresna eta sortzeko tresna. Horrek planteatzen du beste galdera bat ere: ea hizkuntza tresna hutsa den, ala gu geu garen neurri handi batean hizkuntzaren emaitza. Ikuspegi horiek hurrengo ataletan garatuko ditugu.
+Hizkuntzari buruzko definizio bakar eta eztabaidaezinik ez dago. Horregatik, hizkuntzaren funtzio nagusiak modu osagarrian aztertuko ditugu: komunikatzeko tresna, pentsatzeko eta ikasteko tresna, eta sortzeko tresnatzat hartuta. Galdera giltzarri bat muinean: hizkuntza tresna hutsa al da ala neurri handian gu geu gara hizkuntzaren emaitza? Ikuspegi horiek hurrengo ataletan garatuko ditugu.
 
 ## Hizkuntza: komunikazio tresna
 
@@ -30,7 +32,7 @@ Hizkuntza komunikatzeko ezinbestekoa bada, horrez gain gure pentsatzeko eta ikas
 
 ## Hizkuntza: pentsatzeko eta ikasteko tresna
 
-Hizkuntzaren bitartez mundua ezagutzen eta ulertzen dugu, hizkuntzak berak horretan laguntzen digulako. Hizkuntza ez da informazioa transmititzeko bakarrik: gure pentsamendua antolatzeko eta ikasteko ere ezinbestekoa da. Munduan eragiteko hizkuntza darabilgu jarduerak hizkuntzaren bitartez planifikatzen, antolatzen eta kontrolatzen ditugunean.
+Hizkuntzaren bitartez mundua ezagutzen eta ulertzen dugu, hizkuntzak berak horretan laguntzen digulako. Hizkuntza ez da informazioa transmititzeko bakarrik: gure pentsamendua antolatzeko eta ikasteko ere ezinbestekoa da. Munduan eragiteko hizkuntza darabilgu, jarduerak hizkuntzaren bitartez planifikatzen, antolatzen eta kontrolatzen ditugunean.
 
 > ... lengoaiaren bitartez, amak umeari erakusten dizkio eraiki behar duen munduaren planu semantikoak. Errealitate gordina ez daiteke habitatu: zentzua eman behar zaio, zatitu, alor eta sailetan banatu behar da eta euren arteko bideak eta hartu-emanak eraiki behar dira, batetik bestera igarotzeko. Nahitanahiez, haurrak eraiki behar du bere bizi-gunea, errealitatearen jabe egin behar baita. Baina latza litzateke arkitektura bera ere asmatu beharra. (...) Hizkuntzari eskerrak, zure esperientzien menpekoa ez zara soilik, beste guztien eserientziak ere baliatu ditzakezu.
 >
@@ -48,11 +50,12 @@ Hizkuntzaren bitartez mundua ezagutzen eta ulertzen dugu, hizkuntzak berak horre
 > -- @marina1993
 :::
 
-Ikuspuntu hau ez dago bakarrik: Vygotskyk -@vygotskij1965 ere nabarmendu zuen hizkuntzaren funtzio antolatzailea eta pentsamendua garatzeko duen garrantzia.
+Ikuspuntu hau beste egile batzuek ere nabarmendu dute: Vygotskyk [-@vygotskij1965] azpimarratu zuen hizkuntzaren funtzio antolatzaileak pentsamendua garatzeko duen garrantzia.
 
 ### Adibideak
 
-Ideia horien isla ikusteko, @wells1988 liburuan hainbat elkarrizketa jaso ziren. Hona hemen batzuk:
+
+Ondoko elkarrizketek erakusten dute haurrek nola erabiltzen duten hizkuntza ikasteko eta pentsatzeko, galderak eginez eta erantzunak eraikiz:
 
 > Elizabeth, lau urteko haurra, amari so dago, beheko suko errautsak pala batekin batu eta balde batera zelan botatzen dituen ikusten.
 >
@@ -149,7 +152,9 @@ Kontuan izan hau ez dela jatorrizko testua, ingelesezkoaren itzulpena baino ez d
 > -- @wells1988, 81 or.
 :::
 
-![Pentsatzeko ariketa: Horrek zer eragiten dizu? ...eta zelan du izena zure inguruan?](assets/img/Sympetrum_flaveolum_-_side_(aka).jpg){width="547"}
+![Pentsatzeko ariketa: Horrek zer eragiten dizu? ...eta zelan du izena zure inguruan?. Irudia: André Karwath; Wikimedia.](assets/img/Sympetrum_flaveolum_-_side_(aka).jpg){width="547"}
+
+<!--# https://commons.wikimedia.org/wiki/File:Sympetrum_flaveolum_-_side_(aka).jpg -->
 
 Hizkuntza ez da komunikatzeko tresna hutsa, baizik eta pentsatzeko eta ikasteko oinarria. Haurrek hizkuntzaren bidez mundua zatitu, ulertu eta antolatzen dute, eta besteen esperientziaz ere baliatzen dira.
 
@@ -159,22 +164,22 @@ Pentsatzeko eta ikasteko ezinbestekoa bada hizkuntza, gure adierazpen sortzailea
 
 Hizkuntza bera ere sortzeko tresna da. Ez da bakarrik komunikatzeko edo pentsatzeko baliabidea: adierazpen estetiko eta ludikoaren oinarrian ere badago. Hori argi ikusten da adibide hauetan:
 
-- Poemak
-- Ipuinak
-- Kantak
-- Ahokorapiloak
-- Igarkizunak
-- Hitz-jokoak
+-   Poemak
+-   Ipuinak
+-   Kantak
+-   Ahokorapiloak
+-   Igarkizunak
+-   Hitz-jokoak
 
 Kulturalki zabalpen handikoak dira bertsolaritza edo errefrauak, esate baterako.
 
-> *Ago ixiletik ez da ezer jakiten*  
+> *Ago ixiletik ez da ezer jakiten*
 
 Erderaz bat
 
 > *Hombre refranero, hombre majadero*
 
-Errefrauen kasuan, gainera, zabalpen kulturalak ematen dio *egiagoa*ren tokia, errefrauok erabiltzen diren inguruan. 
+Errefrauen kasuan, ingurune kulturalak ematen dio balioa eta *egiatasuna*: errefrau horiek erabiltzen diren testuinguru sozialetan egiatzat funtzionatzen baitute. Horrela, hizkuntzak ez du bakarrik mezu bat adierazten, baizik eta kultura eta komunitatea eraikitzen ditu.
 
 Hizkuntza sormen-tresna da, gure kultura eta irudimena adierazteko bide ugari eskaintzen dituena. Sormen hori, gainera, sozialki partekatua da (bertsoak, errefrauak), hizkuntza aberastuz eta belaunaldiz belaunaldi transmitituz.
 
@@ -185,14 +190,14 @@ Hizkuntzaren funtzio sortzaile hau ulertzea ezinbestekoa da irakasleentzat ere. 
 
 Hurrengo puntuak taldeko hausnarketa bat egiteko dira, ikuspegi bikoitzetik: norbanako legez eta Haur Hezkuntzako irakasle(gai) legez.
 
-- Gure hizkuntzei zein erabilera ematen diegu? (H1/H2/...)  
-  Nahi duguna nahi dugun moduan adierazteko balio digu?
-- Irakasle gisa, zer garrantzia du ikasgelan hizkuntza aberatsa eta adierazkorra erabiltzea?
-- Zer egin dezakegu hizkuntza "tutu triste" bat balitz bezala erabili beharrean haren gaitasun guztiaz baliatzeko?
-- Eta HHko gelan zein neurritan ematen zaie aukera umeei hurrengoak egiteko?
-    - Ideiak ahalik eta ondoen formulatzeko, haien ekintzak justifikatzeko, esperimentatzen dutenaz hausnartzeko eta arrazonatzeko, argumentatzeko, azalpenak emateko, planifikatzeko, kontatzeko...  
-    - Haien mundu emozionalarekin konektatu eta sentimenduak eta emozioak hitzez adierazteko, haietaz kontzientzia hartzeko, emozioak eta sentimenduak konpartitzeko?  
-    - Hizkuntzarekin jolasteko, sortzeko eta gozatzeko?  
+-   Gure hizkuntzei zein erabilera ematen diegu? (H1/H2/...) Nahi duguna nahi dugun moduan adierazteko balio digute H~x~ guztiek?
+-   Irakasle gisa, zer garrantzia du ikasgelan hizkuntza aberatsa eta adierazkorra erabiltzea?
+-   Zer egin dezakegu hizkuntzaren erabilera bizi eta adierazkorraz ere adierazteko?
+-   Eta HHko gelan zein neurritan ematen zaie aukera umeei hurrengoak egiteko?
+   -   Ideiak ahalik eta ondoen formulatzeko, haien ekintzak justifikatzeko, esperimentatzen dutenaz hausnartzeko eta arrazonatzeko, argumentatzeko, azalpenak emateko, planifikatzeko, kontatzeko... ?
+   -   Haien mundu emozionalarekin konektatu eta sentimenduak eta emozioak hitzez adierazteko, haietaz kontzientzia hartzeko, emozioak eta sentimenduak konpartitzeko?
+   -   Hizkuntzarekin jolasteko, sortzeko eta gozatzeko?
+-   Irakasle gisa, zelako esperientziak eskaini ahal dizkiogu ume guztiei hizkuntzaren erabilerari dagokionean? Zelan erabili dezakegu elkarrizketa? Zer-nolako estrategiak erabili ditzakegu?
 
 Irakasle gisa, zer-nolako esperientziak eskaini ahal dizkiegu umeei hizkuntzaren erabilerari dagokionean? Zelan erabili dezakegu elkarrizketa? Zer-nolako estrategiak erabili ditzakegu?
 :::
@@ -229,15 +234,13 @@ Curriculumean hizkuntzak ikasleen garapen integralerako gako gisa ulertzen dira,
 
 Curriculumean ezarritako ikuspegi orokorretatik, ikasle indibidualen hizkuntza-eskurapenean eragin handia duen kontzeptu batera igaroko gara: aro kritikoa.
 
-
 ## Aro kritikoa
-
 
 Hizkuntzaren jabekuntzan behin eta berriz aipatzen den kontzeptua da **aro kritikoa**. Baina zer esan nahi du, benetan? Ideia nagusia da badagoela denboraldi edo garai berezi bat, zeinetan hizkuntzak eskuratzeko gaitasuna bereziki bizia eta eraginkorra den. Aldi hori behin igarota, hizkuntza berrien eskurapena zailagoa edo mugatuagoa izan litekeela proposatu izan dute hainbat autorek.
 
 Hala ere, ez dago guztiz argi aro kritiko bakarra den, ala hizkuntza guztientzat eta hizkuntza-trebetasun guztientzat berdin aplikatzen den. Are gehiago, galdera batzuk zabalik daude: adibidez, irakurmena, ahozkera edo ulermena aldi berean murrizten al dira? Eta aro kritiko hori gaindituta, zer gertatzen da hizkuntza berri bat ikasteko?
 
-[![](https://img.youtube.com/vi/R1vgUSTyPWk/0.jpg)](http://www.youtube.com/watch?v=R1vgUSTyPWk)
+[![](https://img.youtube.com/vi/R1vgUSTyPWk/0.jpg)](https://www.youtube.com/watch?v=R1vgUSTyPWk)
 
 Selinkerren ustez [-@selinker1972] beste hizkuntza batean arrakasta osoa lortzen da jatorrizko hiztun bat bezala bezain ongi hitz egiterakoan. Ados zaude?
 
@@ -279,6 +282,6 @@ Irakurri @barreña1994 [artikulua](https://zientzia.eus/artikuluak/chomskyren-ar
 <!--# Barreñaren testua azpimarratuta -->
 :::
 
-## Bibliografia osagarria {#T1E .unnumbered}
+## Bibliografia osagarria {.unnumbered}
 
 Gutierrez Mangado, M. J., & Ezeizabarrena Segurola, M. J. (2022). *Hotsetik hitzera Nola bereganatzen dute hizkuntza haur euskaldunek?* Erein Argitaletxea.

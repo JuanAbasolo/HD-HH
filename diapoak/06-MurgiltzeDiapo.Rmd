@@ -12,6 +12,8 @@ output:
          slideNumber: true
 ---
 
+<!--# Eruan diapuk apuntietara -->
+
 # Murgiltze klaseak <br><small>Zer izan behar dugu kontuan?</small>
 
 ##
@@ -60,7 +62,14 @@ Lau programa mota:
 
 ## Moises-en kasua
 
-https://www.youtube.com/watch?v=I6Y0HAjLKYI
+![]()
+
+```{r echo=FALSE, fig.cap="<https://www.youtube.com/watch?v=I6Y0HAjLKYI>"}
+knitr::include_graphics("../liburua/images/paste-5.png")
+```
+
+
+<!--# <https://www.youtube.com/watch?v=I6Y0HAjLKYI> -->
 
 ##
 
@@ -244,7 +253,7 @@ Ahalbidetzen dute:
 + funtzio eta egitura komunikatibo eta linguistiko errazak eta laburrak erabiltzea, errepikakorrak
 + haurra seguruago sentitzea, berak parte hartzea erraztuz
 
-## Gela hirueleduna
+## Ariketa: Gela hirueleduna {data-background="#FE2E9A"}
 
 Frisiako gela bat: https://www.futurelearn.com/courses/multilingual-practices/0/steps/22654
 

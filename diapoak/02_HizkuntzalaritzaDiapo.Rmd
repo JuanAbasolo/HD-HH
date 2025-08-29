@@ -67,11 +67,14 @@ dira:
 ## 
 
 [![Zuriek zenbat
-pase?](http://img.youtube.com/vi/Ahg6qcgoay4/0.jpg)](http://www.youtube.com/watch?v=Ahg6qcgoay4)
+pase?](http://img.youtube.com/vi/IGQmdoK_ZfY/0.jpg)](https://www.youtube.com/watch?v=IGQmdoK_ZfY)
 
 ## 
 
-[![](http://img.youtube.com/vi/yJ81LLxfHY8/0.jpg)](http://www.youtube.com/watch?v=yJ81LLxfHY8)
+🏠 🤔 🚴
+
+<https://www.youtube.com/shorts/8fevFTOMW5s>
+
 
 ```{r eval=FALSE, include=FALSE}
 # Diapoetarako bakarrik
@@ -81,7 +84,7 @@ pase?](http://img.youtube.com/vi/Ahg6qcgoay4/0.jpg)](http://www.youtube.com/watc
 # McGurk efektua, ikusmena entzunari gailentzen zaiola erakusteko: 
 #        https://www.youtube.com/watch?v=yJ81LLxfHY8
 
-
+# Azalpena Cordobaco 12TV-n: https://www.youtube.com/watch?v=K3vd6OaErp0
 
 ```
 
@@ -175,6 +178,15 @@ baina esaldiaren erabilera zuzena/desegokia kasu honetan, pragmatikari.
 Zuk horren antzerako adibide bat aurkitu behar duzu, ahaleginez, bizi
 izandako zerbait kontatuaz.
 
+## Ariketatxua {data-background="#F7810E"}
+
+Aurrekoaren antzerako adibide bat aurkitu behar duzu; ahal bada, bizi izandako zerbait kontatuaz eta analizatuaz.
+<small> oso ona izan daiteke gurasoei galdetzea </small>
+
+## 
+
+[![Ezagutza prosodikoa umetan, adibide bideoa](http://img.youtube.com/vi/_JmA2ClUvUY/0.jpg)](https://www.youtube.com/watch?v=_JmA2ClUvUY)
+
 ## Glosarioa, semantika eta pragmatika: ariketa {data-background="#F781BE"}
 
 Bilatu hurrengo kontzeptuen definizioa eta euskarazko adibideak aipatu:
@@ -193,7 +205,7 @@ Bilatu hurrengo kontzeptuen definizioa eta euskarazko adibideak aipatu:
 
 ![](img/02-sintaxia_a.jpg)
 
-## Qué está controlada? La caza en la zona o la zona para cazar?
+## ¿Qué se controla? ¿La caza en la zona o la zona para cazar?
 
 ## 
 
@@ -209,7 +221,7 @@ Bilatu hurrengo kontzeptuen definizioa eta euskarazko adibideak aipatu:
 ## Aztertu hurrengo esaldia morfologikoki:
 
 |         Lagunarekin         |      etorri       |          nintzen          |
-|:---------------------------:|:-----------------:|:-------------------------:|
+|:--------------------------:|:-----------------:|:------------------------:|
 |        Lagun-a-rekin        |     etor(r)-i     |        n-in-tze-n         |
 | Izena-artik.det.-soziatiboa | aditz erroa-aspk. | 1.per-erro.asp-1.per-irg. |
 

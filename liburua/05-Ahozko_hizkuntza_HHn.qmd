@@ -1,5 +1,7 @@
 # Ahozko hizkuntza Haur Hezkuntzan
 
+<!--# Diapuk antolatu apunteon arabera [ ] -->
+
 > ![42 umeren lexikoaren garapena, @hart2003 (jatorrizkoa @hart1995)](images/paste-4.png){width="338"}
 >
 > Our data provide us, however, a first approximation to the absolute magnitude of children's early experience, a basis sufficient for estimating the actual size of the intervention task needed to provide equal experience and, thus, equal opportunities to children living in poverty.
@@ -52,50 +54,7 @@ Eskolak, beraz, eskatzen du:
 
 Eskolako hizkuntzaren praktika horiek, hasieran zailak izan daitezkeen arren, haurren gaitasun linguistikoak aberasten dituzte eta ahozko erabilera formalerako lehen urratsak suposatzen dituzte.
 
-```{mermaid}
-%%| label: "5.1"
-%%| fig-cap: "Hizkuntzaren erabileraren garapena gure gizarte alfabetatuan"
-%%| format: html
-
-flowchart LR
-    tab1["Kontestualizatutik"] --> tab2["Deskontestualizatura"]
-    tab3["Elkarrizketatutik"] --> tab4["Bakarrizketatura"]
-    tab5["Ahozko kolokialetik"] --> tab6["Idatzi prototipikora"]
-```
-
-Diagrammer erabilita
-
-```{r}
-#| tags: 5.1.b
-#| eval: false
-#| echo: false
-
-library(DiagrammeR)
-grViz("digraph flowchart {
-      rankdir = LR
-      # node definitions with substituted label text
-      node [fontname = Helvetica, shape = rectangle]        
-      tab1 [label = '@@1']
-      tab2 [label = '@@2']
-      tab3 [label = '@@3']
-      tab4 [label = '@@4']
-      tab5 [label = '@@5']
-      tab6 [label = '@@6']
-
-      # edge definitions with the node IDs
-      tab1 -> tab2;
-      tab3 -> tab4;
-      tab5 -> tab6
-      }
-
-      [1]: 'Erabilera kontestualizatutik'
-      [2]: 'erabilera deskontestualizatura'
-      [3]: 'Erabilera elkarrizketatutik'
-      [4]: 'erabilera bakarrizketatura'
-      [5]: 'Ahozko erabilera kolokialetik'
-      [6]: 'erabilera idatzi prototipikora'
-      ")
-```
+![Hizkuntzaren erabileraren garapena gure gizarte alfabetatuan](images/paste-6.png){#fig-5.1}
 
 ## Ahozko hizkuntza eta eskola
 
@@ -107,15 +66,73 @@ Askotan egiten den ahozkoaren eta idatziaren arteko bereizketa ez da erabat erre
 
 Eskolak haurrei aukera eskaintzen die continuum horretan aurrera egiteko, ahozko erabilera kolokialetik formalerantz, eta hortik idatzizko komunikaziorako jauzia egiteko. Horretarako, ezinbestekoa da hizkuntza-erabilera askotarikoak proposatzea, umeei hizkuntza modu naturalean erabiltzeko aukera emateaz gain, erabilera formal eta akademikoetara hurbiltzeko aukera ere eskaintzen dietenak.
 
-### Ahozkoa ↔ Idatzia: continuum batean
+### Ahozkoa [↔]{.content-visible when-format="html"} [\longleftrightarrow]{.content-visible when-format="pdf"} Idatzia: continuum batean
 
 Eskolan ez da nahikoa ahozko eta idatzizko hizkuntzaren artean bereizketa zorrotza egitea; izan ere, benetako komunikazio-testu gehienek bi erregistroen ezaugarriak konbinatzen dituzte. Adibidez, ahoz esandako azalpen batek planifikazioa, egitura logikoa eta hiztegi espezifikoa izan ditzake, eta idatzizko testu batek, berriz, espontaneotasun eta ahozkotasun arrastoak izan litzake.
 
 Hori dela eta, *continuum* baten irudia da egokiena: alde batean ahozko erabilera guztiz kontestualizatua dago, eta bestean idatziaren erabilera abstraktu eta deskontestualizatua. Eskolaren zeregina da haurrei aukera ematea continuum horretan mugitzen ikasteko, ahozko erabilera kolokialetik abiatuta, baina pixkanaka ahozko erabilera formalago eta idatziaren antzekoagoetara hurbilduta.
 
-![](assets/5-2.png)
+::: {.content-visible when-format="html"}
+```{dot .content-visible unless-format="pdf"}
+//| label: fig-5-2a
+//| fig-cap: "Ahozkoa eta idatzia continuumtzat"
 
-Continuum horren kontzientzia izateak aukera ematen die irakasleei jarduera egokiak planifikatzeko, umeek ez baitute salto batetik bestera egin behar: trantsizioak egin behar dituzte, eta horietan esperientzia, elkarrizketa gidatuak eta jarduera akademikoak oinarrian daude.
+digraph G {
+  rankdir=LR
+  nodesep=0.2
+  ranksep=1
+  splines=true
+
+  node [shape=box, style="filled", fillcolor="#FFFACD",
+        color="#000000ff", fontname="Helvetica"]
+  edge [color="#000000ff", arrowsize=0.8]
+
+  /* --- Nodoak (ezker zutabea) --- */
+  M1   [label="Modua"]
+  KOL  [label="Ahozko kolokiala\n(prototipoa)"]
+  FORN [label="Ahozko formala"] 
+  M2   [label="Modua"]
+  NEAR [label="Ahozkoara hurbiltzen den\nidatzia"]
+  IDAT [label="Idatzia (prototipoa)"]
+
+  /* --- Nodoak (eskuin zutabea) --- */
+  CTX     [label="TESTUINGURUKO\nPARAMETROAK"]
+  PARAMSA [label="Akustikoa\nInformala\nOrokorra\nEspontaneoa\nElkarrizketatua\nSubjektiboa\nAldi berekoa\nInteraktiboa\nPribatua"]
+  PARAMSB [label="Formala\nEspezifikoa\nPentsatua\nBakarrizketatua\nObjektiboa\nEz aldi berekoa\nInformatiboa\nPublikoa\nGrafikoa"]
+
+
+  /* === Errenkadak: bi zutabeen taula === */
+  { rank=same; M1;    CTX }
+  { rank=same; KOL;   PARAMSA  }   
+  { rank=same; PARAMSA; NEAR  }
+  { rank=same; PARAMSB; FORN  }
+  { rank=same; PARAMSB; IDAT  }
+
+  /* Zutabe bakoitza bertikalki finkatzeko kate ikusezinak */
+  M1  -> KOL  -> FORN          [style=invis, weight=10]
+  CTX -> PARAMSA -> PARAMSB    [style=invis, weight=10]
+  M2  -> NEAR -> IDAT          [style=invis, weight=10]
+
+  /* ==== Loturak (zure eredua) ==== */
+  M1   -> KOL
+  KOL  -> FORN       [dir=both]
+  KOL     -> PARAMSA [dir=none]
+  FORN    -> PARAMSB [dir=none]
+  CTX     -> PARAMSA [dir=none]
+  PARAMSA -> PARAMSB [dir=none]
+  M2   -> NEAR
+  NEAR -> IDAT       [dir=both]
+  PARAMSA -> NEAR    [dir=none]
+  PARAMSB -> IDAT    [dir=none]
+}
+```
+:::
+
+::: {.content-visible when-format="pdf"}
+![](assets/img/5-2_continuum.png){#fig-5-2b width="80%"}
+:::
+
+Continuum horren kontzientzia izateak aukera ematen die irakasleei jarduera egokiak planifikatzeko, umeek ez baitute saltorik egin behar batetik bestera: trantsizioak egin behar dituzte, eta horietan esperientzia, elkarrizketa gidatuak eta jarduera akademikoak oinarrian daude.
 
 #### Formaltasun mailak {.unnumbered}
 
@@ -183,8 +200,6 @@ Adibide batzuk:
 
 Horrelako egoerek aukera ematen dute haurrek pixkanaka hizkuntza kolokialetik hizkuntza formal eta akademikora hurbiltzeko, modu naturalean baina gidatutako esperientzien bidez.
 
-<!--# Aztertu hamengo zer itxi bihar dan -->
-
 #### Gelarako gako batzuk {.unnumbered}
 
 -   Anbiguotasuna eta zehaztasun falta gainditu dezaten, honakoak eskatu: azalpenak eta birformulazioak, erantzun esplizituak, ...
@@ -192,7 +207,7 @@ Horrelako egoerek aukera ematen dute haurrek pixkanaka hizkuntza kolokialetik hi
 -   Ikasleen arteko solasaldia bultzatu: hau da, korroan normalean erradiala izaten den interakziotik denen artekora igaro
 -   Irakasleak berak erabiltzeaz gain, umeei baliabide linguistikoak irakatsi
     -   argibideak, errepikapenak, birformulazioak eskatu ditzaten (ez dizut ulertu, errepika dezakezu?, zer esan nahi du?,...)
-    -   beren interbentzioaren izaera modu argian agertu dezaten (ideiak azaltzeko, iritziak emateko –nik uste dut, nire iritzia esan nahi dut...‐, proposamenak egiteko –nik uste ...egin beharko genukeela, proposamen bat egin nahi dut‐, ...
+    -   beren interbentzioaren izaera modu argian agertu dezaten (ideiak azaltzeko, iritziak emateko –*nik uste dut*, *nire iritzia esan nahi dut*...‐, proposamenak egiteko –*nik uste ...egin beharko genukeela*, *proposamen bat egin nahi dut*‐, ...
 
 ## Ahozko hizkuntzaren erabilerak eta funtzioak eskolan
 
@@ -354,8 +369,6 @@ Elkarrizketetan emozioak eta sentimenduak ere hizpide izan behar dira. Irakaslea
 
 Azkenik, garrantzitsua da haurrek hartutako erabakiei buruzko gogoeta ere egitea. Irakasleak galdetu dezake ea erabakia egokia izan den, edo haurrek beraiek bestelako erabaki bat hartuko luketen. Horrelako elkarrizketek haurrei aukera ematen diete euren arrazoibideak hizkuntzaren bidez azaltzeko eta iritziak esplizituago adierazteko.
 
-<!--# HEMDNIK -->
-
 ### Prozesu kognitibo elaboratuagoetarako estrategiak
 
 Elkarrizketek aukera ematen dute haurrek pentsamendu sakonagoak garatzeko, betiere helduak galdera eta proposamen egokiak egiten baditu. Horretarako, estrategiak behar dira haurrek hipotesiak formulatzeko, irtenbideak bilatzeko, perspektiba desberdinak hartzeko eta esperientzia berriak irudikatzeko. Irakaslearen lana, hain zuzen.
@@ -369,19 +382,19 @@ Hirugarrenik, beste pertsonen tokian jartzea eta haien perspektiba hartzea ere l
 Azkenik, antzezpenak aukera ematen du istorioak eta pertsonaiak bizitzeko, narrazioaren hariari jarraitzeko eta pertsonaien sentimenduak adierazteko. Antzezpenaren planifikazioak, gainera, haurrei irtenbideak bilatzen, hipotesiak egiten eta erabakiak ebaluatzen irakasten die. Antzezpenaren bidez haurrek hizkuntza erabiltzen dute bai arrazonamendua garatzeko bai emozioak adierazteko.
 
 ::: callout-important
-## Ariketa <!--# BERRIDATZI -->
+## Ariketa nagusia
 
-Ahozko hizkuntza lantzeko proposamen orokor guztiak praktikan jartzeko, komenigarria da ikasleek esperimentatzea egoera komunikatiboak sortzen eta aztertzen. Horretarako, material lagungarriak prestatu dira.
+Azaldu, testuetan oinarrituz eta zure hitzekin, nola lantzen den ahozko hizkuntza Haur Hezkuntzan eta zer zailtasun edo erronka sor daitezkeen.
 
-[Baliabideak](../Baliabideak/05_ahozko_hizkuntza/Ahozkoa_eskolan-Lantzekoak.pdf) dokumentuan hainbat jarduera aurkituko dituzu. Jarduera horien bidez aztertuko duzu zein egoeratan eta zein modutan susta daitekeen ahozko hizkuntza Haur Hezkuntzan. Helburua da ikasleek ahozko hizkuntzaren garrantziaz jabetzea eta praktikan aplikatzeko estrategiak ezagutzea.
+Ariketan lau atal nagusi izango dituzu:\
+1. Ahozkoa eta bere erabilera eskolan.\
+2. Espazioaren antolaketa.\
+3. Ume ikertzaileak.\
+4. Interakzioaren garrantzia.
 
-Ariketa hau egitean, arreta jarri behar duzu:\
-- egoeren antolaketan,\
-- umeen parte-hartzean,\
-- hizkuntzaren funtzioetan,\
-- eta ikasgelan ahozko erabilera formal zein ez-formala uztartzeko aukeretan.
+Atal bakoitzean autore eta testu zehatzak kontuan hartu beharko dituzu, baina baita zure esperientzia eta etorkizuneko irakasle gisa izango dituzun iritzi eta proposamenak ere. Gogoratu helburua dela ahozko hizkuntza lantzeko orientabideak eta estrategiak modu praktiko eta aplikatuan barneratzea.
 
-Horren bidez ikasiko duzu ahozko hizkuntza ez dela soilik ikaskuntzaren tresna, baizik eta ikasteko eduki nagusietako bat ere badela.
+[Baliabideak](../Baliabideak/05_ahozko_hizkuntza/Ahozkoa_eskolan-Lantzekoak.pdf) dokumentuan zehaztasunak eta artikuluetarako estekak (Google Chromek huts egiten du zabaltzeko orduan, 2024ra arte, behintzat)
 :::
 
 ## Bibliografia {.unnumered}
@@ -402,61 +415,23 @@ Camps, A. (2005). Hablar en clase, aprender lengua. In *Hablar en clase: Cómo t
 
 Equipo de educación infantil y primer ciclo de primaria del CP Antzuola. (2010). Niños y niñas investigadores: ¿de qué hablamos? In *Los proyectos de trabajo en el aula: Reflexiones y experiencias prácticas* (pp. 29–42). Graó.
 
-Huarte, M., & Ozerinjauregi, J. (2012). Interakzioaren garrantzia euskararen sarrera goiztiarrean. In *Hizkuntzaren jabetzaz (0-6)* (pp. 183–208). Mendebalde Kultur Elkartea. <!--# Aldatu ariketi hau be jasoteko -->
+Huarte, M., & Ozerinjauregi, J. (2012). Interakzioaren garrantzia euskararen sarrera goiztiarrean. In *Hizkuntzaren jabetzaz (0-6)* (pp. 183–208). Mendebalde Kultur Elkartea.
 
-### Aukerakoa {.unnumered}
+### Aukerakoak {.unnumered}
 
 Cummins, J. (1979). Cognitive/Academic Language Proficiency, Linguistic Interdependence, the Optimum Age Question and Some Other Matters. *Working Papers on Bilingualism*, 19, 121–129.
 
 Cummins, J. (2000). *Language, Power and Pedagogy: Bilingual Children in the Crossfire*. Multilingual Matters.
 
-Cumminsek proposatutako BICS (Basic Interpersonal Communication Skills) eta CALP (Cognitive Academic Language Proficiency) bereizketak argi uzten du etxean modu naturalean garatzen diren ahozko trebetasunak ez direla nahikoa eskolako hizkuntza akademikoari aurre egiteko. Eskolak, beraz, modu sistematikoan landu behar du hizkuntza akademikoa.
+> Cumminsek proposatutako BICS (Basic Interpersonal Communication Skills) eta CALP (Cognitive Academic Language Proficiency) bereizketak argi uzten du etxean modu naturalean garatzen diren ahozko trebetasunak ez direla nahikoa eskolako hizkuntza akademikoari aurre egiteko. Eskolak, beraz, modu sistematikoan landu behar du hizkuntza akademikoa.
 
 Wells, G. (1986). *The Meaning Makers: Children Learning Language and Using Language to Learn*. Heinemann.
 
-Wells-ek erakusten du haurrek ahozko interakzioen bidez ezagutza eraikitzen dutela, eta elkarrizketaren garrantzia azpimarratzen du ikaskuntza-prozesu guztietan. Haurrek hizkuntza ez dute soilik komunikatzeko erabiltzen, pentsatzeko eta ikasteko ere erabiltzen dute.
+> Wells-ek erakusten du haurrek ahozko interakzioen bidez ezagutza eraikitzen dutela, eta elkarrizketaren garrantzia azpimarratzen du ikaskuntza-prozesu guztietan. Haurrek hizkuntza ez dute soilik komunikatzeko erabiltzen, pentsatzeko eta ikasteko ere erabiltzen dute.
 
 Bruner, J. (1983). *Child’s Talk: Learning to Use Language*. Oxford University Press.
 
-Brunerren lanak azpimarratzen du narratiba eta elkarrizketaren bidez haurrek hizkuntzaren erabilera soziala eta kognitiboa garatzen dutela. Eskolan narratibak eta elkarrizketak erabiltzeak umeei aukera ematen die hizkuntza baliatuz pentsamendu konplexuagoa garatzeko.
+> Brunerren lanak azpimarratzen du narratiba eta elkarrizketaren bidez haurrek hizkuntzaren erabilera soziala eta kognitiboa garatzen dutela. Eskolan narratibak eta elkarrizketak erabiltzeak umeei aukera ematen die hizkuntza baliatuz pentsamendu konplexuagoa garatzeko.
 
 Direcció General d’Ordenació i Innovació Educativa, & Departament d’Educació. (2004). *L’ús del llenguatge a l’escola: Propostes d’intervenció per a l’alumnat amb dificultats de comunicació i llenguatge*. Departament d’Educació, Servei de Difusió i Publicacions.\
-<http://ensenyament.gencat.cat/web/.content/home/departament/publicacions/monografies/us-llenguatge-escola/lus_llenguatge_lescola.pdf>
-
-------------------------------------------------------------------------
-
-##### Gertaerak haien esperientzia eta emozio propioekin erlazionatzea ahalbidetzeko
-
-Ipuinaren inguruko elkarrizketetan, elkarrizketa kolektiboetan edo antzeko egoeratan, galderak edo iruzkinak egin ...
-
--   Gertatzen dena (ipuinean edo ikaskideak azaltzen duena) haien esperientzia propioekin erlazionatzea ahalbidetzeko (gertatu zaizu inoiz zuri?, ikusi duzu inoiz....) . Helduak lagundu dezake bere esperientzia propioak azalduz ere.
--   Kausa-ondorio erlazioak ezartzea errazteko (zergatik?) edo erlazio horiek ezartzen direneko ereduak eman (uste dut hori egiteko arrazoia izan dela ....).
--   Besteen emozioak eta sentimenduak ulertzen laguntzeko. Abiapuntua norberaren emozio eta sentimenduak komentatzea izan daiteke (zelan uste duzu sentituko dela printzesa?), edo irakaslearen komentarioak (minduta dago lagunak gezurra esan diolako, ni ere mintzen naiz hori gertatzen zaidanean).
--   Hartzen diren erabakien inguruan argudiatzea errazteko (hartu den erabaki bat egokia izan den ala ez, erabaki bera hartuko zenukeen ala ez, ....)
-
-##### Prozesu kognitibo elaboratuagoak aktibatzera bideratutakoak
-
-Galderak edo iruzkinak egin ...
-
--   Gertatuko denaz hipotesiak eta iragarpenak egiten laguntzeko, umeen ezagutza eta esperientzietatik abiatuta (zer uste duzu gertatuko dela?, zer pasatuko litzateke....). Edo ereduak eman (nik uste dut gero .....) .
--   (istorioan) azaltzen diren gatazkei edo arazoei irtenbideak bilatzen laguntzeko (zer egin genezake hori konpontzeko?, zein izango litzateke modurik hoberena ...?).
--   Besteen tokian jarri eta haien perspektiba hartzen laguntzeko (nola uste duzu sentitzen dela orain?), edo esperimentatu ez diren egoeratan jartzeko (politikaria izan nahi zenuke? zergatik?).
--   Antzezpenaren bidez praktikan jartzen lagundu ( istorioen antzezpenek, adibidez, laguntzen dute hari narratiboa eta pertsonaien sentimenduak eta emozioak ulertzen, eta pertsonaia horien perspektiba hartzen. Antzezpenaren planifikazioak, bestalde, irtenbideak aurkitzea, hipotesiak egitea, ebaluatzea .... dakar)
-
-## Ariketa {.unnumbered}
-
-[Baliabideak](../Baliabideak/05_ahozko_hizkuntza/Ahozkoa_eskolan-Lantzekoak.pdf)
-
-## Bibliografia eta erreferentziak {.unnumbered}
-
-Arnau, J. (1999). Aproximaciones pedagógicas en la enseñanza de una segunda lengua a través de las matemáticas en la inmersión temprana. *Journal for the Study of Education and Development, Infancia y Aprendizaje*, *86*, 41–56.
-
-Camps, A. (2005). Hablar en clase, aprender lengua. In *Hablar en clase: Cómo trabajar la lengua oral en el centro escolar* (or. 37–44).
-
-Direcció General d’Ordenació i Innovació Educativa, & Departament d’Educació. (2004). *L’ús del llenguatge a l’escola: Propostes d’intervenció per a l’alumnat amb dificultats de comunicació i llenguatge*. Departament d’Educació, Servei de Difusió i Publicacions. <http://ensenyament.gencat.cat/web/.content/home/departament/publicacions/monografies/us-llenguatge-escola/lus_llenguatge_lescola.pdf>
-
-Equipo de educación infantil y primer ciclo de primaria del CP Antzuola. (2010). Niños y niñas investigadores: ¿de qué hablamos? In *Los proyectos de trabajo en el aula: Reflexiones y experiencias prácticas* (or. 29–42). Graó.
-
-Huarte, M., & Ozerinjauregi, J. (2012). Interakzioaren garrantzia euskararen sarrera goiztiarrean. In *Hizkuntzaren jabetzaz (0-6)* (or. 183–208). Mendebalde Kultur Elkartea.
-
-Sanchez-Cano, M., Cabra, M., Comallonga, L., Escudé, N., Font, E., Forés, N., Fuster, M., Giné, M., Grau, R., Mas, T., & Ribó, E. (2009). *La conversación en pequeños grupos en el aula*. Graó.
+http://ensenyament.gencat.cat/web/.content/home/departament/publicacions/monografies/us-llenguatge-escola/lus_llenguatge_lescola.pdf

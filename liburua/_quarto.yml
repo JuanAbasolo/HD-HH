@@ -9,8 +9,11 @@ book:
     orcid: 0000-0002-1911-4118
     affiliation: EHU
   description: "Apunteak egiteko prozesuan daude."
-  # language: eu
-
+  sidebar:
+    style: docked
+    background: dark
+    logo: assets/scare-quacks-1200.jpg
+  downloads: [pdf, epub]
   search: true
   chapters:
     - index.qmd
@@ -40,14 +43,18 @@ format:
   html:
     toc: true
     number-sections: true
+    # theme:
+    #   light: darkly
     css: style.css
-    mermaid:
-      theme: forest
-  epub:
-    toc: true
-    number-sections: true
-  # pdf:
+    # mermaid:
+    #   theme: forest
+  # epub:
   #   toc: true
   #   number-sections: true
-  #   latex-engine: xelatex
-  #   include-in-header: liburua/preamble.tex
+  #   cover-image: assets/scare-quacks-1200.jpg
+  pdf:
+    toc: true
+    number-sections: true
+    latex-engine: xelatex
+    include-in-header: liburua/preamble.tex
+    chrome-path: "/snap/bin/chromium"    

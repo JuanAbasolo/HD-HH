@@ -14,23 +14,10 @@ Hasteko, ikus dezagun lehenengo ardatza.
 
 Zer behar da hizkuntzak eraginkortasunez funtziona dezan? Hurrengo diagramak oinarrizko elementuen laburpena eskaintzen du:
 
+![Hizkuntzaren erabilerarako elementuak](images/paste-7.png)
+
 ::: {.content-visible when-format="html"}
-
-```{mermaid }
-%%| caption: "Hizkuntzaren erabilerarako elementuak"
-%%| echo: false
-%%| format: html
-
-flowchart TD
-    tab1["jakin ZER komunikatu"] --> tab2["Edukia"]
-    tab3["Jakin ZELAN komunikatu"] --> tab4["Erabilera arauak"]
-    tab5["KODE bat konpartitu"] --> tab6["Hizkuntza"]
-
-    classDef postit fill:#FFFACD,stroke:#333,stroke-width:2px,color:#000;
-    class tab1,tab2,tab3,tab4,tab5,tab6 postit;
-
-```
-
+![](mermaid/fig-3-1.mmd)
 :::
 
 Hizkuntza tresna da, eta tresna hori erabiltzen ikasteko umeek hainbat esperientzia behar dituzte:
@@ -222,18 +209,18 @@ Lehen hezkuntzako lehen zikloan, irakasleak kontuan izan beharko ditu haurraren 
 
 Lehen urteetan komunikazioa aurrelinguistikoa da hasieran, baina 12 hilabetetik aurrera hitzek garrantzia hartzen dute. Hitzaren bidez, umearen komunikazio-gaitasuna azkar zabaltzen da: lehen keinuen funtzioak ordezkatuz, geroago hiztegia eta egitura sintaktikoak garatuz. Hiru urterako, umea gai da hizkuntzaz baliatuz mundua partekatzeko, nahiz eta oraindik mugak izan diskurtso autonomoetan.
 
-## 3-6 urteko umea
+### 3-6 urteko umea
 
 Haurra hazten doan heinean, bere hizkuntza gaitasunak ere aberasten eta konplexuagotzen ditu. Etapa honetan berdinen arteko interakzioak gero eta garrantzi hangikoagokoak dira, eta hizkuntzak funtzio berri asko betetzen hasten dira.
 
-### Umearen ezaugarriak {.unnumbered}
+#### Umearen ezaugarriak {.unnumbered}
 
 -   Askotariko interakzio-testuingurutan parte hartzen du, asmo eta solaskide ezberdinekin. Hizkuntzaren erabileran duen esperientzia zabaltzen eta aberasten doa.
 -   Garapen kognitiboan aurrerapen garrantzitsuak egiten ditu: hiru urterekin zuen egozentrismoa gainditzen hasten da, espazio eta denbora erlazioetan aurrera egiten du, arrazoitze logikoak ulertzeko gai da eta bere ezagutzak kontzeptu berriekin erlazionatzen ditu.
 -   Hiztegia aberastu egiten du eta baliabide linguistiko berriak eskuratzen ditu.
 -   Hizkuntzaren erabileran aurrerapen handiak egiten ditu testuinguruari lotuta eta, pixkanaka, testuingurutik askatzeko lehen pausoak ematen ditu.
 
-### Hizkuntzaren erabilera: kontestualizatutik deskontestualizatura {.unnumbered}
+#### Hizkuntzaren erabilera: kontestualizatutik deskontestualizatura {.unnumbered}
 
 Kontuan hartu behar da haurrak hiru urte inguruan zailtasunak dituela oraindik diskurtsoa “hemen eta orain”-etik haratago eramateko. Lau urterako, ordea, helduaren diskurtso deskontestualizatua ulertzeko eta ekoizteko trebetzen hasten da. Bost urterako gai da produkzio-testuinguruan presente ez dauden gauzez eta gertaerez hitz egiteko.
 
@@ -243,7 +230,7 @@ Kontuan hartu behar da haurrak hiru urte inguruan zailtasunak dituela oraindik d
 | Esanahia zuzenean negoziatzeko aukera dago | Esanahia negoziatzeko aukerak mugatuagoak dira |
 | Hiztegi eta egitura linguistiko arruntagoak erabiltzen dira | Hiztegi zehatzagoa eta egitura konplexuagoak behar dira |
 
-### Hizkuntza pentsamenduaren eta ekintzaren laguntzaile {.unnumbered}
+#### Hizkuntza pentsamenduaren eta ekintzaren laguntzaile {.unnumbered}
 
 Hizkuntza ez da bakarrik besteekin komunikatzeko tresna: umeak bere buruarekin ere komunikatzeko eta jarduera antolatzeko erabiltzen du.
 
@@ -253,7 +240,7 @@ Hizkuntza ez da bakarrik besteekin komunikatzeko tresna: umeak bere buruarekin e
 
 Besteek umearekin dituzten harremanetan hizkuntza asmo ezberdinetarako erabiliko dutenez, umea erabilera edo funtzio horietan trebatuz joango da.
 
-### Hizkuntza funtzioen garapena {.unnumbered}
+#### Hizkuntza funtzioen garapena {.unnumbered}
 
 Haurrek hizkuntzaren bidez hainbat funtzio betetzen dituzte, lehenik oinarrizkoak, geroago abstraktuagoak.
 
@@ -266,7 +253,7 @@ Funtzio bakoitzean, umearen erabilitako estrategiek erakusten dute zein puntutan
 
 -   Umeak hiztegia aberastu eta hizkuntzaren oinarrizko egiturak eskuratuko ditu.
 
-### Umearen berbetaren ezaugarri formalak {.unnumbered}
+#### Umearen berbetaren ezaugarri formalak {.unnumbered}
 
 **3 urte**:\
 - L1eko fonema gehienen ahoskatzea.\
@@ -287,7 +274,7 @@ Funtzio bakoitzean, umearen erabilitako estrategiek erakusten dute zein puntutan
 - Hiztegi aberatsa.\
 - Esaldi konposatuen erabilera (koordinatuak eta menpekoak).
 
-## 5-6 urteko umea
+### 5-6 urteko umea
 
 Etapa honetarako haurraren garapena nabarmenagoa da:
 
@@ -299,18 +286,10 @@ Etapa honetarako haurraren garapena nabarmenagoa da:
 
 ## Laburpena
 
+![Erabilera kontestualizatutik deskontestualizaturako bidea](images/paste-8.png)
+
 ::: {.content-visible when-format="html"}
-
-```{mermaid }
-%%| fig-cap: "Erabilera kontestualizatutik deskontestualizaturako bidea"
-%%| echo: false
-
-flowchart TD
-    tab1["Kontestualizatutik"] --> tab2["Deskontestualizatura"]
-    tab3["Elkarrizketatutik"] --> tab4["Bakarrizketatura"]
-    tab5["ahozkotik"] --> tab6["idatzira"]
-```
-
+![](mermaid/fig-3-3.mmd)
 :::
 
 | Hezitzaileak kontuan hartzeko | Egitekoak |
@@ -325,16 +304,16 @@ flowchart TD
 
 Hezitzaileek kontuan izan behar dute hizkuntza ez dela bakarrik tresna komunikatiboa: haurraren pentsamenduaren eta garapen afektiboaren motorra ere bada.
 
-## (Biblio)grafia {.unnumbered}
+## Aukerako (biblio)grafia {.unnumbered}
 
-Gehiago eta sakonago jakiteko, oso gomendagarria da hurrengo liburua, euskaran ardaztuta eta azalpen didaktiko ugari gaztelania zein frantsesarekin:
+> Gehiago eta sakonago jakiteko, oso gomendagarria da hurrengo liburua, euskaran ardaztuta eta azalpen didaktiko ugari gaztelania zein frantsesarekin:
 
 Gutierrez Mangado, M. J., & Ezeizabarrena Segurola, M. J. (2022). *Hotsetik hitzera Nola bereganatzen dute hizkuntza haur euskaldunek?* Erein Argitaletxea.
 
-Eta bideoetan oso interesgarriak izan litezke hurrengo dokumentalok (ingelesez ekoitzitakoak):
+> Eta bideoetan oso interesgarriak izan litezke hurrengo dokumentalok (ingelesez ekoitzitakoak):
 
 Ellis Entertainment (Director). (2004). *Baby Human*. <http://www.imdb.com/title/tt1414346/>
 
 Hickman, D., Klein, L., Britain), C. F., Entertainment (Firm), R., Ltd, W. to W. T., & Networks, D. (Directors). (1994). *Baby it's you. Volume one, In the beginning., First steps*. \[Australia\] : Roadshow Entertainment. <https://trove.nla.gov.au/version/18675181>
 
-Bideoon gaztelaniazko itzulpenak ere badira hor zehar; euskarazkorik ez dut ezagutzen.
+> Bideoon gaztelaniazko itzulpenak ere badira hor zehar; euskarazkorik ez dut ezagutzen.
