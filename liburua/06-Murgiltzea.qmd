@@ -1,6 +1,6 @@
 # Diglosian hizkuntzak eskolan antolatzea
 
-<!--# [] Aldatu KO-ES bideoa -->
+<!--# [] Egokitu diapuok testura | [] Aldatu KO-ES bideoa -->
 
 Euskal Autonomia Elkarteko hezkuntza sistemak berezitasun handia dauka: hizkuntza ofizial bi ditu, euskara eta gaztelania; jakina, Nafarroako Foru Komunitateko eremu batean ere bi biak dira ofizialak. Ipar Euskal Herrian, Nafarroako Foru Komunitate erdi inguruan eta Trebiñun, baina, euskarak ez du estatus ofizialik, gizartean eta ikastetxe askotan maila bateko edo besteko onarpena duen arren.
 

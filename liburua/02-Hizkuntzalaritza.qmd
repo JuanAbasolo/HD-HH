@@ -15,7 +15,7 @@ Hizkuntzalaritza hizkuntzarekin eta harekin lotutako fenomenoekin arduratzen den
 Hizkuntzalaritzak ezagutza-esparru zabala hartzen du, eta ikerketa-ikuspegi oso desberdinak biltzen ditu. Batetik, hizkuntzaren barne-egitura aztertzen duten diziplinak daude; bestetik, hizkuntza gizartean, garunean edo historian nola funtzionatzen duen ikertzen dutenak. Horregatik, hizkuntzalaritzaren barruan hainbat adar edo azpiadarrak bereizten dira, bakoitza bere helburu eta metodologiarekin:
 
 | Adarra | Azalpena |
-|------------------------|------------------------------------------------|
+|------------------------|-----------------------------------------------|
 | Hizkuntzen jabekuntza | Gizakiak hizkuntza nola eskuratzen duen aztertzen du, bai lehen hizkuntzaren ikaskuntza (haurrengan), bai bigarren hizkuntzen ikaskuntza. |
 | Hizkuntzalaritza antropologikoa | Hizkuntza eta kultura arteko harremana aztertzen du; hizkuntza giza gizartearen adierazpen kultural gisa ikusten du. |
 | Soziolinguistika | Hizkuntza eta gizartearen arteko harremana aztertzen du: hizkuntza aldaketa, bariazioa, diglosia, hizkuntza politika, etab. |
