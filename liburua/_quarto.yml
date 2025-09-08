@@ -1,0 +1,60 @@
+project:
+  type: book
+  output-dir: ../apunteak
+
+book:
+  title: "Hizkuntzaren Didaktika (2025) Haur Hezkuntza V0.5"
+  author:
+    name: "Juan Abasolo"
+    orcid: 0000-0002-1911-4118
+    affiliation: EHU
+  description: "Apunteak egiteko prozesuan daude."
+  sidebar:
+    style: docked
+    background: dark
+    logo: assets/scare-quacks-1200.jpg
+  downloads: [pdf, epub]
+  search: true
+  chapters:
+    - index.qmd
+    - 01-Zer_da_hizkuntza.qmd
+    - 02-Hizkuntzalaritza.qmd
+    - 03-Nola_ikasten_hizketan.qmd
+    - 04-Hizkuntza_patologiak.qmd
+    - 05-Ahozko_hizkuntza_HHn.qmd
+    - 06-Murgiltzea.qmd
+    - references.qmd
+    # Gehitu hemen gainerako kapituluak, behar izanez gero
+  appendices:
+    - eranskina-00-Proiektua.qmd
+  
+  date: today
+  date-format: "YYYY MM DD"
+  cover-image: assets/scare-quacks-1200.jpg
+  favicon: assets/img/scare-quacks-1200FAV.png
+
+bibliography: 
+  - book.bib
+  - packages.bib
+link-citations: true
+lang: eu
+
+format:
+  html:
+    toc: true
+    number-sections: true
+    # theme:
+    #   light: darkly
+    css: style.css
+    # mermaid:
+    #   theme: forest
+  # epub:
+  #   toc: true
+  #   number-sections: true
+  #   cover-image: assets/scare-quacks-1200.jpg
+  pdf:
+    toc: true
+    number-sections: true
+    latex-engine: xelatex
+    include-in-header: liburua/preamble.tex
+    chrome-path: "/snap/bin/chromium"    

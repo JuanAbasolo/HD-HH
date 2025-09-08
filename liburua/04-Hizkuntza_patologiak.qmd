@@ -1,0 +1,91 @@
+# Hizkuntza patologiak
+
+Hizkuntza patologiei ere tarte bat eman behar zaio Haur Hezkuntzako graduko formakuntzan. Hala ere, ez dugu ahaztu behar formakuntzak ez duela bideratzen ez diagnostikorako ezta tratamendu espezialdurako ere. Horiek bestelako profesional espezializatuen esparruak dira. Hori argi izanda, ikasgai honetako ardatza Haur Hezkuntzako gelan egingo den lana izango da: haurrek izan ditzaketen zailtasunak ezagutzea eta irakasleak horren aurrean izan dezakeen jarrera lantzea. Beraz, lanketa nagusia talderik talde egin beharko duzuen lana eta derrigorrezko bibliografiakoa izango da.
+
+## Ohar batzuk
+
+**Neurohizkuntzalaritza** bi diziplinen arteko gurutzagunean kokatzen da: neurologiak garunaren eta nerbio-sistemaren funtzionamendua aztertzen du, eta hizkuntzalaritzak hizkuntzaren egitura eta erabilera. Bi ikuspegi horiek elkartzen direnean, hizkuntza-nahasmenduak azal daitezke garuneko lesio edo garapen desorekatu baten ondorioz.
+
+Hizkuntza-nahasmenduen azalpena egiteko bi ikuspegi nagusi izan dira: - Lokalizazionismoa: hizkuntza-funtzioak garuneko gune zehatzetan kokatuta daudela dioen ikuspegia. Adibidez, Brocaren eta Wernickeren eremuak. - Konexionismoa: funtzio horiek ez daudela gune bakar batean lokalizatuta, baizik eta garuneko hainbat eremuren arteko sare konplexu baten emaitza direla defendatzen du.
+
+Garuna eta hizkuntza harreman estuan daude: ideiak hizkuntzara eramaten ditugu garunean sortzen eta prozesatzen diren mekanismoei esker. Horretarako ezinbestekoa da nerbio sistema, bi atal nagusitan banatua: - Zentrala (garuna eta bizkarrezur-muina) - Periferikoa (mintzamena, idazmena eta keinu-hizkuntzak ahalbidetzen dituzten loturak)
+
+## Hizkuntza nahasmendu batzuk
+
+| Organikoa | Funtzionala | Bigarren mailakoa |
+|--------------------------|--------------------------|--------------------|
+| Afasia <br>Anartria <br>Alexia <br>Agrafia <br>Disfasia <br>Disartria <br>Hipoakusia | Hizkeraren atzerapen sinpleak<br> Disfasia ebolutiboa <br>Dislexia ebolutiboa <br>Dislalia <br>Disfemia <br>Disfonia | Nahasmen deribatuak <br>(THDA, epilepsia...) |
+
+Eta horien azalpen laburtxua:
+
+Afasia
+
+:   Garuneko lesio baten ondorioz sortutako hizkuntza-galera edo nahasmendua.
+
+Disfasia
+
+:   Hizkuntza-garapenean atzerapen nabarmena, ez garun-lesio konkretu baten ondorioz.
+
+Dislexia
+
+:   Irakurketa-prozesuaren nahasmendua, erritmoan eta zuzentasunean eragina duena.
+
+Dislalia
+
+:   Fonema jakin batzuk behar bezala ahoskatzeko zailtasuna.
+
+Disfemia
+
+:   Mintzamenaren erritmoan eta jariakortasunean gertatzen den eten edo errepikapena.
+
+Disfonia
+
+:   Ahotsaren kalitatean, tonu edo intentsitatean gertatzen den alterazioa.
+
+Disartria
+
+:   Mugimendu neuromuskularren alterazioak eragindako artikulazio arazoa.
+
+Apunte hauetan eskema orokorra ematen da; xehetasunak eta kasu zehatzak ikasleen lanetan sakonduko dira.
+
+::: callout-important
+## Lanketa: Hizkuntza patologia bat Haur Hezkuntzako gelan
+
+Ikasgelako talde bakoitzak lantzeko patologiaren bat aukeratu behar du eta horren gainean hurrengo pausuak eman:
+
+1.  Justifikatu aukera (irakaslea konbentzitu aukeraketaren mesedeaz).
+2.  Aztertu nahasmendua hurrengo ardatzetatik:
+    -   Ezaugarriak (fisiologikoak, sozialak, portaerazkoak…)
+    -   Tratamenduak
+    -   Haur Hezkuntzako gelan antzeman daitezkeen ezaugarriak
+    -   Haur Hezkuntzako irakasleak hartu beharreko jarrerak
+3.  Gako kontzeptuak identifikatu.
+4.  Prestatu diapositibak oharrekin.
+5.  Talde osoaren aurrean aurkezpena egin.
+6.  Azterketa egin ikasitakoa ebaluatzeko.
+7.  Txostena aurkeztu irakasleari (niri), azterketaren emaitzen inguruko hausnarketa barne.
+:::
+
+## Bibliografia {.unnumbered}
+
+Derrigorrezko bakarra aipatzen zaizuen arren, zuen txostenetan aukeratzen duzuen lana egiteko baliabide egokiak hartuko dituzuela espero da. **Derrigorrezko bibliografia hori azterketarako ere landu beharko da** beren-beregi.
+
+### Derrigorrezkoa {.unnumbered}
+
+Fernandez, B. (2012). *Hizkuntza patologiak*.\
+[Hemen eskuragai](../Baliabideak/Fernandez-2012-hizkuntza-patologiak-eta-afasiak-garbi-.pdf)
+
+### Osagarria {.unnumbered}
+
+Bishop, D. V. M. (2017). Why is it so hard to reach agreement on terminology? The case of developmental language disorder (DLD). *International Journal of Language & Communication Disorders*, 52(6), 671–680.
+
+Moran Alvarado, Maritza Del Rocío, Vera Miranda, Lorena Yadira, & Morán Franco, Martha Raquel. (2017). Los Trastornos Del Lenguaje y Las Necesidades Educativas Especiales.: Consideraciones Para La Atencion En La Escuela. *Revista Universidad y Sociedad*, *9*(3), 191-197. <http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2218-36202017000300030>
+
+Peña-Casanova, J. (2019). *Manual de logopedia clínica*. Barcelona: Elsevier.
+
+Redondo, A. M. & Lorente, J. (2004) Trastornos del Lenguaje. *Pediatría Integral, VIII*(8), 675-691*.*
+
+\
+\
+
+Redondo & Llorente (2004) lana Ardilla Digital Hezkuntza Berezirako baliabide digitalen webgunean eskuragai, [esteka](http://www.ardilladigital.com/DOCUMENTOS/EDUCACION%20ESPECIAL/LOGOPEDIA/TRASTORNOS%20LENGUAJE/GENERAL/Trastornos%20del%20lenguaje%20-%20Redondo%20y%20Lorente%20-%20art.pdf)

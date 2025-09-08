@@ -12,6 +12,8 @@ output:
          slideNumber: true
 ---
 
+<!--# Berrantolatu apunteetan oinarrituta (M. Huarte & Ozenrinjauregi, SBD...)-->
+
 # 
 
 1.  Etxetik eskolara:
@@ -29,7 +31,7 @@ output:
 3.  Ahozko hizkuntza lantzeko orientabideak
 
 -   Hizkuntzaren garapenerako hezkuntza‐egoerak HHn
--   Espazioaren eta denboraren ntolaketa
+-   Espazioaren eta denboraren antolaketa
 -   Baliabideak eta estrategiak
 -   Elkarrizketa
 
@@ -40,6 +42,13 @@ output:
 ## 
 
 Etxea eta eskola testuinguru ezberdinak dira; nahiz eta batean zein bestean hizkuntza ikasten dugun inguruneen arteko aldeek baldintzatzen dituzte ikasteko aukerak eta bertan ikasitakoa ere bai.
+
+##
+
+```{r echo=FALSE}
+knitr::include_graphics("../liburua/images/paste-4.png")
+```
+
 
 ## Ezaugarriak
 
@@ -105,7 +114,7 @@ grViz("digraph flowchart {
 
 ### Ahozko hizkuntza eta eskola
 
-## Ahozkoa \~ Idatzia: continuum batean
+## Ahozkoa ↔ Idatzia: continuum batean
 
 ## 
 
@@ -121,7 +130,62 @@ Egokiagoa dirudi "ahozko hizkuntza" vs "hizkuntza idatzia" ikuspegi dikotomikoa 
 
 ## 
 
-![](../liburua/assets/5-2.png)
+```{dot echo=FALSE, fig.cap="Ahozkoa eta idatzia continuumtzat", out.width="90%", fig.align='center'}
+//| label: fig-5-2a
+//| fig-cap: "Ahozkoa eta idatzia continuumtzat"
+
+digraph G {
+  rankdir=LR
+  nodesep=0.2
+  ranksep=1
+  splines=true
+
+  node [shape=box, style="filled", fillcolor="#FFFACD",
+        color="#000000ff", fontname="Helvetica"]
+  edge [color="#000000ff", arrowsize=0.8]
+
+  /* --- Nodoak (ezker zutabea) --- */
+  M1   [label="Modua"]
+  KOL  [label="Ahozko kolokiala\n(prototipoa)"]
+  FORN [label="Ahozko formala"] 
+  M2   [label="Modua"]
+  NEAR [label="Ahozkoara hurbiltzen den\nidatzia"]
+  IDAT [label="Idatzia (prototipoa)"]
+
+  /* --- Nodoak (eskuin zutabea) --- */
+  CTX     [label="TESTUINGURUKO\nPARAMETROAK"]
+  PARAMSA [label="Akustikoa\nInformala\nOrokorra\nEspontaneoa\nElkarrizketatua\nSubjektiboa\nAldi berekoa\nInteraktiboa\nPribatua"]
+  PARAMSB [label="Formala\nEspezifikoa\nPentsatua\nBakarrizketatua\nObjektiboa\nEz aldi berekoa\nInformatiboa\nPublikoa\nGrafikoa"]
+
+
+  /* === Errenkadak: bi zutabeen taula === */
+  { rank=same; M1;    CTX }
+  { rank=same; KOL;   PARAMSA  }   
+  { rank=same; PARAMSA; NEAR  }
+  { rank=same; PARAMSB; FORN  }
+  { rank=same; PARAMSB; IDAT  }
+
+  /* Zutabe bakoitza bertikalki finkatzeko kate ikusezinak */
+  M1  -> KOL  -> FORN          [style=invis, weight=10]
+  CTX -> PARAMSA -> PARAMSB    [style=invis, weight=10]
+  M2  -> NEAR -> IDAT          [style=invis, weight=10]
+
+  /* ==== Loturak (zure eredua) ==== */
+  M1   -> KOL
+  KOL  -> FORN       [dir=both]
+  KOL     -> PARAMSA [dir=none]
+  FORN    -> PARAMSB [dir=none]
+  CTX     -> PARAMSA [dir=none]
+  PARAMSA -> PARAMSB [dir=none]
+  M2   -> NEAR
+  NEAR -> IDAT       [dir=both]
+  PARAMSA -> NEAR    [dir=none]
+  PARAMSB -> IDAT    [dir=none]
+}
+```
+
+
+<!-- ![](../liburua/assets/5-2.png) bazpada -->
 
 ## Formaltasun mailak
 
@@ -400,6 +464,12 @@ Elkarrizketaren bidez, hitz egiten irakasteaz gain, lagundu ahal diegu umeei "pe
 
 </small>
 
+##
+
+```{r}
+knitr::include_graphics("../liburua/images/paste-2.png")
+```
+
 ## 
 
 > Gertaerak haien esperientzia eta emozio propioekin erlazionatzea ahalbidetuko dieten estrategiak
@@ -440,8 +510,6 @@ Galderak edo iruzkinak egin ...
 
 # Egitekoa {data-background="#FE2E9A"}
 
--   Zerrendatu ahozkoa lantzeko kontuan izan beharrekoak, Huarte eta Ozerinjauregi (2012) oinarritzat hartuta.
-
 -   Irakurketa gidetakoak erantzun:
 
     <div>
@@ -450,13 +518,14 @@ Galderak edo iruzkinak egin ...
 
     </div>
 
--   Proiektuak analizatu eta txostena prestatu
+-   Proiektuak analizatu eta txostena prestatu  
+    <small>Proiektuok irakasleari eskatu</small>
 
 # Erreferentziak
 
 ## 
 
-<small>
+<small><small>
 
 Arnau, J. (1999). Aproximaciones pedagógicas en la enseñanza de una segunda lengua a través de las matemáticas en la inmersión temprana. *Journal for the Study of Education and Development, Infancia y Aprendizaje*, *86*, 41--56.
 
@@ -472,4 +541,4 @@ Huarte, M., & Ozerinjauregi, J. (2012). Interakzioaren garrantzia euskararen sar
 
 Sanchez-Cano, M., Cabra, M., Comallonga, L., Escudé, N., Font, E., Forés, N., Fuster, M., Giné, M., Grau, R., Mas, T., & Ribó, E. (2009). *La conversación en pequeños grupos en el aula*. Graó.
 
-</small>
+</small></small>

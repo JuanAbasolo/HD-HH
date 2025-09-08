@@ -1,0 +1,25 @@
+# Proiektua
+
+Azpiko dokumentu eta estekak erabiliko dituzue zuen proiektua diseinatzeko eta lantzeko:\
+- [Deskribapena PDFan](../beste/Proiektua/Deskribapena-dokumentua.pdf)\
+- [Orientabideak ahozko aurkezpenerako](../beste/Proiektua/Proiektua-Orientabideak_ahozko_aurkezpenerako.pdf)\
+- [Orientabideak idatzizko lanerako](../beste/Proiektua/Proiektua-Orientabideak_idatzizko_lanerako.pdf)
+
+Transkripzioak egiteko baliabide batzuk ere erabilgarriak izan ditzakezue:\
+- [Erreminta libre batzuk](https://bosgarrena.blogspot.com/2019/10/transkripzioak-egiteko-erreminta-libre.html)\
+- [Adibide praktiko bat](../beste/Proiektua/senior_.html), Transcriber softwarea erabilita ([informazioa hemen](https://trans.sourceforge.net/en/presentation.php))
+
+Oharra 🛑 : Transkripzioa egiteko **ez dira erabilgarriak AI erako baliabideak**. Ahalegina egin nahi bazenu, egin ezazu eta aurkezpenean erakutsi zure eta AIaren zehaztasun mailen aldea.
+
+## Baliabide bibliografikoak {.unnumbered}
+
+Hemen dituzue proiektua lantzeko baliagarri izan daitezkeen testu nagusiak:
+
+Guibourg, I. (2000). *El desarrollo de la comunicación.* In Correig, M. & Bigas, M. (arg.), *Didáctica de la lengua en la educación infantil* (orr. 13-42). Madrid: Síntesis.\
+- [Testua PDFan](../beste/Proiektua/GUIBOURG_El_desarrollo_de_la_comunicacion.pdf)
+
+Tough, J. (1996). *El lenguaje oral en la escuela.* Madrid: Visor.\
+- [Testua 1](../beste/Proiektua/TOUGH_El%20uso%20del%20lenguaje%20en%20los%20ninos.pdf)\
+- [Testua 2](../beste/Proiektua/TOUGH_como%20hacer%20una%20valoracion%20del%20uso%20del%20lenguaje%20en%20el%20nino.pdf)\
+- [Testua 3](../beste/Proiektua/TOUGH_utilizacion%20de%20los%20cuadernillos%20de%20dibujos.pdf)\
+- [Albuma](../beste/Proiektua/TOUGH_Katutxo_beltza-irudiak.pdf)

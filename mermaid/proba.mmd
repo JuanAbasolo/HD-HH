@@ -1,0 +1,25 @@
+flowchart LR
+
+%% Goiko lerroa
+M1[Modua] --> KOL["Ahozko kolokiala (prototipoa)"]
+KOL <--> FORN["Ahozko formala"]
+
+%% Erdiko kutxa bakarra
+PARAMSA["Akustikoa<br>Informala<br>Orokorra<br>Esponentaneoa<br>Elkarrizketatua<br>Subjektiboa<br>Aldi berekoa<br>Interaktiboa<br>Pribatua"]
+PARAMSB["Formala<br>Espezifikoa<br>Pentsatua<br>Bakarrizketatua<br>Objektiboa<br>Ez aldi berekoa<br>Informatiboa<br>Publikoa<br>Grafikoa"]
+
+%% Loturak erdira
+KOL --> PARAMSA
+FORN --> PARAMSB
+
+%% Testuingurua ezkerrean
+CTX["TESTUINGURUKO<br>PARAMETROAK"] --> PARAMSA
+
+PARAMSA <--> PARAMSB
+
+%% Beheko lerroa
+M2[Modua] --> NEAR["Ahozkoara hurbiltzen den idatzia"]
+NEAR <--> IDAT["Idatzia (prototipoa)"]
+IDAT --> PARAMSB
+
+NEAR --> PARAMSA

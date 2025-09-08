@@ -1,0 +1,228 @@
+# Diglosian hizkuntzak eskolan antolatzea
+
+<!--# [] Egokitu diapuok testura | [] Aldatu KO-ES bideoa -->
+
+Euskal Autonomia Elkarteko hezkuntza sistemak berezitasun handia dauka: hizkuntza ofizial bi ditu, euskara eta gaztelania; jakina, Nafarroako Foru Komunitateko eremu batean ere bi biak dira ofizialak. Ipar Euskal Herrian, Nafarroako Foru Komunitate erdi inguruan eta Trebiñun, baina, euskarak ez du estatus ofizialik, gizartean eta ikastetxe askotan maila bateko edo besteko onarpena duen arren.
+
+## Programak
+
+EAEn bi hizkuntzak ezagutzea da helburua, eta horregatik elebitasuna izan da urte askotan hezkuntza politikaren ardatzetako bat.
+
+Hori lortzeko programa desberdinak garatu dira; batzuk hizkuntza nagusiaren aldekoak izan dira, beste batzuk hizkuntza gutxituari balioa emateko sortuak. Ondoko ataletako azalpenek ikasleei lagundu nahi diete ulertzen zergatik funtzionatzen duten programa batzuk besteak baino hobeto, eta zein ondorio izan ditzaketen ikasleen garapen linguistikoan eta sozialean.
+
+### Segregazio programak
+
+Segregazio programetan ikasleen lehen hizkuntza (H1) erabiltzen da eskolatzeko, eta bigarren hizkuntza (H2) ikasgai soil gisa eskaintzen da. Helburua da ikasleek H2an maila nahikoa lortzea, eta ondoren H2 horretan eskolatzen hastea.\
+Praktikan, ordea, oso gutxitan gertatzen da ikasle horiek H2an behar beste gaitasun garatzea. Horregatik, segregazio programak emaitza akademiko pobreei lotzen zaizkie maiz, eta ondorio sozial larriak ere badituzte: ghettoen sorrera, marginalizazioa eta ikasleen aukeren murrizketa.
+
+Jatorri atzerritarreko ikasleria atzerritarra A eredura bideratzea bera ere segregazio programatzat hartu dute zenbait autorek [@etxeberria2011; @egiagoienetxea2023].
+
+### Sumertsio programak
+
+Sumertsio programak hizkuntza eta kultura nagusian oinarritzen dira. Helburu nagusia asimilazioa dute, hau da, ikasleek euren jatorrizko hizkuntza eta kultura alde batera uztea eta gizarte nagusiaren hizkuntza eta balioak bere egitea.
+
+\
+Horrelako programak Mendebaldeko herrialdeetan etorkinekin erabili izan dira sarritan, eta gure inguruan ijitoekin ere aplikatu izan dira zenbait kasutan. Ondorioak, ordea, ez dira positiboak izan: ikasleen hizkuntza beharrak ez dira kontuan hartzen, eta irakasleek ez dute formakuntzarik izaten haien beharrizan linguistiko eta kulturalei aurre egiteko. Horrez gainera, edukiak eta irakaskuntzarako hizkuntza batera ematen direnez, ikasleak ez dira gai izaten behar bezala ikasteko. Ebaluazioa ere hizkuntza eta kultura nagusiaren arabera egiten da, sarri ikasleak bazterketara behartuta.
+
+::: callout-important
+## Moises-en kasua
+
+Ondoko bideoan, Moises izeneko ikaslearen egoera ikus dezakezu:
+
+[![Immersion laburmetraiaren posterra,](images/paste-5.png){width="289"}](https://www.youtube.com/watch?v=I6Y0HAjLKYI)
+
+Ikusi bideoa eta hausnartu ondoko galderei buruz:
+
+1.  Noiz eta nola iritsi zen Moises AEBra? Nola dakizu hori?\
+2.  Ikasle ikuskeratik, zein dira bere ahulguneak eta indarguneak?\
+3.  Zein da Moisesek bere irakaslearekin duen oztopo nagusia?\
+4.  Zein zailtasun ditu Moisesek eskolan eta eskolatik kanpo?\
+5.  Zein zailtasun ditu irakasleak?\
+6.  Zer rol du zuzendariak?\
+7.  Nolako jarrera dute Moisesen lagunek eta familiak?\
+8.  Zer egin liteke hori hobetzeko?\
+9.  Eskola horretan ezer falta al da? Zer?\
+10. Irakasle izan behar duzunez, zer dio bideoak zuretzat?
+:::
+
+### Mantentze programak
+
+Mantentze programetan ikasleek bigarren hizkuntza (H2) ikasten dute, baina ez dute beren lehen hizkuntza (H1) eta kultura galtzen. Programa hauek gutxiengo linguistiko eta kulturalei zuzenduta daude, eta H1 bera irakaskuntzarako tresna gisa erabiltzen da. Pixkanaka, H2 sartzen da gelan, baina beti H1ari eusten zaio eskolatze osoan zehar.
+
+Horri esker, ikasleek hizkuntza biak garatzen dituzte eta ez da bat bestearen kalterako erabiltzen. Ikasleak ez dira behartzen beren hizkuntza edo identitatea baztertzen, eta horrek autoestimuan eta motibazioan eragin positiboa dauka. Mantentze programak aukera egokia dira eleaniztasunari balioa emateko eta hizkuntza gutxituen transmisioa bermatzeko.
+
+### Murgiltze programak
+
+Murgiltze programak jatorrian hizkuntza nagusia duten ikasleei zuzenduta sortu ziren, bigarren hizkuntza (H2) modu naturalean ikas zezaten. Programa hauek H2an oinarritutako irakaskuntza eskaintzen dute, eta helburua elebitasuna eta *kulturabitasuna* garatzea da. Hau da, ikasleak gai izan daitezen bi hizkuntzak erraz erabiltzeko, eta biek dakartzaten kultura erreferentziak baloratzeko.
+
+Ikasleen lehen hizkuntza (H1) ez da galtzen, eskolan tratamendu esplizitua jasotzen duelako eta eskolaz kanpoko bizitzan erabiltzen jarraitzen dutelako. Horrela, ikasleek bi hizkuntzetan trebetasunak garatzen dituzte; H2 ikastea ez da ariketa akademiko soil bat bihurtzen, baizik eta eguneroko bizipenetan txertatutako prozesu naturala.
+
+#### Murgiltze modeloak
+
+Murgiltze programak hainbat modutan antolatzen dira. Sailkapen eraginkorrak hauek hartzen dituzte kontuan: H2an hasteko unea, H2an emandako denbora eta hizkuntza kopurua:
+
+-   **H2an hasteko unearen arabera**
+    -   Murgiltze goiztiarra
+    -   Murgiltze atzeratua
+    -   Murgiltze berantiarra
+-   **H2an aritutako denboraren arabera**
+    -   Murgiltze totala
+    -   Murgiltze partziala
+-   **Zenbat hizkuntza erabiltzen diren**
+    -   Murgiltze sinplea
+    -   Murgiltze bikoitza/anizkoitza
+        -   Adibidea: <https://www.youtube.com/watch?v=nUFO92j81ck>
+
+## Ekintza didaktikoaz
+
+Atal honetan begiratu nahi zaie irakasleak hartu beharreko erabakiei; zein eurak hartzeko orduan irakasleak haztatu beharrekoei.
+
+### Elebitasun motak
+
+Murgiltze eta sumertsio programak elebitasuna desberdin eraikitzen eta garatzen dute:
+
+-   Elebitasun gehigarria: H1ari eusten zaio eta horri H2a gehitzen zaio (murgiltze programetan gertatzen dena).\
+-   Elebitasun kengarria: H1 galtzen da, eta H2ren hizkuntza eta identitate kulturala nagusitzen dira (sumertsio programetan gertatzen dena).
+
+Euskal Herrian bi egoerak aurki daitezke, eta horrek erakusten du programen aukeraketa ez dela neutrala: hizkuntzen balio sozial eta politikoarekin lotuta dago.
+
+### Etorkinekin zein programa?
+
+Gaur egun EAEko eskolak gero eta eleanitzagoak eta kulturanitzagoak dira. Horrek erronka berriak sortzen ditu: zein programa da egokiena ikasle etorkinek ikasteko prozesuan aurrera egiteko? Praktikan bi aukera nagusi planteatu izan dira. Batetik, ikasgela bereziak antolatzea, non H2ari (euskarari edo gaztelaniari) garrantzia ematen zaion ikaslea gela arruntera igaro aurretik. Bestetik, ikasgela arruntetan bertan integratzea, edukiak eta hizkuntzak batera lantzeko.
+
+EAEn aukera berezi bat garatu da: HIPI irakasleen bidezko laguntza, hau da, Hizkuntza Indartzeko Programako Irakasleak. Haien lana ikasle etorri berriei hizkuntza berria ikasten laguntzea da, gela arruntean integratu daitezen eta ikas prozesuan atzerapen handirik ez izan dezaten.
+
+Kontuan hartu behar da, hala ere, etorkinen egoera askotarikoa dela eta ezin dela sumertsio programen logikarekin parekatu. Nahiz eta instrukzioa beste hizkuntza batean izan, kasuak ez dira beti berdinak: ikasle bakoitzak bere bizipen eta premia linguistikoak ditu. Gainera, ikasle etorri berriek hizkuntza ikasteaz gain, identitateari lotutako erronkak ere bizi dituzte @urizar2023 . Horregatik, eskolek malgutasunez jokatu behar dute, eta ikasle bakoitzaren egoerari erantzun.
+
+<!--# HAU ALDATU -->
+
+Ondoko bideoan ikasle etorkinen esperientzia ikus dezakezu:\
+[es Vs ko](https://www.youtube.com/watch?v=Z1PduFLoJ0Y)
+
+::: callout-important
+## 5 urteko ume baten azalean
+
+15 minutuz pentsatu egoera honetan: 5 urteko umeak zarete eta gurasoekin batera beste herrialde batera bizitzera joan zarete.
+
+Hausnartu galdera hauen inguruan:
+
+-   Nolakoa litzateke *shock kulturala*?\
+-   Zein zailtasun izango zenituzke eskolan? Eta kalean?\
+-   Zein eragin izango lukete faktore hauek: erlijioa, hizkuntza, hezkuntza sistema, eguraldia…?
+
+Ondoren, irakurri dagokion testua eta erantzun sumertsioari buruzko galderei. Azkenik, azpimarratu murgiltze eta sumertsioaren arteko ezberdintasun nagusiak.
+:::
+
+### Sumersioa vs. Murgiltzea
+
+Ikusi dugun bezala, sumertsio eta murgiltze programak bi logika oso desberdinen arabera diseinatzen dira. Sumertsio programetan ikasleak derrigorrez gizarte nagusiaren hizkuntza eta kulturara egokitu behar dira, askotan beren lehen hizkuntza galtzearen truke. Murgiltze programetan, ordea, ikasleak aukera moduan sartzen dira H2an, eta helburua da ikasleek elebitasuna eta kulturabitasuna garatzea, H1ari eutsiz.
+
+Ondoko taulan bi ereduen arteko alde nagusiak ikus daitezke:
+
+| Sumertsioa | Murgiltzea |
+|:-----------------------------------|-----------------------------------:|
+| Derrigorrezkoa | Hautazkoa |
+| Ikasle batzuk ezagutu eta beste batzuk ez | Gehienak ez du ezagutzen |
+| Irakasle elebakarrak (ikasleen H1 ezagutzen ez dutenak) | Irakasle elebidunak |
+| Input-a ez dago egokituta | Input-a egokituta |
+| Erroreak porrot gisa interpretatzen dira | H2 erroreak ikaste prozesuaren parte dira |
+| Ikasleen H1 ez da egokia edo estandarra | Ikasleen H1 gizartean ondo ikusia |
+| H1 ez da erabilgarria eskolan | Eskolan H1 ere erabil daiteke |
+| Ez da H1 irakasten | H1 ere irakasten da |
+
+### Murgiltze klasearen arazo batzuk
+
+Murgiltze programak arrakastatsuak izan badira ere, zenbait muga ere azaleratu dira ikerketetan. Adibidez, Hammerlyk [-@hammerly1991] adierazi zuen ikasleek askotan ulermena lortzen dutela baina ez behar den moduko mintzamen gaitasun komunikatiboa. Hau da, ikasleak gai dira mezua jasotzeko, baina hizkuntzaren egitura gramatikaletan eta diskurtsoaren antolaketan hutsuneak dituzte.
+
+Horren eskutik, Lysterrek [-@lyster1998] ohartarazi zuen hizkuntza-erroreen fosilizazioa goiz hasten dela murgiltze programetan. Ikasleek egiten dituzten akatsak behin eta berriz errepikatzen badira, zuzenketarik gabe, akats horiek ohiko bihurtu eta zuzentzeko aukerak murriztu egiten dira, nolabaiteko onarpena lortzen dutelako, komunikazioak aurrera egiten baitu.
+
+Kontuan izatekoa ere bada hau; Swain-ek [-@swain1985] Kanadako frantses murgiltze programak aztertzean ikusi zuen ikasleek ulermen selektiboa garatzen zutela: hitz solteak, keinuak eta testuingurua erabiliz mezua jasotzen zuten, baina hizkuntzaren analisi sakonik egin gabe. Horrek esan nahi du ikasleak gai direla eguneroko komunikaziorako, baina ez dute behar besteko gaitasunik garatzen, ekoizpen linguistiko zehatz eta aberats baterako.
+
+Horregatik, ikerketa hauek guztiek argi uzten dute murgiltze programetan ez dela nahikoa inputa ematea. Beharrezkoa da outputari eta hizkuntzaren formari ere arreta eskaintzea.
+
+### Hiztun minoritarioak
+
+Euskal Herriko testuinguruan, murgiltze programen erronka nagusietako bat hiztun minoritarioen presentzia da. Euskara H1 duten ikasleen kopurua baxua denean, zaila da ikasle horiek murgiltze prozesuan eredu linguistiko sendo izatea. Hizkuntza- diglosiaren azterketak erakusten digun moduan, hizkuntza harremanak, aparteko laguntzarik gabe, hizkuntza nagusian egingo dira, ikasle H1 euskaradunen artean ere gaztelania nagusituta. Hori gainditzeko, ezinbestekoa da euskara H1 duten hiztunen balioa nabarmentzea, eta identitate hori hezkuntza-prozesuan hedatu eta indartzea.
+
+Bide horretan, *Pulunpa (e)ta Xin!* programak ikasle etorri berrientzako harrera eta murgiltze-plan integrala proposatzen du, aisialdiaren bidez euskara, euskal kultura eta hiztun-komunitatearekiko atxikimendua sustatuz [@guiradoirasuegi2023]. Ekintza-ikerketa horrek azpimarratzen du nola familia, aisialdia eta hezkuntza formala elkarlanean egonik, hiztun minoritarioen presentzia erdiestea errazten den.
+
+Bestalde, soziolinguistikaren esparruan, Lizeaga Elizaldek [-@lizeagaelizalde2017] 'hiztun berri' kontzeptua landu du: euskara bigarren hizkuntza moduan ikasi duten pertsonen hizkuntza-identitatearen perzepzioari buruz hizkuntza gutxituen egoera aztertzen du, eta euskararekin duten identifikazioaren dinamika azaleratzen du. Horrek gogorarazten du hizkuntza identitatea landu beharrekoa eta garrantzitsua dela. Eta hiztun minoritarioen aitortza sozialerako oinarri pedagogikoa eskaintzen du.
+
+Horregatik, garrantzitsua da euskara H1 duten ikasleen hizkuntzari eustea eta balioztatzea. Eskolak ez ezik, familiek ere paper garrantzitsua dute horretan: gurasoekin euskaraz aritzea etxean, eskolaz kanpoko jardueretan euskaraz parte hartzea eta hizkuntza praktikatzeko aukera aberatsak eskaintzea funtsezkoak dira. Horrela, hiztun minoritarioek euskararen transmisioan eta murgiltze prozesuan laguntza erabakigarria eskaintzen dute.
+
+### Murgiltze klaseetan kontuan izatekoak
+
+Murgiltze programak arrakastatsuak izan daitezen, irakasleek hainbat faktore hartu behar dituzte kontuan. Krashen-en [-@krashen1981] inputaren hipotesiaren arabera, ikasleek hizkuntza ikasteko nahikoa input jaso behar dute: input horrek ulergarria, interesgarria eta kalitatezkoa izan behar du eta kantitate nahikoan eskainia. Bide horretatik ibilita, hizkuntza benetan izango da esanguratsua ikasleentzat.
+
+Hala ere, inputa ez da berez ikaskuntza bihurtzen. Schmidt-en [-@schmidt1990] *kaptazioaren hipotesiak* azaltzen duenez, ikasleak kontzienteki ohartu behar dira hizkuntzazko elementu berriez; igartzen ez dena ezin baita ikasi. Horregatik, irakaslearen zeregina ez da soilik inputa eskaintzea, baizik eta ikasleen arreta hizkuntzaren ezaugarriengana zuzentzea ere.
+
+Bestalde, Long-ek [-@long1983; -@long1996] garatutako *interakzioaren hipotesiak* azpimarratzen du ikasleen arteko komunikazioak duen garrantzia. Ikasleek hizkuntza egoera errealetan erabiltzeko aukera behar dute, eta interakzio horietan sortzen diren negoziazio prozesuek hizkuntza ikasteko aukera aberatsak eskaintzen dituzte.
+
+Ondorioz, murgiltze geletan ezinbestekoa da input ulergarria eskaintzea, aldi berean, ikasleek output esanguratsua ekoitzi behar dute eta hizkuntzaren elementuei arreta eskaintzeko aukerak sortu ere bai.
+
+### Kontuan hartu beharrekoak
+
+Ikusi dugunez, inputa ezinbestekoa da H2 ikaskuntzarako, baina ez da nahikoa. Ikasleek hizkuntza ekoitzi behar dute, eta horrek esan nahi du output esanguratsua sortzeko aukerak behar dituztela. Irakaslearen egitekoa izango da aukera horiek diseinatzea eta gidatzea.
+
+Horretarako, garrantzitsua da ikasleen komunikazio premiak identifikatzea eta horiei erantzuteko hizkuntza baliabide egokiak eskaintzea. Outputa ez da kantitate kontua soilik: kalitatezkoa eta ikasleen garapen mailara egokitua izan behar du. Ikasleek behar dute bai komunikazio arruntetarako baliabide linguistikoak, bai ikaskuntza akademikoetarakoak ere.
+
+Irakasleak komunikazio estrategiak sustatu behar ditu: hitz ezezagunak inguruko testuingurutik ulertzen ikastea, sinonimoak edo birformulazioak erabiltzea, galderak egiten ausartzea... Estrategia hauek guztiek ikasleak hizkuntza erabiltzeko autonomia handiagoa izatera eramango dituzte.
+
+Horri lotuta, Schmidt-en [-@schmidt1990] kaptazioaren hipotesiak gogorarazten digu ikasleek arreta jarri behar dutela hizkuntza ezaugarrien gainean ikasteko; Long-en [-@long1983; -@long1996] interakzioaren hipotesiak, berriz, ikasleek elkarrekin komunikatzeko aukerak behar dituztela azpimarratzen du. Bi ikuspegi hauek argi uzten dute irakaslearen lanaren muina ez dela soilik edukiak transmititzea, baizik eta ikasleen artean komunikazioa eta arreta linguistikoa eragitea ere.
+
+::: callout-important
+## Talde hausnarketa
+
+Murgiltze geletan ikasleek H2 erabili behar dute ikaskuntza benetan esanguratsua izan dadin. Baina ikasleek ez dute eskolako hizkuntza menperatzen hasieran, eta irakaslearen zeregina izango da haiei komunikatzeko behar dituzten hizkuntza baliabideak eskaintzea. Horregatik, hausnartu taldeka ondoko galderei buruz:
+
+-   Zer egin dezake irakasleak umeen H2ren erabilera aktiboa eta esanguratsua sustatzeko murgiltze geletan?\
+-   Zein egoera komunikatibo sortu daitezke umeek H2a modu naturalean erabiltzeko?\
+-   Zein hizkuntza baliabide behar dituzte ikasleek ikaste prozesuan zailtasunak gainditzeko?\
+-   Nola saritu edo balioztatu daiteke umeen ahalegina H2an komunikatzeko?
+
+Gogoratu: hitz egiten hitz eginez ikasten da. Zuen proposamenetan pentsatu beti irakasle modura jardungo duzuela.
+:::
+
+### Proposamen batzuk klasean H2a sustatzeko
+
+Irakasleak ezinbesteko papera du ikasleen H2aren erabilera aktiboa eta esanguratsua bultzatzeko. Horretarako, zenbait estrategia praktiko erabil daitezke:
+
+-   Giro egokia sortu, ikasleak seguru eta motibaturik senti daitezen.\
+-   H2ren erabilera testuinguratua ahalbidetuko duten egoerak diseinatu, eguneroko bizitzarekin eta ikasleen interesekin lotuta.\
+-   Hasieran, komunikazio egoera erraz eta erritualizatuei eman garrantzia, umeek aurreikusi eta parte hartu ahal izan dezaten.\
+-   Diseinatu egoera komunikatibo erakargarriak, jolasa edo proiektu txikiak erabiliz.\
+-   Proposatu ikasleen gustuko eginkizunak eta gaiak, haien parte-hartzea indartzeko.\
+-   Espazioa eta denbora antolatu umeek hitz egiteko aukerak ugaritzeko.\
+-   Ikasleen komunikazio premiak asetzeko hizkuntza baliabide egokiak eta nahikoak eskaini.\
+-   Umeak diskurtso mota desberdinekin jarri harremanetan (kontaketa, azalpena, elkarrizketa...).\
+-   Umeen H1 errespetatu, eta H2 erabiltzeko egiten duten ahalegina afektiboki balioztatu eta saritu.
+
+Helburua ez da soilik hizkuntza ikastea, baizik eta hizkuntza horretan bizitzea eta komunikazio errealak sortzea.
+
+### Gelako erritualak
+
+Murgiltze geletan ohiko egoerak behin eta berriro errepikatzen dira aldaketa txiki batzuekin. Horrelako egoerak, erritual edo errutinak izenez ezagutzen direnak, aurreikusten errazak dira eta ikasleei segurtasuna eskaintzen diete.
+
+Erritualek aukera ematen dute interakzio erregularrak sortzeko eta ikasleek hizkuntza modu erraz eta automatizatuan erabiltzeko. Egoera horietan funtzio eta egitura komunikatibo sinpleak agertzen dira, errepikakorrak eta laburrak, eta horrek ikasleei parte hartzea errazten die. Haurrek segurtasuna irabazten dute, eta hizkuntza erabiltzeko ausardia handiagoa lortzen dute.
+
+Horregatik, gelako eguneroko jardunean erritualak baliatzea estrategia oso eraginkorra da: harrerako agurrak, materiala banatzea, eguraldiari buruzko komentarioak edo jarduera baten amaierako formulak ikasleen hizkuntza ikaskuntza indartzeko une baliotsuak dira.
+
+::: callout-important
+## Ariketa: Gela hirueleduna
+
+Eleaniztasuna ez da Euskal Herriko berezitasun bakarra; Europako beste herrialde askotan ere hizkuntza aniztasunari irtenbidea bilatzeko programak sortu dira. Adibide interesgarria da Frisiako eskola batean grabatutako esperientzia hau. Ikasgelan hiru hizkuntza nagusi erabiltzen dira, baina horiez gain beste hizkuntza batzuk ere integratzeko estrategia berritzaileak erabiltzen dituzte.
+
+Bideoa hemen ikus daiteke:\
+<https://www.futurelearn.com/courses/multilingual-practices/0/steps/22654>
+
+Horrelako planteamenduek badute lotura gure inguruko esperientziekin ere. Gaur egun bai Hego Euskal Herrian bai Ipar Euskal Herrian gero eta indar handiagoa ari da hartzen Hizkuntzen Trataera Bateratuak, euskaran ardaztutako irakaskuntzan[^06-murgiltzea-1]. Ikuspuntu horretan ez da hizkuntza bakoitza isolatuta lantzen, baizik eta hizkuntza guztiak batera uztartzeko estrategiak bilatzen dira, ikasleen hizkuntza guztion baliabideak kontuan hartuz. Horrela, hizkuntzak ez dira lehian ikusten, baizik eta ikaskuntza prozesuan lagungarri diren baliabide osagarri modura @manterola2023 .
+
+Hausnartu ondoko galderei buruz:
+
+-   Zein estrategia erabiltzen dituzte gelan hiru hizkuntza nagusiekin beste hizkuntzak integratzeko?\
+-   Antzekotasunik ikusten duzu euren eta gure eskolen artean?\
+-   Holako metodologia eskola guztietan eta hizkuntza guztiekin erabil daiteke?\
+-   Zein aldaketa proposatuko zenituzke zuk?
+:::
+
+[^06-murgiltzea-1]: Gaur-gaurkoz nahitaezko hezkuntzan erabili beharreko dekretuak *hizkuntzen ikaskuntza integratu*z hitz egiten du HTB aipatzeko @77/20232023 (6 art. 9puntua) .

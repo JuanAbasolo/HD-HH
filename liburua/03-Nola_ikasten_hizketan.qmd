@@ -1,0 +1,319 @@
+# Nola ikasten du umeak hizketan?
+
+Komunikazioaren garapena lehen urteetan etxean eta eskolan
+
+Galdera nagusi batek gidatuko du kapitulu osoa: nola bereganatzen du umeak hizkuntza bere lehen urteetan? Galdera horri erantzuteko hiru ardatz nagusi landuko ditugu:
+
+1.  Hizkuntza komunikatzeko tresna gisa: jabekuntza eta garapena komunikazioaren markoan.
+2.  Umearen eta helduaren eginkizuna hizkuntzaren jabekuntza-prozesuan.
+3.  Komunikazioaren garapena lehen urteetan.
+
+Hasteko, ikus dezagun lehenengo ardatza.
+
+## Hizkuntza: Komunikatzeko tresna
+
+Zer behar da hizkuntzak eraginkortasunez funtziona dezan? Hurrengo diagramak oinarrizko elementuen laburpena eskaintzen du:
+
+![Hizkuntzaren erabilerarako elementuak](images/paste-7.png)
+
+::: {.content-visible when-format="html"}
+![](mermaid/fig-3-1.mmd)
+:::
+
+Hizkuntza tresna da, eta tresna hori erabiltzen ikasteko umeek hainbat esperientzia behar dituzte:
+
+-   Besteekin elkarrekintzan aritzea.
+-   Inguruko pertsonekin askotariko jarduerak bizitzea eta partekatzea.
+-   Helduen laguntza jasotzea, hauek umearen garapen momentura egokitutako estrategiak erabiliz.
+
+Guretzat agerikoa izan daitekeen arren, gogoratu behar dugu hizketan jardutea ez dela bakarrik “hitz egitea”: komunikazio prozesu zabalago baten parte da. Horregatik, kontuan izan beharrekoak dira:
+
+-   Hizkuntzaren jabekuntza ez da lehenengo berbarekin hasten, baizik eta komunikazioaren oinarriak ikastean.
+-   Berbaren agerpena prozesu horren barne ulertu behar da: beharrizan zehatzei erantzuteko sortutako baliabide eraginkorra da hitza, hizkuntzaren garapeneko ernamuina.
+-   Hizkuntzaren jabekuntza eta garapena komunikazioaren markoan ulertu behar dira.
+
+## Umearen eta helduaren eginkizuna hizkuntzaren jabekuntza-prozesuan
+
+Hizkuntzaren jabekuntza prozesuan, bai umeak bai helduak eginkizun garrantzitsua dute, eta bien arteko elkarreragina funtsezkoa da garapen linguistiko arrakastatsurako. Alde batetik, umeak ez daude pasiboki jasotzen hizkuntza, baizik eta hizkuntzaren eraikuntzan parte hartzen duen subjektu aktibo gisa jokatzen dute, beren behaketa, esperimentazioa eta erabileraren bidez. Bestetik, helduek —gurasoek, zaintzaileek edo inguruko hiztunek— ekarpen garrantzitsua egiten dute, umeen ulermen eta ekoizpena errazteko estrategiak erabiliaz. Testuinguru horretan, *formatuak* deituriko interakzio-egiturak eta helduek erabiltzen duten *andamiatzea* dira umeen hizkuntza-esperientziak egituratzen dituzten tresna nagusiak. Halaber, helduek haurrei zuzentzen dieten hizkerak (adibidez, tonua, egitura sinplifikatuak edo errepikapenak) umeen ulermena eta arreta errazten dute. Atal honetan lau ikuspegi horiek aztertuko ditugu, ume eta helduen arteko harremanaren dimentsio linguistiko eta didaktikoa hobeto ulertzeko.
+
+### Umearen paper aktiboa hizkuntzaren garapenean
+
+Umea, jaiotzetik aurrera, bere esperientziak interpretatzen saiatzen da, eta horretarako dituen estrategia mugatuak erabiltzen ditu. Ez da pasiboa: hizkuntza aktiboki eraiki egiten du.
+
+-   Ezagutza-arloetan bezala, komunikazioan ere umeak aurre egiten die sortzen zaizkion arazoei. Material linguistikoa aztertu, inferentziak eta dedukzioak egin, oinarrizko legeak atera eta hipotesiak formulatzen ditu.
+-   Ez du jasotzen duen informazioa mekanikoki gordetzen: berreraiki egiten du, bere aurreezagutzetan oinarrituta.
+-   Ezagutzen duen material linguistikoarekin esperimentatzen du, hipotesiak egiaztatzeko bideak bilatuz[^03-nola_ikasten_hizketan-1].
+
+[^03-nola_ikasten_hizketan-1]: Honetan eta aurreko puntuetan esandakoen adibidetzat har daiteke aurreko kapituluan ikusitako ume biren arteko elkarrizketa.
+
+Lan hori egiteko, beharrezkoa du informazioa, hizkuntzari eta haren erabilerari buruz. Informazio hori interpretatzeko estrategiak ere garatu behar ditu. Baina, interpretazio ahalmen mugatuak direla eta, ezinbestekoa da **helduen laguntza**: haiek erraztuko diote bidea.
+
+### Helduaren ekarpena umearen eraikuntza-lanean
+
+Helduak, lehen momentutik, haurrarekin komunikatzen saiatzen da. Gogoan izan haur jaioberri baten aurrean ia automatikoki berari hitz egiten diogula —nahiz eta jakin ez duela oraindik ulertzen—.
+
+Helduaren ekarpen nagusiak:
+
+-   Umearekin dituen harreman komunikatibo zuzenetan hizkuntzari eta erabilerari buruzko informazioa eskaintzen dio.
+-   Umeak eraikitako hipotesiak baieztatu edo zuzendu egiten ditu.
+-   Umearen lana errazten du, **andamiatze-prozesuaren bidez**, haurraren gaitasunetara egokituz:
+    -   interakzio marko egonkor eta mugatuak eskaintzen (formatuak),
+    -   hizkera eta esanahiak egokituz,
+    -   eta bestelako estrategia osagarriak erabiliz.
+
+Heldua entzule aktiboa da: arreta jartzen du umeak adierazten duena ondo ulertzeko, eta haren esanak baliatzen ditu gaia garatzeko edo umea gehiago parte hartzera bultzatzeko.
+
+### Formatuak: andamiatze mota
+
+Formatuak dira helduaren eta umearen arteko elkarrekintzaren patroiak, testuinguru mugatu, egonkor eta ezagunetan. Rolak argi banatuta daude, eta umeak pixkanaka bereganatzen du hasieran helduarena izan den rola.
+
+Normalean, eguneroko errutinetan erabiltzen ditugu formatuak: jatean, lo hartzean, garbitzean, jolasean...
+
+Formatu mota nagusiak bi dira:
+
+-   Arreta bateratuko formatuak: helduak eta haurrak une berean arreta objektu jakin batean jartzen dute (adib. irudi-liburuen irakurketa).
+-   Ekintza bateratuko formatuak: heldua eta haurra objektu batekin batera aritzen dira (adib. hartu-emaneko jolasak, sartu-aterakoak, eraikibotakoak...).
+
+::: callout-tip
+## Adibidea
+
+> Zaintzailea (objektua seinalatuz): Begira.\
+> Haurra: (...)\
+> Zaintzailea: Zer da hori?\
+> Haurra: (...)\
+> Zaintzailea: Txakurtxoa.\
+> Haurra: (...)\
+> Zaintzailea: Bai, txakurtxoa. Nola egiten du txakurtxoak?\
+> Haurra: (...)\
+> Zaintzailea: Uau, uau.\
+> Haurra: Au.\
+> Zaintzailea: Holaxe, bai, uau, uau.
+:::
+
+Formatuak interpretazio marko gisa funtzionatzen dute:
+
+-   Ingurua ulergarriago egiten diote umeari, bere gaitasun mugatuak kontuan hartuta.
+-   Umearen parte-hartzea errazten dute.
+-   Oinarrizko termino eta egitura linguistikoak eskaintzen dizkiote.
+
+::: callout-tip
+## Adibidea: helduak andamiatzen du umearen diskurtsoa
+
+> Ama -: Esan izekoari non egon zaren.\
+> Umea -: Parke.\
+> Ama -: Parkean, bai, parkean egon gara. Eta zer ikusi duzu? Esan izekoari zer ikusi duzun.\
+> Umea -: Kua-kua.\
+> Ama -: Ahatetxuak, ezta?\
+> Umea -: Bai.\
+:::
+
+### Helduak ume txikiari zuzentzen dion hizkeraren ezaugarriak
+
+Haurrek hizkuntza ikasten dutenean ez dira ezagutzaren hartzaile pasiboak, baizik eta prozesu aktibo eta sozial batean parte hartzen duten subjektu aktiboak. Hizkuntzaren jabekuntza ez da haurraren buruan isolatutako garapen bat; alderantziz, testuinguru sozialean eta harremanetan txertaturik gertatzen da. Prozesu horretan, haurra bera da hizkuntza eraikitzen duena bere erabilera eta esperientzien bidez, baina era berean, inguruko helduek —bereziki familia ingurukoek— funtsezko eginkizuna dute. Helduen laguntza eta hizkuntza-jokabideek haurrek ulertu eta komunikatzeko duten gaitasuna egituratu eta aberasten dute. Atal honetan, ume eta helduaren arteko elkarrekintzan oinarritutako hizkuntzaren jabekuntza-prozesua aztertuko dugu: haurraren jarrera aktiboa, helduaren ekarpena, komunikazioaren egiturak (formatuak eta andamiatzea), eta haurrei zuzendutako hizkeraren ezaugarri bereziak izango ditugu hizpide.
+
+Hizkera berezi bat erabiltzen dugu ia gizarte guztietan:
+
+-   Tono altuagoak eta intonazio markatuagoa.
+-   Erritmo motelagoa.
+-   Sistema linguistiko sinplifikatuagoa:
+    -   artikulazio argia,
+    -   esaldi laburrak eta sinpleak,
+    -   lexiko arrunta eta errepikakorra.
+-   “Orain eta hemen” testuinguruari oso lotua.
+-   Galderazko, agintezko eta harridurazko perpaus ugari.
+-   Hedatzeak: umearen esanak gramatikalki osatu edo semantikoki aberasten dituzten erantzunak.
+
+Hizkera mota horrek umea erosoago sentiarazten du, arreta errazten du eta hizkuntza-eredu argia eskaintzen dio.
+
+Hizkuntzaren jabekuntza prozesua eraikuntza aktiboa da: umeak hipotesiak formulatu eta egiaztatzen ditu, eta helduak andamiatze estrategiak erabiliz erraztu egiten dio. Formatu eta hizkera berezi horien bidez, umearen komunikazio-gaitasuna modu eraginkorrean garatzen da.
+
+## Komunikazioaren garapena lehen urteetan
+
+Umeen hizkuntza-garapenaren oinarriak lehen urteetan jartzen dira. Etapa hauetan komunikazioaren forma ezberdinak sortzen dira, eta pixkanaka haurra hizkuntza erabiltzen hasten da.
+
+### Komunikazio aurrelinguistikoa
+
+Komunikazio aurrelinguistikoan umeak oraindik ez ditu hitzak erabiltzen, baina komunikatzeko modu eraginkorrak garatzen ditu.
+
+#### Hastapenak (0-4 hilabete)
+
+**Umea**:\
+- Izaki aktiboa da, inguruarekin harremanetan jartzen da eta interpretatzen saiatzen da.\
+- Portaera ezberdinak erakusten ditu pertsonekin eta objektuekin.\
+- Berezko portaera batzuei esker (erreflexuak, biorritmoak, aurpegi-erakarpena, giza ahotsaren bereizmena, bokalizazioak...) lehen harreman sozial primitiboak garatzen ditu, nahiz eta oraindik intentziorik ez izan.
+
+**Heldua**:\
+- Hasieratik saiatzen da komunikazio-harremanak sortzen.\
+- Ume txikiaren portaerei intentzioa eransten die eta bere portaera haurrarena egokitzen saiatzen da: mugimenduak, keinuak eta bokalizazioak txandakatuz (proto-elkarrizketa).\
+- Interakzio-marko egonkorrak eskaintzen dizkio, bera izanik harremanaren gidaria.\
+- Afektibitate adierazpen ugariz aberasten du elkarrekintza.
+
+#### Garapena (5-12 hilabete)
+
+Etapa honetan, komunikazioan jauzi garrantzitsuak gertatzen dira:
+
+-   4-6 hilabeterekin umeak objektuekiko interesa erakusten du, eta umea-heldua bikotea triangelu komunikatibo bihurtzen da.
+-   Bere portaeren balio komunikatiboa ikasten du: keinuak, aurpegiera, begirada eta bokalizazioak erabiliz asmoak, interesak eta nahiak adierazteko.
+-   Bokalizazioak gero eta gehiago hurbiltzen dira inguruko hizkuntzaren soinuetara.
+-   Urte bukaeran jolas berriak sortzen dira, eta horietan elkarrizketaren arauak barneratzen ditu (Bruner-ek "jolas formatuak" deituak).
+-   Afektibitateak jarraitzen du izaten komunikazioaren aurrerapenen motor garrantzitsuetako bat.
+
+#### Jolasak eta komunikazioaren garapena
+
+Urte bukaeran agertzen diren jolasek (hartu-eman, sartu-atera, kuku…) elkarrizketaren oinarrizko arauak islatzen dituzte:
+
+-   Asmoen iragarpena: bestearen nahia interpretatzea eta norberarena adieraztea.
+-   Mekanismo deiktikoak: testuingurura erreferentzia egitea.
+-   Gai bateratuak: gaia partekatzea eta horren inguruan bariazioak egitea.
+
+### Komunikazio linguistikoa
+
+Komunikazio linguistikoa hitzen erabilerarekin hasten da eta berehala bizkortzen da umearen garapena.
+
+#### Hastapenak (12-24 hilabete): keinutik berbara
+
+-   Garapen biologiko eta kognitiboarekin batera, komunikazio-esperientzia konplexuagoak izaten ditu.
+-   Asmoak modu zehatzago eta ekonomikoagoan adierazi nahi ditu, eta horrek **hitzak** erabiltzea bultzatzen du.
+-   Lehen berbak keinuen funtzioak ordezkatzen dituzte (eskatzea, eskaintzea, ukatzea...).
+-   Hasieran ez dute helduentzat duten esanahia bera; pixkanaka egokitzen dira erabilera arruntera.
+-   18-24 hilabete inguruan, berbak funtzio berriak betetzen hasten dira: informazioa eskatu, galderak erantzun…
+
+#### Garapena (2-3 urte)
+
+Umeak hizkuntza gaitasun berriak bereganatzen ditu:
+
+-   Hiztegiaren hazkunde azkarra: kategoria gramatikal guztietako hitzak erabiltzen ditu (izenak, aditzak, izenordainak, adjektiboak, artikuluak...).
+-   Aditzak hasieran infinitiboan eta orainaldian.
+-   Lehen konbinazio sintaktikoak sortzen ditu.
+-   Hiru urterako gai da mintzagaiari jarraitu eta informazioa gehitzeko, baita argitzeko eskaerak egiteko ere.
+
+#### 3 urteko umea
+
+**Sozialki**: Elkarrizketaren oinarrizko arauak ezagutzen ditu eta interakzioak izan ditzake. Hala ere, arrakasta gaiaren eta solaskidearen trebetasunaren menpekoa izango da.
+
+**Kognitiboki**: Mundua kategorizatu du eta buru-errepresentazioak erabiltzen ditu gertakizunak ulertu, aurresan eta gogoratzeko.
+
+**Linguistikoki**: Oinarrizko egitura linguistikoak eraikitzen ditu gertatutakoaren berri emateko eta laguntzaz informazio berria partekatzeko. Hala ere, oraindik mugatua da gaitasuna diskurtso luze eta autonomoetan.
+
+(M. Comadevall & M.C. Cardona) <!--# EGOKITU! -->
+
+### HHko lehen zikloko irakasle batek kontuan hartzekoa
+
+Lehen hezkuntzako lehen zikloan, irakasleak kontuan izan beharko ditu haurraren komunikazioaren ezaugarriak:
+
+-   Umeak hizkuntza komunikazio-harreman errealetan ikasten du, motibagarriak eta bere ahalmenetara egokituak badira.
+-   Hasieran interakzioaren antolaketa helduaren esku dago.
+-   Afektibitatea funtsezkoa da garapenerako.
+
+\
+
+Lehen urteetan komunikazioa aurrelinguistikoa da hasieran, baina 12 hilabetetik aurrera hitzek garrantzia hartzen dute. Hitzaren bidez, umearen komunikazio-gaitasuna azkar zabaltzen da: lehen keinuen funtzioak ordezkatuz, geroago hiztegia eta egitura sintaktikoak garatuz. Hiru urterako, umea gai da hizkuntzaz baliatuz mundua partekatzeko, nahiz eta oraindik mugak izan diskurtso autonomoetan.
+
+### 3-6 urteko umea
+
+Haurra hazten doan heinean, bere hizkuntza gaitasunak ere aberasten eta konplexuagotzen ditu. Etapa honetan berdinen arteko interakzioak gero eta garrantzi hangikoagokoak dira, eta hizkuntzak funtzio berri asko betetzen hasten dira.
+
+#### Umearen ezaugarriak {.unnumbered}
+
+-   Askotariko interakzio-testuingurutan parte hartzen du, asmo eta solaskide ezberdinekin. Hizkuntzaren erabileran duen esperientzia zabaltzen eta aberasten doa.
+-   Garapen kognitiboan aurrerapen garrantzitsuak egiten ditu: hiru urterekin zuen egozentrismoa gainditzen hasten da, espazio eta denbora erlazioetan aurrera egiten du, arrazoitze logikoak ulertzeko gai da eta bere ezagutzak kontzeptu berriekin erlazionatzen ditu.
+-   Hiztegia aberastu egiten du eta baliabide linguistiko berriak eskuratzen ditu.
+-   Hizkuntzaren erabileran aurrerapen handiak egiten ditu testuinguruari lotuta eta, pixkanaka, testuingurutik askatzeko lehen pausoak ematen ditu.
+
+#### Hizkuntzaren erabilera: kontestualizatutik deskontestualizatura {.unnumbered}
+
+Kontuan hartu behar da haurrak hiru urte inguruan zailtasunak dituela oraindik diskurtsoa “hemen eta orain”-etik haratago eramateko. Lau urterako, ordea, helduaren diskurtso deskontestualizatua ulertzeko eta ekoizteko trebetzen hasten da. Bost urterako gai da produkzio-testuinguruan presente ez dauden gauzez eta gertaerez hitz egiteko.
+
+| Erabilera kontestualizatua | Erabilera deskontestualizatua |
+|------------------------------------|------------------------------------|
+| Mezua ulertzeko testuinguruak eta ez-hitzezko kodeek laguntzen dute | Mezua ulertzeko hitzetan oinarritu behar da, testuinguruak informazio gutxi eskaintzen du |
+| Esanahia zuzenean negoziatzeko aukera dago | Esanahia negoziatzeko aukerak mugatuagoak dira |
+| Hiztegi eta egitura linguistiko arruntagoak erabiltzen dira | Hiztegi zehatzagoa eta egitura konplexuagoak behar dira |
+
+#### Hizkuntza pentsamenduaren eta ekintzaren laguntzaile {.unnumbered}
+
+Hizkuntza ez da bakarrik besteekin komunikatzeko tresna: umeak bere buruarekin ere komunikatzeko eta jarduera antolatzeko erabiltzen du.
+
+-   **3 urte**: hizkuntzak umearen jarduera laguntzen du, baina oraindik ez du jarduera planifikatzeko balio.
+-   **4 urte**: hizkuntza ekintza aurreratzen eta antolatzen hasten da; hizkuntza egozentrikoa nagusi.
+-   **5 urte**: hizkuntzak ekintza planifikatzeko eta antolatzeko balio du, tresna kognitibo gisa funtzionatuz.
+
+Besteek umearekin dituzten harremanetan hizkuntza asmo ezberdinetarako erabiliko dutenez, umea erabilera edo funtzio horietan trebatuz joango da.
+
+#### Hizkuntza funtzioen garapena {.unnumbered}
+
+Haurrek hizkuntzaren bidez hainbat funtzio betetzen dituzte, lehenik oinarrizkoak, geroago abstraktuagoak.
+
+-   Lehenengo: norberaren burua finkatu, gidatu, kontatu.
+-   Geroago: arrazoitu, iragarri, proiektatu, imajinatu.
+
+Funtzio bakoitzean, umearen erabilitako estrategiek erakusten dute zein puntutan dagoen garapena, eta horrek bere pentsamenduaren konplexutasun maila islatzen du.
+
+-   umeak funtzio horiek burutzeko erabiltzen dituen estrategia ezberdinek adieraziko dute garapenaren zein puntutan aurkitzen den, hau da, adierazten duen pentsamenduaren konplexutasun maila
+
+-   Umeak hiztegia aberastu eta hizkuntzaren oinarrizko egiturak eskuratuko ditu.
+
+#### Umearen berbetaren ezaugarri formalak {.unnumbered}
+
+**3 urte**:\
+- L1eko fonema gehienen ahoskatzea.\
+- Izenordain posesiboak, adjektiboak eta erakusleen erabilera.\
+- 3-4 hitzeko esaldi sinpleak.\
+- Aditzak orainaldian eta aginteran.\
+- Aditzen aspektu burutuaren eta geroaren hastapenak.
+
+**4 urte**:\
+- Hiztegi zabala eta nahiko zehatza.\
+- Izenordain pertsonalen erabilera zuzena.\
+- Perpaus konposatuen erabileraren hastapenak (bereziki koordinatuak).\
+- Galderetan izenordain galdetzaileen erabilera.\
+- Baldintzazko eta subjuntiboen hastapenak.
+
+**5 urte**:\
+- L1eko fonemen ahoskatze zuzena.\
+- Hiztegi aberatsa.\
+- Esaldi konposatuen erabilera (koordinatuak eta menpekoak).
+
+### 5-6 urteko umea
+
+Etapa honetarako haurraren garapena nabarmenagoa da:
+
+**Sozialki**: Jolasa hizkuntzaren bidez planifikatzen du eta besteekin koordinazio handiagoz jokatzen du, nahiz eta gatazkak oraindik gerta daitezkeen.
+
+**Kognitiboki**: Bere ezagutza kontzeptualean bere kulturako hainbat eduki barneratzen ditu (landareak, animaliak, zenbakiak, espazioa, denbora…). Eduki horiek azalpen luzeagoak ulertzeko eta garrantzitsua dena gogoratzeko gaitasuna ematen diote.
+
+**Linguistikoki**: 5000-6000 berba inguruko hiztegia du, egitura sintaktiko eta diskurtsibo sendoak erabiltzen ditu eta hizkuntzaren erabilera pragmatikoa ulertzen du, talde sozialaren barruan aritzeko nahikoa den neurrian.
+
+## Laburpena
+
+![Erabilera kontestualizatutik deskontestualizaturako bidea](images/paste-8.png)
+
+::: {.content-visible when-format="html"}
+![](mermaid/fig-3-3.mmd)
+:::
+
+| Hezitzaileak kontuan hartzeko | Egitekoak |
+|------------------------------------|------------------------------------|
+| Haurrak komunikazio egoeratan parte hartuz ikasten du hitz egiten | Komunikazio egoerak sortu, antolatu |
+| Hizkuntzaren funtzio ezberdinak garatzeko, umeak askotariko komunikazio egoeratan parte hartu behar du | Era askotako komunikazio egoerak sortu, antolatu |
+| Behar-beharrezkoa umeak komunikazio egoeratan parte hartu nahi eta ahal izatea | Haurrarentzako esanguratsuak eta neurrikoak diren eginkizunak proposatu |
+| Haurrak hizkuntzaren erabilera desberdinak elkarrizketetan ikasten ditu, berak baino gehiago dakien solaskide batekin | Elkarrizketa esperientzia aberatsak bultzatu |
+| Elkarrizketa esperientziak onuragarriak izateko, helduak umeak esan nahi duena kontuan hartu eta haren ahalmen linguistiko eta kognitiboetara egokituko da | Elkarrizketetan, adi egon umeak esan nahi duenari eta egokitzapenak egin berbetan eta esanahietan |
+| Ume txikiak trebetasun komunikatiboak besteekin dituen harreman komunikatibo zuzenetan menperatzen ditu | Ume bakoitzarekin harreman indibidualak bultzatu |
+| Komunikazioan aurrera egiteko, oso inportanteak dira afektiboki gratifikanteak diren harremanak | Umeentzako afektiboki betegarriak diren harremanak bultzatu |
+
+Hezitzaileek kontuan izan behar dute hizkuntza ez dela bakarrik tresna komunikatiboa: haurraren pentsamenduaren eta garapen afektiboaren motorra ere bada.
+
+## Aukerako (biblio)grafia {.unnumbered}
+
+> Gehiago eta sakonago jakiteko, oso gomendagarria da hurrengo liburua, euskaran ardaztuta eta azalpen didaktiko ugari gaztelania zein frantsesarekin:
+
+Gutierrez Mangado, M. J., & Ezeizabarrena Segurola, M. J. (2022). *Hotsetik hitzera Nola bereganatzen dute hizkuntza haur euskaldunek?* Erein Argitaletxea.
+
+> Eta bideoetan oso interesgarriak izan litezke hurrengo dokumentalok (ingelesez ekoitzitakoak):
+
+Ellis Entertainment (Director). (2004). *Baby Human*. <http://www.imdb.com/title/tt1414346/>
+
+Hickman, D., Klein, L., Britain), C. F., Entertainment (Firm), R., Ltd, W. to W. T., & Networks, D. (Directors). (1994). *Baby it's you. Volume one, In the beginning., First steps*. \[Australia\] : Roadshow Entertainment. <https://trove.nla.gov.au/version/18675181>
+
+> Bideoon gaztelaniazko itzulpenak ere badira hor zehar; euskarazkorik ez dut ezagutzen.

@@ -79,7 +79,7 @@ Zein neurritan den hori, behintzat.
 
 ## 
 
-Ideion adibide argigarri batzuk, ingelesetik gaztelaniara ekarrita, Wells (1988) liburuan:
+Ideion adibide argigarri batzuk, ingelesetik ekarrita, Wells-en (1988) liburuan:
 
 ## 
 
@@ -91,14 +91,14 @@ Ideion adibide argigarri batzuk, ingelesetik gaztelaniara ekarrita, Wells (1988)
 > M: Batzen eta kanpora eramaten babil, gero aitak ortuan zabaltzeko\
 > E: Eta zertarako botako ditu ortuan?\
 > M: Lurra ontzeko.\
-> E: Eta horrela ondo hasiko dira landarak?\
+> E: Eta horrela ondo hasiko dira landareak?\
 > M: Bai.\
 > E: Eta hori, zergatik?\
-> M: Gogoan duzu aurrekoan azaldu nizula zuk denetarik jan behar duzula, arraultzak eta azak eta porru-patatak neska handia hazteko?\
+> M: Gogoan duzu aurrekoan azaldu nizula zuk denetarik jan behar duzula, arrautzak eta azak eta porru-patatak neska handia hazteko?\
 > E: Bai.\
 > M: Ba, landareek ere denetarik behar dute. Eta haiei ondo doakienetariko bat errautsa da.
 >
-> -- Wells, *Aprender a leer y escribir*, 79 or.
+> -- Wells, (1988, 79 or.)
 
 </small>
 
@@ -125,7 +125,7 @@ Ideion adibide argigarri batzuk, ingelesetik gaztelaniara ekarrita, Wells (1988)
 > M (tonu normalean): Joan egin da?\
 > J: Bai.
 >
-> -- Wells, *Aprender a leer y escribir*, 81 or.
+> -- Wells, (1988, 81 or.)
 
 </small>
 
@@ -135,11 +135,11 @@ Ideion adibide argigarri batzuk, ingelesetik gaztelaniara ekarrita, Wells (1988)
 >
 > S: Hazia haz daiteke. Batzuk erein ahal ditugu. Sagar-hazi askotxu ditut eta, gehiago lortzen baditut, aitak eta biok egunen batean irten ahal gara, euririk egiten ez duen egunen batean, eta haziak erein genitzake. Edo nik erein ahal ditut bihar.
 >
-> -- Wells, *Aprender a leer y escribir*, 81 or.
+> -- Wells, (1988, 81 or.)
 
 ## 
 
-![Zer eragiten dizu?... eta zelan du izena?](https://upload.wikimedia.org/wikipedia/commons/0/03/Sympetrum_flaveolum_-_side_(aka).jpg)
+![Zer eragiten dizu?... eta zelan du izena?](img/Sympetrum_flaveolum_-_side_(aka).jpg)
 
 > -   Zer eragiten dizu?
 > -   ... eta ... izena zelan du?
@@ -159,7 +159,7 @@ Ideion adibide argigarri batzuk, ingelesetik gaztelaniara ekarrita, Wells (1988)
 
 ## 
 
-Kulturalki zabalpen handikoak dira bertsolaritza edo errefrauak, esate baterako.
+Berba huts eta gardenean oinarritzen diren kultur adierazpenak: bertsolaritza, errefrauak...
 
 > -   *Ago ixiletik ez da ezer jakiten*
 
@@ -175,14 +175,14 @@ Ikuspegi bikoitz batetik: norbanako legez eta Haur Hezkuntzako irakasle(gai) leg
 
 ##  {data-background="#B40404"}
 
-> -   Gure hizkuntzei zein erabilera ematen diegu? (H1/H2/...) Nahi duguna nahi dugun moduan adierazteko balio digu?
-> -   Irakasle gisa, zer garrantzia du ikasgelan hizkuntza aberatsa eta adierazkorra erabiltzea?
-> -   Zer egin dezakegu hizkuntza "tutu triste" bat balitz bezala erabili beharrean haren potentzialitate guztiaz baliatzeko?
-> -   Eta HHko gelan zein neurritan ematen zaie aukera umeei hurrengoak egiteko?
-> -   Ideiak ahalik eta ondoen formulatzeko, haien ekintzak justifikatzeko, esperimentatzen dutenaz hausnartzeko eta arrazonatzeko, argumentatzeko, azalpenak emateko, planifikatzeko, kontatzeko... ?
-> -   Haien mundu emozionalarekin konektatu eta sentimenduak eta emozioak hitzez adierazteko, haietaz kontzientzia hartzeko, emozioak eta sentimenduak konpartitzeko?
-> -   Hizkuntzarekin jolasteko, sortzeko eta gozatzeko?
-> -   Irakasle gisa, zer-nolako esperientziak eskaini ahal dizkiogu ume guztiei hizkuntzaren erabilerari dagokionean? Zelan erabili dezakegu elkarrizketa? Zer-nolako estrategiak erabili ditzakegu?
+-   Gure hizkuntzei zein erabilera ematen diegu? (H1/H2/...) Nahi duguna nahi dugun moduan adierazteko balio digute H~x~ guztiek?
+-   Irakasle gisa, zer garrantzia du ikasgelan hizkuntza aberatsa eta adierazkorra erabiltzea?
+-   Zer egin dezakegu hizkuntzaren erabilera bizi eta adierazkorraz ere adierazteko?
+-   Eta HHko gelan zein neurritan ematen zaie aukera umeei hurrengoak egiteko?
+ -   Ideiak ahalik eta ondoen formulatzeko, haien ekintzak justifikatzeko, esperimentatzen dutenaz hausnartzeko eta arrazonatzeko, argumentatzeko, azalpenak emateko, planifikatzeko, kontatzeko... ?
+ -   Haien mundu emozionalarekin konektatu eta sentimenduak eta emozioak hitzez adierazteko, haietaz kontzientzia hartzeko, emozioak eta sentimenduak konpartitzeko?
+ -   Hizkuntzarekin jolasteko, sortzeko eta gozatzeko?
+-   Irakasle gisa, zelako esperientziak eskaini ahal dizkiogu ume guztiei hizkuntzaren erabilerari dagokionean? Zelan erabili dezakegu elkarrizketa? Zer-nolako estrategiak erabili ditzakegu?
 
 # Eskolaren eginkizuna hizkuntza arloan
 
@@ -266,10 +266,6 @@ Autore askok ikuskera desberdinak hartu dituzte gaiaren gainean, baina aro kriti
 **Erreferentziak**
 
 Barreña, A. (1994, ekainak 1). Chomskyren arauak eta hizkuntz jabekuntza. *Elhuyar aldizkaria*, 1994, 25--31.
-
-Eusko Jaurlaritzaren Legebiltzarra. (2009). 2/2009 Dekretua, urtarrilaren 20koa, Haur Hezkuntzako curriculuma zehaztu, eta Euskal Autonomia Erkidegoan ikaskuntza horiek ezartzen dituena. *Euskal Herriko Agintaritzaren Aldizkaria*, 21(469), 1--41.
-
-Eusko Jaurlaritzaren Legebiltzarra. (2015). 237/2015 Dekretua, abenduaren 22koa, Haur Hezkuntzaren curriculuma zehaztu eta Euskal Autonomia Erkidegoan ezartzen duena. *Euskal Herriko Agintaritzaren Aldizkaria*, 141. <http://www.euskadi.eus/bopv2/datos/2016/01/1600142e.pdf>
 
 Gutierrez Mangado, M. J., & Ezeizabarrena Segurola, M. J. (2022). *Hotsetik hitzera Nola bereganatzen dute hizkuntza haur euskaldunek?* Erein Argitaletxea.
 
