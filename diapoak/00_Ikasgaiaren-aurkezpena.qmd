@@ -1,7 +1,7 @@
 ---
 title: "Hizkuntzaren Didaktika (HH) ikasgaiaren aurkezpena"
 author: "Juan Abasolo"
-date: '2025-09-10'
+date: '2025-09-11'
 format: 
     revealjs:
         scrollable: true
@@ -182,6 +182,8 @@ Bai, badakigu, atzo irakaslerik ez
 
 ## Irudiaren `URLa`. Ariketa
 
+::::: columns
+::: column
 1.  Aukeratu liburu bat, nahi duzuna.
 
 2.  Aurkitu haren azalaren irudia
@@ -189,11 +191,47 @@ Bai, badakigu, atzo irakaslerik ez
 3.  Kopiatu irudiaren URLa
 
 4.  Itsatsi beste nabigatzaile batean
+:::
+
+::: column
+![](images/paste-2.png){width="495"}
+:::
+:::::
 
 ------------------------------------------------------------------------
 
-Irudia baino beste ezer ikusten bada (testua, deskribapena, 404 mezua...) ez duzu irudiaren URLa lortu. Try again.
+::::::::::::: columns
+::::::: column
+:::::: callout-tip
+## OK
 
+::::: columns
+::: column
 Irudi hutsa zabaldu bada, EDERTO! Hori donk-eta!!
+:::
+
+::: column
+![](images/paste-5.png){width="362"}
+:::
+:::::
+::::::
+:::::::
+
+::::::: column
+:::::: callout-important
+## Ko
+
+::::: columns
+::: column
+Irudia baino beste ezer ikusten bada (testua, deskribapena, 404 mezua...), ez duzu irudiaren URLa lortu.
+:::
+
+::: column
+![](images/paste-4.png){width="439"}
+:::
+:::::
+::::::
+:::::::
+:::::::::::::
 
 # <br> Beharrari ekin!!
