@@ -176,6 +176,24 @@ Bai, badakigu, atzo irakaslerik ez
 
 ![EHUko liburutegi nagusiko palkak 2025ean, Haur Hezkuntzarako-eta literaturakoak](img/EHU_liburutegia_ipuinak.jpg){fig-align="center"}
 
-# <br> Beharrari ekin!!
+## Liburuen txostena: Galdetegitik
 
-##
+![Bete beharrekoa\[[\*](250902_Albumen_txostenakDEMO.pdf)\]](images/paste-1.png)
+
+## Irudiaren `URLa`. Ariketa
+
+1.  Aukeratu liburu bat, nahi duzuna.
+
+2.  Aurkitu haren azalaren irudia
+
+3.  Kopiatu irudiaren URLa
+
+4.  Itsatsi beste nabigatzaile batean
+
+------------------------------------------------------------------------
+
+Irudia baino beste ezer ikusten bada (testua, deskribapena, 404 mezua...) ez duzu irudiaren URLa lortu. Try again.
+
+Irudi hutsa zabaldu bada, EDERTO! Hori donk-eta!!
+
+# <br> Beharrari ekin!!
