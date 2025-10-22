@@ -378,7 +378,7 @@ Egoerak antolatzeko orduan, kontuan izan:
 
 ## 
 
-Hezkuntza-egoeren ekarpena umearen hizkuntzaren garapenerako egoeren ekarpena umearen hizkuntzaren garapenerako: landu daitezkeen alderdi linguistiko eta komunikatiboak (adibideak)
+Hezkuntza-egoeren ekarpena umearen hizkuntzaren garapenerako: landu daitezkeen alderdi linguistiko eta komunikatiboak (adibideak)
 
 Direcció General d'Ordenació i Innovació Educativa, & Departament d'Educació. (2004)
 
@@ -466,7 +466,7 @@ Elkarrizketaren bidez, hitz egiten irakasteaz gain, lagundu ahal diegu umeei "pe
 
 ##
 
-```{r}
+```{r echo=FALSE}
 knitr::include_graphics("../liburua/images/paste-2.png")
 ```
 
