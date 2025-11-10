@@ -280,6 +280,8 @@ Irakurri @barreña1994 [artikulua](https://zientzia.eus/artikuluak/chomskyren-ar
 9.  Zertan oinarritzen da hizkuntza jabekuntzaren garapena?
 
 <!--# Barreñaren testua azpimarratuta -->
+
+Artikulua azpimarratuta hemen dago eskuragarri: [testu azpimarratua](../beste/Barena/Barrena_1994_Chomskyren_arauak_eta_hizkuntz_jabekuntza.pdf)
 :::
 
 ## Bibliografia osagarria {.unnumbered}

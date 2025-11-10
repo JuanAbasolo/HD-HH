@@ -161,21 +161,14 @@ Ikasgelan, beraz, bi maila bereizten ditugu:\
 - **Harremanetarako hizkuntza** (erabilera ez-formala, egunerokoa).\
 - **Hizkuntza akademikoa** (erabilera formala, eskolan sistematikoki landu beharrekoa).
 
-+-------------------------------------------------+-----------------------------------------------------+
-| Harremanetarako hizkuntza                       | Hizkuntza akademikoa                                |
-+=================================================+=====================================================+
-| Etxean eta kalean modu espontaneoan garatzen da | Eskolan ikasten da, modu sistematikoan              |
-+-------------------------------------------------+-----------------------------------------------------+
-| Testuinguru ez-linguistikoaren laguntza du      | Ez dauka testuinguru ez-linguistikoaren laguntzarik |
-+-------------------------------------------------+-----------------------------------------------------+
-| Esanahia negozia daiteke                        | Esanahia testuan bertan dago                        |
-+-------------------------------------------------+-----------------------------------------------------+
-| Sintaxia eta egitura sinpleak                   | Sintaxia eta egitura konplexuak                     |
-+-------------------------------------------------+-----------------------------------------------------+
-| Lexiko arrunta eta ezaguna                      | Lexiko espezifikoa eta konplexua                    |
-+-------------------------------------------------+-----------------------------------------------------+
-| Kognitiboki eskakizun gutxikoa                  | Kognitiboki eskakizun handikoa                      |
-+-------------------------------------------------+-----------------------------------------------------+
+| Harremanetarako hizkuntza | Hizkuntza akademikoa |
+|----|----|
+| Etxean eta kalean modu espontaneoan garatzen da | Eskolan ikasten da, modu sistematikoan |
+| Testuinguru ez-linguistikoaren laguntza du | Ez dauka testuinguru ez-linguistikoaren laguntzarik |
+| Esanahia negozia daiteke | Esanahia testuan bertan dago |
+| Sintaxia eta egitura sinpleak | Sintaxia eta egitura konplexuak |
+| Lexiko arrunta eta ezaguna | Lexiko espezifikoa eta konplexua |
+| Kognitiboki eskakizun gutxikoa | Kognitiboki eskakizun handikoa |
 
 Eskolak, hortaz, haurrei aukera eman behar die hizkuntza kolokialetik abiatuta pixkanaka hizkuntza akademikora hurreratzeko. Bide horretan, elkarrizketa, ipuinen kontaketa eta talde-lana funtsezko tresnak dira.
 
